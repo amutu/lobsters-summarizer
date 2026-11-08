@@ -1,0 +1,185 @@
+# lobste.rs 热门文章中文摘要 · 2026-08-22
+
+共处理 25 篇, 成功 19 篇, 跳过 6 篇。
+
+---
+
+## 1. 在 nightly 上启用下一代 trait 求解器
+
+- 原始链接: <https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/>
+- 英文标题: Enabling the next-generation trait solver on nightly
+
+Rust 编译器团队在经过近四年的开发后，于 2026 年 8 月 21 日在 nightly 版本中默认启用了下一代 trait 求解器，并计划在未来数月内稳定该功能。这是 Rust 编译器自发布以来最大的一次改动，彻底替换了原有 trait 求解方式，涉及 where 子句的证明、关联类型归一化等核心机制。该改动修复了超过 200 个 GitHub 问题，并显著影响编译性能；虽然长期收益主要在于解锁 Type Alias Impl Trait、Return Type Notation、新的隐式 trait 边界（如 Move 和 Forget）以及修复类型系统的不健全性，但当前已经带来大量修复。文章重点说明了几个主要变化：impl Trait 的处理方式几乎完全改变，修复了递归函数等相关 bug；高阶类型中引用绑定变量的关联类型处理更正确，移除了一些错误推断，但也导致 bevy、minijinja 等 crate 的破坏；编译性能经过大量优化，crates.io 前 20000 个 crate 的测试显示大部分性能相当，部分 trait 密集型 crate 获得巨大提升，如 datafusion 编译速度提高 8 倍以上，而基于类型系统的国际象棋实现从旧版挂起变为约一分钟完成。团队呼吁用户测试最新 nightly 并报告问题，同时提供了通过 -Znext-solver=coherence 回退旧行为的方法。错误信息的质量仍需改进，已知问题在 GitHub 上跟踪。
+
+---
+
+## 2. Gleam的酷炫之处
+
+- 原始链接: <https://a.baez.link/3mtdbbp2dmc27>
+- 英文标题: The cool things of Gleam
+
+这篇文章是一位开发者学习Gleam语言后的快速笔记，核心观点是Gleam的简洁性非常吸引人。作者列举了语言中几个值得称赞的设计：@deprecated属性可以标注弃用函数并提供迁移指引，类似GraphQL的用法；todo作为基础构造，允许开发者标注待办事项并附加说明；泛型实现直接，通过类型参数即可，无需复杂约束；case表达式统一了模式匹配，可简洁处理列表解构等场景，比Elixir的多种机制更纯粹；Gleam设计为无异常，使用Option和Result类型处理可选值与错误；也没有空值，只有Nil类型且不能赋给其他类型。文章总结道，正是这种极致的简单性让Gleam脱颖而出，开发体验非常愉快。
+
+---
+
+## 3. OpenTelemetry 进展不顺：我用电子表格分析了问题所在
+
+- 原始链接: <https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/>
+- 英文标题: OTel Isn't Going Well (And I Made A Spreadsheet About It)
+
+文章探讨了 OpenTelemetry（OTel）项目面临的困境。作者指出，尽管 OTel 致力于构建真正厂商中立的可观测性标准，但用户普遍感觉项目“尚未完成”，这源于其严格的稳定性承诺、庞大的语言与框架覆盖范围，以及维护者数量严重不足之间的冲突。作者通过分析多个语言 SDK（如 PHP、Ruby、Go、.NET）的 GitHub 活动数据，发现贡献高度集中在少数维护者身上，与 Envoy、Prometheus 等健康 CNCF 项目形成鲜明对比。同时，语义约定仓库中的讨论耗时较长，但并未显著阻塞下游 SDK；真正的瓶颈在于稳定性门槛导致的新特性推进缓慢，以及维护者过载。作者提出若干建议：引入有时间限制的 Beta 阶段，让实验性功能更易被用户使用并收集反馈；明确不同 SDK 的实际维护水平（如 Go 与 Ruby 并非同等成熟），避免误导；并公开呼吁社区投入更多维护者。文章强调，OTel 的核心问题不是“摊子铺太大”，而是稳定承诺与人力资源不匹配，导致项目被冻结在缓慢的进展中。
+
+---
+
+## 4. 工作中永远不要生气
+
+- 原始链接: <https://www.seangoedecke.com/you-should-never-be-angry-at-work/>
+- 英文标题: You should never be angry at work
+
+作者提出一条普遍适用的职场建议：在工作中绝不要愤怒。他指出，愤怒在职场具有毒性，会让同事变成需要应对的问题，破坏会议和沟通氛围，甚至导致自己被排除在关键决策之外，形成恶性循环。愤怒往往源于对工作的高度在乎，但这种在乎若超过组织能容纳的程度，就会化为愤怒；而只展示一点“职业性愤怒”有时能传递关心、引起注意，但真正动怒仍是错误。作者强调，像Linus Torvalds等知名工程师可以愤怒，是因为他们本身掌控决策权，普通人模仿只会适得其反。他还认为愤怒只是“局部最优”，虽能带来投入感和存在感，却会限制自己的有效性与长远影响力。最终，他建议通过平衡个人生活或调整关心对象来疏导情绪，并指出自己经过职业成长后虽不再容易动怒，却更高效，说明愤怒并非高效工作的必要条件。
+
+---
+
+## 5. 日本曾试图为整个世界打造操作系统，美国政府出面干预
+
+- 原始链接: <https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/>
+- 英文标题: Japan tried to build an operating system for the entire world, then the US government intervened
+
+1984年，东京大学研究员坂村健发起TRON项目，旨在为日本构建从嵌入式芯片到个人电脑的全栈计算架构。其桌面系统BTRON提出了超前概念：以类型化文档部件取代文件和应用程序，用系统管理的链接代替路径，并设计了理论容量达150万字符的TRON Code编码，远超当时的Unicode。TRON获得日本政府和各大电子企业支持，还开发了自有CPU。1989年，美国贸易代表办公室在年度贸易壁垒报告中点名TRON，称日本政府推动TRON用于学校电脑和NTT通信网络，构成市场干预。虽然未施加制裁，但这一事件重创了TRON声誉，日本厂商纷纷退出。文章还提到软银创始人孙正义可能因自身业务受损而借美国报告扼杀BTRON，坂村健本人也指认此事。最终，BTRON未能在个人电脑市场立足，但其嵌入式版本ITRON却悄无声息地广泛部署于相机、汽车、手机等设备，成为历史上最普及的操作系统之一。
+
+---
+
+## 6. 将卡西欧F-91W改装成非接触式支付设备
+
+- 原始链接: <https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device>
+- 英文标题: Turning My CASIO F-91W Into a Contactless Payment Device
+
+作者是一位网络安全工程师，出于对非接触支付的便利性需求，决定将经典卡西欧F-91W手表改装成非接触式支付设备。文章详细记录了完整的技术过程：首先分析了非接触支付卡的工作原理，包括NFC技术、微芯片和天线结构，以及新式双界面卡通过电感耦合实现芯片与天线无线连接的技术。作者使用NanoVNA网络分析仪、Proxmark3 RFID工具和RFID-RC522模块等设备进行信号测量和卡片读取。通过加热拆解支付卡，发现卡内包含两个耦合天线，并测量其谐振频率。为绕过复杂的天线设计理论，作者发明了一种名为“钓鱼调谐”的方法：用3D打印制作线轴，将芯片置于中心，用0.10mm漆包铜线绕制内外线圈，通过盲调方式实现天线匹配。文章还展示了如何使用Proxmark3分析卡片信号，并最终完成手表的拆解与改造，将支付芯片和自制天线集成到手表内，实现“魔法般”的隔空支付。全文既包含射频理论讲解，也提供了实用的改装步骤和工具建议，体现了极客的创造力和动手精神。
+
+---
+
+## 7. LLVM 23 的编译时间改进
+
+- 原始链接: <https://aengelke.net/llvm23-ct.html>
+- 英文标题: Compile-Time Improvements in LLVM 23
+
+LLVM 23 在 -O3 构建中实现了显著的编译时间改进，整体提升 6.75%，其中 sqlite3 达到 10.53%。本文总结了主要改进来源。在 ADT 方面，哈希表改用线性探测和紧凑位数组存储占用，移除 tombstone 键，并将哈希函数迁移到 xxh3；SmallVector 的 push_back 增长路径被移出并支持尾调用优化；后序遍历重写以降低迭代器开销。支配树改用子-兄弟表示和 bump 分配器，避免分配并减少 malloc/free 调用。IR 数据结构中，successors() 实现为 Use 范围迭代器，拆分 Br 为 UncondBr 和 CondBr，收紧 IR 合法性检查，并优化元数据存储为单向量链表，使查询更快。引入块编号替代指针，多个分析如 MemoryDependenceAnalysis、LoopInfo 等受益。后端方面，GlobalISel 在 AArch64 -O0 的端到端减速从 12.71% 降至 9.39%，但本地化器改进被回退。Clang 通过降低静态查找表密度阈值和优化调试位置元数据，改善了 C++ 程序编译。此外，LLVM 开始使用预编译头文件（PCH），构建时间约缩短 45%。文章还提及减少共享库启动时的页错误和重定位等优化。
+
+---
+
+## 8. 停止制作终端用户界面（TUI）
+
+- 原始链接: <https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/>
+- 英文标题: Stop Making TUIs
+
+作者结合近期使用AI（Claude、Codex）辅助构建多个原生macOS应用的经验，主张开发者应停止构建TUI，转而默认制作原生图形界面。文中展示了MDV、SageMath前端、DJ Roomba音乐播放器、LLMwiki、食物卡路里追踪器、温度监控菜单栏应用和Apple TV遥控器等实例，这些应用均由AI生成，质量达到可用的原生应用水平。作者认为，CLI因脚本化、管道和远程管理而不可替代，但TUI是上世纪70年代受限于调制解调器和哑终端的产物，相对GUI显得过时、敌意且受限。针对TUI常见的优势论点，他逐一反驳：信息密度和快捷键可以通过精心设计的GUI实现；生产环境上真正需要的是可被本地GUI驱动的CLI，而非远程TUI；屏幕阅读器处理TUI动态字符画效果很差，而现代原生框架内置无障碍支持；跨平台虽然勉强成立，但作者并不想为不打算发布的应用牺牲体验。最后，由于AI大幅降低了原生开发门槛，作者呼吁前端和后台程序员重新校准认知，把构建原生UI作为合理默认选择。
+
+---
+
+## 9. 编程语言语义与内存安全
+
+- 原始链接: <https://burakemir.ch/post/formal-semantics/>
+- 英文标题: Programming Language Semantics and Memory Safety
+
+文章从形式语义学的角度剖析编程语言的定义，并解释了未定义行为（UB）与内存安全的内在联系。作者提出，编程语言不仅是工具，而应由语法和语义严格定义。语义学包含三种核心视角：操作语义（解释器视角，描述代码逐步执行）、指称语义（编译器视角，将程序映射为数学函数）和公理语义（断言视角，通过Hoare三元组逻辑验证前置/后置条件）。围绕C/C++中的未定义行为，文章指出操作语义将其视为规范缺口，而公理语义中前置条件一旦不成立，逻辑爆炸可推出任意结论，这为编译器优化提供了极强假设，甚至可能将越界循环优化为死循环。单个内存安全错误会使程序进入逻辑空洞，破坏周围所有代码的前提保证。相比之下，Rust通过类型系统和借用检查器，在编译期以数学方式证明程序不存在UB，从而提供更强的安全保证。理解这些语义模型，有助于从原理上认识语言的安全性与编译器行为。
+
+---
+
+## 10. 机器人评论分类器：识别AI生成的代码注释
+
+- 原始链接: <https://entropicthoughts.com/ai-comment-classifier>
+- 英文标题: Robot comment classifier
+
+本文介绍作者开发的一个源代码注释分类器，用于判断注释是由人类还是机器人（大语言模型）生成的。作者在工作代码中发现，AI生成的注释会虚构系统属性，比如声称某操作“通常”可以跳过，但机器人并不真正理解领域中的“通常情况”。为辅助判断，他收集大量带时间戳的代码注释，以2025年10月为分界，将之前的人类注释与之后的机器人注释作为代理标签，并基于字符频率、常用词频率、词性标注频率以及字符/词性n-gram等特征训练逻辑回归模型。结果显示，机器人注释更常使用破折号、分号、括号、句号结尾、“so”、“its”和形容词；人类注释则更多使用代词、限定词、代码引用和TODO注释等。模型整体准确率约80%，对短注释和混合来源的注释仍会误判，因此只能作为辅助证据。作者也指出，模型主要区分的是Anthropic模型与人类，而非所有机器人；高置信度误判较少见，但性能受限于注释短小和训练标签不准确。分类器的最大价值在于揭示了AI与人类在代码注释中的文体差异，而非给出绝对可靠的判断。
+
+---
+
+## 11. 薛定谔的邮件：一次邮件转发排障记
+
+- 原始链接: <https://yashgarg.dev/posts/the-schrodinger-email/>
+- 英文标题: The Schrödinger Email
+
+作者因需将多个信用卡账单归集到第三方应用（如CRED、Fold）而面临邮件转发难题。他不想向这些应用授予完整邮箱权限，于是使用一个独立邮箱，通过邮件规则转发银行邮件，但转发会丢失原始发件人信息，因此希望找到一种能保留完整信息的转发方案。他首先在Outlook中设置规则，将测试邮件重定向到Gmail，却遭到Gmail以“发件域声誉过低”为由的硬性拒绝。深入调查后，他发现原因在于邮件转发会产生第二次SMTP投递，首次投递的SPF、DKIM、DMARC认证结果不会自动延续到第二次投递。Gmail作为接收方会重新评估认证和发件方声誉，导致重定向邮件被拒。他随后尝试了多个解决方案：添加@outlook.com别名（无效，因为重定向仍沿用旧身份）、通过Cloudflare Email Routing中转（依然失败，因多层转发无助于解决认证问题）、使用Cloudflare Email Worker自定义转发（但仍会在消息到达Worker前进行认证检查，失败消息直接丢弃）。最终，作者放弃了技术性抗争，手动将所有与银行相关的邮件从Outlook迁移至Gmail。文章生动展示了邮件系统在跨服务转发时的认证障碍，并指出有时最简单直接的办法反而是最有效的。
+
+---
+
+## 12. 写给程序员的乐理：从物理到十二平均律
+
+- 原始链接: <https://runjs.app/blog/music-theory-for-programmers>
+- 英文标题: Music theory for programmers
+
+本文面向程序员，从声音的物理本质出发，用代码和可听示例重新推导音乐理论。作者指出声音本质上是一个随时间变化的数，频率决定音高；包络决定音符从无声到无声的响度曲线，并显著影响听感。谐波级联解释了音色差异，也解释了为什么频率加倍听起来是同一个音（八度）。文章进一步展示，简单频率比（如2:1、3:2、4:3、5:4）听起来和谐，而复杂或不合理的比例会产生拍频与不协和感。通过反复叠加纯五度（3/2）试图构造音阶，会得到毕达哥拉斯音差：十二个纯五度略大于七个八度，无法闭合，因为2的幂与3的幂永远不可能相等。现代音乐采用的十二平均律是将八度均分为12份，每份为2的1/12次方，从而牺牲纯律换来自由转调。作者用暴力搜索说明12是最少且足够好的分割数：它在约0.1%误差内逼近纯五度，其他小于12的分割远不如它。最终，音高变成整数，可用MIDI编号表示。全文强调音乐理论不是任意的约定，而是可由物理和算术推出的系统。
+
+---
+
+## 13. 软件依然有理由变慢：对“LLM 让性能优化更便宜”的质疑
+
+- 原始链接: <https://typesanitizer.com/blog/performance-issues.html>
+- 英文标题: There continue to be reasons for software to be slow
+
+这篇文章回应了 Dan Luu 关于“有了 LLM，软件没有理由再变慢”的论点。作者虽支持性能优化，但认为该论点忽略了现实中许多前提不成立的情况。即使假设工程师是理性且信息完全的，以下场景仍会阻碍性能改进：第一，人们接受异步工作的延迟，例如容忍 LLM 自动补全的等待，从而降低了对同步性能的敏感度；第二，许多公司的软件部门被视为成本中心，根本没有性能预算；第三，LLM 的引入反而压缩了项目时间表，使预算减少；第四，LLM 带来的成本降低被高估，因为优化代码的落地、防回退机制、数据迁移、维护成本等往往远超编写代码本身；第五，性能工作未被排上优先级的原因从来不是成本，而是优先级本身，LLM 不会改变这一点。作者还分析了 pgrust 和 FRE 两个实例，指出其亮眼表现可能过度拟合 ClickBench 等基准，且实现代码量巨大（FRE 约 67 万行，接近 Go 编译器加标准库的规模），难以在真实产品中推广。最后作者承认软件变慢的部分感知可能源于记忆偏差，但整体趋势与资源消耗增加是真实存在的。
+
+---
+
+## 14. Roomy 正式向公众开放
+
+- 原始链接: <https://blog.roomy.space/3mplw6vvw4s23>
+- 英文标题: Roomy is generally available
+
+Roomy 宣布其应用正式向公众开放。作为一款基于 atproto（AT Protocol）的社区空间应用，Roomy 始终以 atproto-first 为原则，并依托 Atmosphere 身份体系。在权限数据（permissioned data）协议稳定后，团队投入大量精力补全缺失的基础组件，最终提出了名为 The Arbiter 的组管理服务标准。该标准建立在权限数据之上，用于管理社区 DID、空间、成员及角色，并已获得协议同行的认可。客户端方面，Roomy 进行了重大调整：放弃原先复杂的 local-first/p2p 架构，改为基于 AppView + XRPC 的瘦客户端，使其更接近标准的 atproto 客户端，从而显著加快功能迭代和问题修复。UI 设计上，Roomy 移除了类似 Slack/Discord 的垂直空间切换栏，采用类似 Notion 的工作区设计，让用户更专注于当前空间，同时会提供可选的切换功能。商业方面，团队计划在下周公布面向企业的首个商业产品，随后将暂时休息。文章还附带了合作作者的相关博客链接，供读者进一步了解。总之，Roomy 以协议原生的方式实现了社区管理服务，并朝着更简单、更专注用户体验的方向发展。
+
+---
+
+## 15. KDE 中的 Btrfs 快照集成：KIO Snapshot
+
+- 原始链接: <https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/>
+- 英文标题: Btrfs Snapshot Integration in KDE
+
+本文介绍了 KIO Snapshot，一项将 Btrfs 快照直接集成到 KDE 软件中的新功能。作者首先解释了背景：Btrfs 快照效率高、占用空间小，适合做通用撤销或时间旅行功能，但 Linux 桌面一直缺乏像 Windows 先前版本或 macOS 时间机器那样的文件管理器原生集成。KIO Snapshot 的目标就是填补这一空白。它允许 Dolphin 及其他 KDE 程序列出和访问文件或子卷的快照：用户可右键点击文件，查看其所有历史版本，并能以虚拟文件夹方式浏览整个子卷在多个快照中的目录树。该工具只提供访问，不负责创建快照，创建需手动或通过 Snapper 等调度工具。实现上，KIO Snapshot 使用 libbtrfsutil 与文件系统交互，并用 Solid 查询挂载信息，以 KIO worker 形式提供 snapshot:// 协议。作者最初尝试以系统级 DBus 服务获取子卷信息，后经 Méven Car 提示，通过替代方法实现了无需 root 即可完成全部功能。此外还修复了 KIO 和 Solid 的相关 bug，并在 Dolphin 中设置了专用视图选项。KDE Linux 将默认随附 Snapper 和 KIO Snapshot，用户主目录已改为子卷并自动配置。首个稳定版本已于当日发布。作者呼吁用户测试并报告问题。
+
+---
+
+## 16. 自制68K电脑配备PCI总线
+
+- 原始链接: <https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/>
+- 英文标题: Homebrew 68K Machine Has A PCI Bus
+
+文章介绍了由[maniek86]打造的一台基于摩托罗拉68000处理器的自制电脑，其独特之处在于配备了PCI总线。PCI总线自1992年推出后成为PC平台的标准扩展接口，但很少出现在摩托罗拉机器上。该电脑采用万能板和飞线搭建，没有使用定制PCB。核心配置包括10 MHz的68000 CPU、1 MB SRAM、4 KB ROM，以及用作UART、定时器和I/O控制的MC68681P。最关键的是，一块Xilinx Spartan II FPGA（XC2S100）被用作PCI桥，提供了两个32位5伏PCI插槽，支持中断但不支持总线主控。此外还有一块XC95144XL CPLD作为粘合逻辑连接各部件。作者详细解释了PCI总线实现的难点及最终解决方案，并展示了如何通过该总线连接PCI串口扩展卡和Cirrus VGA显卡等设备。文章还提及作者曾制作过基于486的单板计算机，并附有演示视频。
+
+---
+
+## 17. Rust 1.98.0 发布公告
+
+- 原始链接: <https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/>
+- 英文标题: Announcing Rust 1.98.0
+
+Rust 团队于 2026 年 8 月 20 日发布了 Rust 1.98.0 稳定版。本次更新带来了三项主要改进。首先，浮点类型 f32 和 f64 新增了“代数”方法（如 algebraic_add、algebraic_sub 等），允许编译器利用实数代数性质对浮点运算进行优化，例如重新结合加法或实现循环向量化。这些方法的结果是非确定性的，但不会导致未定义行为。其次，所有原始整数类型新增了 format_into 方法，配合不透明的 NumBuffer 缓冲区，可高效地将整数格式化为十进制字符串，性能接近专用库 itoa，有望成为标准替代方案。此外，修复了 ManuallyDrop 与 Box 交互的未定义行为问题，并更新了文档以提供稳定保证。该版本还稳定了多项 API，包括 str::substr_range、[T]::subslice_range、core::fmt::NumBuffer、NonZero 整数的 from_str_radix、String 的 UTF-16 LE/BE 转换方法、strip_circumfix、Atomic 相关操作等。用户可通过 rustup update stable 升级，更多详情见官方发布说明。
+
+---
+
+## 18. 这个周末你打算做什么？
+
+- 原始链接: <https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend>
+- 英文标题: What are you doing this weekend?
+
+这是一篇发布于编程社区Ask Programming板块的帖子，标题为“这个周末你打算做什么？”，作者邀请读者分享周末计划，并强调“什么都不做”也是完全可接受的。帖子下方有31条评论，用户们纷纷介绍了各自的安排。有人发布了第一个副业项目并迎来了首批付费客户；有人计划去西雅图观看妻子参演的十分钟戏剧节；有人去旧金山攀岩；有人重温28年前学过的数字信号处理并阅读信息论书籍；有人因肩膀受伤而修整房车并研究Home Assistant改装；有人参加波士顿的Handmade聚会；有人参加DjangoCon大会；有人带孩子去州博览会、玩D&D；有人重做项目的登录注册流程；有人为大学图形学课程搭建三维场景；有人尝试修复iPod mini并更换CF卡；有人测试DIY手机的4G模块；有人去五指湖度假；有人准备读《Programming Elm》；还有人因感冒卧床休息。整体氛围轻松友好，既有技术实践，也有家庭生活与休闲娱乐，体现了程序员社区的真实日常与多样兴趣。
+
+---
+
+## 19. Go 中的数据竞争与内存模型
+
+- 原始链接: <https://func25.dev/posts/go-memory-visibility/>
+- 英文标题: Data races and the memory model in Go
+
+文章通过一个看似正常但存在数据竞争的程序为例，深入解释 Go 内存模型。作者指出，一个 goroutine 写入的值不会被另一个 goroutine 自动看到，除非程序显式同步。文中用 `done` 布尔标志和 `msg` 字符串的例子说明：即使循环等待 `done` 变为 `true`，Go 也不保证该写入对其他 goroutine 可见，编译器或 CPU 可能重排指令，导致读到旧值。对于多字长的结构体、字符串等，竞争还会产生撕裂值。文章进一步用两个 goroutine 各写一个变量再读另一个变量的实验，展示了在真实 M 系列机器上 20 万次运行中两次出现双 0 的“不可能”结果，强调硬件弱内存模型的影响。随后给出正确的同步方式：`atomic.Bool` 的 `Store`/`Load` 建立 happens-before 关系、`sync.Mutex` 的 Lock/Unlock 传递可见性、`sync.WaitGroup` 等待任务完成、关闭 channel 通知接收方、`sync.Once` 保证初始化后可见。最后指出原子操作遵循全局顺序，可避免双 0 结果，但无法组合多字段更新，此时仍需互斥锁。文章核心是提醒开发者：数据竞争不仅结果未定义，还可能造成难以复现的 bug，应使用同步原语而非依赖直觉。
+
+---
+
+## 未能总结的条目
+
+- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) — hnhot already done
+- [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/) — hnhot already done
+- [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html) — hnhot already done
+- [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/) — hnhot already done
+- [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [Small, native web tricks worth remembering](https://htmlcat.net) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面

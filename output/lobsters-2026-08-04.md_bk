@@ -1,0 +1,194 @@
+# lobste.rs 热门文章中文摘要 · 2026-08-04
+
+共处理 25 篇, 成功 20 篇, 跳过 5 篇。
+
+---
+
+## 1. 终结Cookie横幅：欧盟提案与行业阻挠
+
+- 原始链接: <https://killthecookiebanner.eu/>
+- 英文标题: Kill the Cookie Banner
+
+本文呼吁公众支持“消灭Cookie横幅”行动。文章指出，欧盟隐私法本就默认禁止在线追踪，但追踪行业为了获取用户同意，发明了Cookie横幅，并故意设计得具有误导性，导致高达90%的人点击“同意”，而真正愿意被追踪的仅约3%。2025年秋季，欧盟委员会在“数字综合法案”改革中提出解决方案：通过浏览器自动发送隐私偏好信号，让用户一次设置即可向网站或应用传达接受、拒绝或限制追踪的选择，从而免除反复弹出的Cookie横幅。该技术并不新颖，浏览器早已自动发送语言偏好，美国部分州也已立法支持此类信号。然而，以谷歌为首的追踪行业担忧高效表达偏好会降低同意率，因此积极游说，多个欧盟成员国及行业团体正阻挠欧洲议会通过该提案。文章呼吁读者联系欧洲议会议员或本国代表，表达对Cookie横幅的不满，推动消灭这一系统。同时，文中特别澄清：该提案只是“数字综合法案”的一部分，其他多数改革内容存在问题、可能削弱用户权利，他们并不支持其他部分。这场斗争尚未结束，需要公众参与施压。
+
+---
+
+## 2. 别当AI的“肉代理”
+
+- 原始链接: <https://gruhn.me/blog/2026-08-03/>
+- 英文标题: Don't be a meat proxy
+
+作者在文章中批评了一种常见行为：在Slack、代码评审或群聊中，直接粘贴AI（如Claude）生成的大段回复，却不加任何消化或解释。作者承认自己也曾这样做，但作为接收方，他认为这种方式毫无价值：对方本可以直接与AI对话，无需一个“肉代理”在中间转述。AI输出通常冗长、充满看似合理却可能错误的表述，还夹杂大量专业黑话。他举了一个例子——一句关于NATS控制平面事件的句子，几乎每个词都需要查字典才能理解。作者并非反对使用AI，而是主张不要简单转发输出；应当先阅读、理解、验证，再用自己的话写出回复，这才能体现人的价值。他以代码评审为例：如今可以几乎零成本地产出代码，但如果不看AI生成的代码，也不理解评审反馈，而只是把它们在AI和评审者之间来回复制粘贴，那么真正做实现的是评审者，而你只是充当了“肉代理”。核心结论是：AI可做助手，但人必须负责理解和把关，否则只是无意义的中间人。
+
+---
+
+## 3. 寻求帮助
+
+- 原始链接: <https://lake.computer/blog/help-wanted/>
+- 英文标题: help wanted
+
+文章以开源维护者Lake Hope的第一人称讽刺口吻，描述其免费软件项目遭遇的荒诞生态。他拒绝了退款要求、许可证更改为MIT的请求，并关闭了所有非指定贡献者的PR，尤其是那些由AI辅助编写的代码。他讽刺了其他项目的高人气和Windows支持，强调自己的项目采用AGPLv3-or-later并托管在Codeberg，认为价值观比stars重要。他目睹一个由LLM自动合并PR的项目，批评其烧钱行为。他还提到申请欧洲基金会资助被拒，用ChatGPT找美国资助却得到死链。关于供应链攻击，他提到贡献者Purple Peony可能引入了恶意绑定，而他自己也承认进行了提示注入攻击。最后，他的项目被fork，有人发布CVE，他依然表示欢迎贡献，但排除特定人群。文章末尾还提到他本人仍在找工作，讽刺这些遭遇无助于此。
+
+---
+
+## 4. 你的JSON正在对你说谎
+
+- 原始链接: <https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/>
+- 英文标题: Your JSON Is Lying to You
+
+文章揭示了JSON.stringify和JSON.parse在JavaScript中会默默改变数据的事实。通过控制台示例展示：大整数9007199254740993序列化后变成…992，undefined属性被删除，Date变为字符串，NaN变为null。根源在于JSON有意设计为最小、可移植的传输格式，只支持字符串、数字、布尔、null、数组和对象，无法精确表达JavaScript的全部类型。数字精度问题源于IEEE 754双精度上限，超出安全整数范围会舍入，BigInt直接抛错，建议用字符串承载精确整数。undefined在对象中被省略、在数组中转成null，导致缺失属性与值为undefined无法区分；对象键顺序在JS中稳定但JSON规范定义为无序，跨语言不保证，需要顺序时应改用数组。JSON还会擦除类型：Date变成ISO字符串、Map/Set/RegExp/Error变成空对象、NaN和Infinity变成null、类实例丢失原型和方法。更隐蔽的是，JSON.stringify会调用toJSON()方法和getter，等同于执行代码，可能产生副作用。文章强调JSON不应被当作保真序列化工具，开发者必须明确界定线协议，对关键数据采用显式编码（如字符串ID），并警惕序列化边界上的隐性转换，避免把方便误变成意外的数据契约。
+
+---
+
+## 5. Rust项目目标：不可移动类型与保证析构
+
+- 原始链接: <https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md>
+- 英文标题: Rust Project Goals: Immobile types and guaranteed destructors
+
+本文是Rust官方2026-2027年的项目目标提案，聚焦于引入不可移动（!Move）和不可遗忘（!Forget）类型。当前Rust假设所有类型都可被移动和遗忘（mem::forget），这导致自引用类型需使用复杂的Pin机制，且无法保证析构函数运行，阻碍了安全scoped spawn等模式。提案引入三个新auto-trait：Move表示类型可被移动，Destruct表示可隐式析构，Forget表示可被遗忘。通过让类型选择退出这些能力，将不可移动性从位置属性改为类型属性，简化自引用编码；通过!Forget保证析构运行，使scoped任务句柄的join安全可靠。项目计划在编译器中实现MVP、编写RFC，并在Linux内核中测试，验证与Iterator的交互。同时明确今年不做Future trait的改造。提案还强调这是对Pin ergonomics方案的一种替代，目标是最终弃用Pin。文章认为这种方式基于Sized层次工作的先例，系统化放松Rust的通用假设。
+
+---
+
+## 6. 9front 发布“THIS WAS SUPPOSED TO BE FUN”版本
+
+- 原始链接: <https://9front.org/releases/2026/08/02/0/>
+- 英文标题: 9front "THIS WAS SUPPOSED TO BE FUN" Released
+
+本文介绍了 9front 操作系统的新版本发布，版本代号为“THIS WAS SUPPOSED TO BE FUN”。该版本带来了多项重要更新：改进了 affinewarp API，并让多个程序使用它进行缩放和缩放；新增 gdbfs(4) 工具，可将远程 gdb 挂载为 /proc；新增 Synaptics 触摸板驱动、用于 UPS 的 nusb/battery 驱动和用于转储 USB 描述符的 nusb/dump 工具；libsec 库增加对 SHA3 的支持；awk 新增测试套件；pc/pc64 内核支持 x2apic 等。此外，还提供了面向 PC、Raspberry Pi、MNT Reform 和 QEMU 的多种安装镜像，并给出了 SHA-256 校验和、镜像站点和 Git 仓库地址。发布说明中列出了大量内核与驱动、编译器与调试器、库及用户程序的详细变更，涵盖 gefs 文件系统的大量修复与改进、git 工具链的完善、libmemdraw 的优化、以太网驱动更新等。该版本还附带了两首由 qwx 和 hgc 创作的歌曲，以及一本名为《DASH 1 MANUAL》的手册。
+
+---
+
+## 7. 别吞下黑药丸（文字改编）
+
+- 原始链接: <https://andrewkelley.me/post/dont-take-black-pill.html>
+- 英文标题: Don't Take the Black Pill (Text Adaptation)
+
+本文是Andrew Kelley在Software Should Work 2026演讲的博客改编版。他从《黑客帝国》的红蓝药丸谈起，引出源自incel文化的“黑药丸”——一种混合虚无主义、抑郁与愤怒的绝望心态，其社群因积极成员离开而只剩消极声音，形成恶性过滤。作者坦言自己险些陷入，后从搭讪艺术家处领悟到应普遍提升自身吸引力、真诚关心他人，而非执着于单一结果。他将此类比到软件行业：工程师本有动力做好软件，却常遭管理层阻挠，于是发展出“善意不服从”等策略，如秘密行动、植入想法、声东击西等。文章核心是“能动性”：晶体管作为弱控强的隐喻，软件应服务于直接使用者，而非沦为控制人的工具。他列举了DRM、监视软件、侵入式广告、推送通知、A/B测试、暗黑模式、YouTube算法及AI代理等“胁迫软件”，指出它们操纵人类心智，甚至使大脑可被黑客入侵，例如俄罗斯利用社交媒体干预2016年美国总统选举，且此漏洞至今未修复。作者以此警示：不要接受黑药丸式的宿命论，而应认清现实并采取行动。
+
+---
+
+## 8. 这周你在做什么？
+
+- 原始链接: <https://lobste.rs/s/foxgva/what_are_you_doing_this_week>
+- 英文标题: What are you doing this week?
+
+这篇论坛帖子以“这周你在做什么？”发起每周交流，多位用户分享了本周安排。jmmv计划继续完善一个周末已接近功能完备的项目，重点开发CLI客户端及FreeBSD的rc.d集成，核心想法是构建远程服务来存储磁盘加密密钥，让NAS自动解锁加密存储池；若服务器断电超过N分钟，密钥即不可访问，从而防止设备被盗后数据被读取。regulator在学k语言（阅读kbook）并锻炼，工作收尾后周五休假。mempko运营thetix.ai，发现用户呈双峰分布：一部分人坚持使用，另一部分注册后一周内流失，因此为后者添加功能，本周测试仪表盘改动并部署。sloanelybutsurely刚入职新工作第三周，争取尽快交付，随后前往大烟山参加Miatas at the Gap活动，并已改装防倾杆和四轮定位，准备挑战Tail of the Dragon。andrewj在做数据基础设施，将个人PoC数据平台从当前的dagster/Kafka/spark/duckdb栈改造为ClickHouse和dbt，提高负载并考虑部署到EKS；同时推进一个性能工程CLI项目，通过安全约束来优化GPU上的ML脚本，目前仍存在bug和成本问题。
+
+---
+
+## 9. SQLite高危CVE疑为AI生成的虚假漏洞报告
+
+- 原始链接: <https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/>
+- 英文标题: SQLite Critical CVEs or LLM Slop?
+
+JFrog安全研究员Afek Berger发布分析，指出近期一批SQLite漏洞公告（CVE-2026-51302等）很可能是“LLM Slop”——由AI生成的无意义内容。这些公告源自一个新建的GitHub仓库，NVD和CISA ADP将其标记为严重，但JFrog验证后发现：引用的函数在目标版本中不存在或与漏洞无关，PoC无法触发崩溃，且这些CVE均未出现在SQLite官方漏洞页。文章逐一分析了6个CVE，例如CVE-2026-51302声称的exprComputeOperands()函数实际在SQLite 3.41中不存在，sqlite3ReleaseTempReg()仅回收寄存器索引、不涉及堆释放；CVE-2026-51303所谓的修复在3.51.2到3.51.3的差异中根本不存在；CVE-2026-51296引用的json.c行号超出文件长度等。作者认为，NIST自2024年2月起因漏洞报告激增而暂停深度分析，导致AI生成的虚假CVE可轻易进入GHSA、下游数据库和企业扫描器。对同一账户发布的55个公告的审计显示54个完全捏造。文章列举了识别此类虚假CVE的红旗：官方维护者未确认、无提交哈希、元数据矛盾、引用不存在的代码。最后建议安全团队不要盲目信任未知来源的新CVE，应核实影响范围，并在安全环境中复现PoC。相关发现已上报GHSA、Red Hat和NVD。
+
+---
+
+## 10. Rust 新 API 让浮点运算更快
+
+- 原始链接: <https://pythonspeed.com/articles/faster-float-math-rust/>
+- 英文标题: Faster floating point math with Rust’s new API
+
+本文介绍了 Rust 1.98 中新增的“代数运算”API，用于加速浮点数学运算。文章指出，浮点运算通常比整数运算慢，是因为编译器出于保守策略不会像优化整数那样重排浮点操作。原因在于浮点运算不满足结合律，例如 1e16 + 1.0 仍等于 1e16，求和顺序不同会导致结果不同，因此编译器默认不会改变操作顺序。Rust 1.98 提供了新的代数运算符（如 algebraic_add、algebraic_sub、algebraic_mul），允许编译器利用实数代数性质进行更激进的优化，同时开发者可精确控制哪些代码允许重排。作者用两个示例验证了效果：一是成对求和算法，在递归合并时使用普通加法保证精度，在阈值内使用代数加法提升速度，结果比 NumPy 的求和更快，且误差量级相近（约 -6 vs -14，差异无意义）；二是计算平方差和，使用代数运算符后运行时间从 628.7 微秒降至 371.1 微秒，CPU 指令数从每值 4.5 降至 1.0。作者总结，混合使用严格运算和代数运算，既能保持算法精度，又能获得显著的性能提升，适合 Rust 数值计算场景。
+
+---
+
+## 11. 重试并不能解决最终一致性问题
+
+- 原始链接: <https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html>
+- 英文标题: Retries don't fix eventual consistency
+
+文章讨论了分布式系统中重试模式的误区。作者举例：一个服务需要同时收到“用户创建”和“订阅创建”两个事件后才能处理支付，但订阅事件先到达时，传统做法会将其视为错误放入死信队列并重试。然而在最终一致性系统中，事件乱序是正常状态而非故障。正确做法是存储所有到达的事件，每次新事件到来时检查前置条件是否满足，满足则处理，否则继续等待，无需重试或死信队列。这样也能避免消息重放、排序等额外复杂性。作者强调，对于网络超时、丢包等瞬时故障，重试仍然有效；但若重试一次不解决问题，多次重试通常也无济于事。核心教训是要正确区分问题类型：可用性问题与最终一致性问题是两回事，不应混淆。有时最干净的解决方案不是设计更聪明的重试策略，而是意识到根本无需重试。
+
+---
+
+## 12. 反向迭代：从简单到复杂
+
+- 原始链接: <https://antonz.org/going-backward/>
+- 英文标题: Going Backward
+
+本文通过一个虚构的思想实验，逐步解释了Go标准库中slices.Backward函数为何采用如此复杂的泛型签名。作者设想一位前迭代器时代的程序员，从零开始实现一个反向遍历切片的函数，经历了五个阶段：最初返回一个反转后的新切片，但存在O(n)内存复制成本；随后改为闭包迭代器，每次调用返回下一个元素，将内存降为O(1)；接着引入回调式迭代器，将循环控制权交给函数，并定义了Seq[T]类型；然后为了同时提供索引和值，扩展为Seq2[int, T]；最后为了支持底层类型为切片的用户定义类型（如type IDs []int），使用~[]E约束，将切片类型也参数化，最终得到了与标准库中Backward几乎相同的签名。文章以讽刺的口吻描述了天气逐渐恶化直至地狱降临的荒诞情节，但结尾强调：标准库中这种“复杂”版本是合理的，因为它要与其他函数保持一致；但如果是在自己的项目中解决特定问题，停留在更简单的实现可能更明智。
+
+---
+
+## 13. 我现在（大多）按速度而非智能选模型
+
+- 原始链接: <https://martinalderson.com/posts/speed-vs-intelligence/>
+- 英文标题: I'm (mostly) picking models on speed now, not intelligence
+
+作者表示，自己首次不再以原始智能作为日常模型选择标准，而是改为速度。他认为当前达到约Opus 4.6级别的模型在代码编写、研究、设计演示文稿和数据库分析等日常任务上已“足够聪明”。尽管对Fable模型最初充满期待，但因其输出极慢且防护栏增多，他很快回归Opus。作者强调速度对用户体验的巨大影响，并给出个人感知阈值：100-200 token/s已很快，低于50则明显变慢，超过200甚至令人不安。开源生态的竞争带来丰富选择，如GLM5.2和DeepSeek V4 Flash GA，不同提供商速度从30到129 token/s不等，且GLM5.2价格已降至Opus的5%，价格战正在开启。但他也指出速度提升存在瓶颈，根据Amdahl定律，模型推理加快后，整体任务时间会受限于工具调用、本地硬件和人类决策，5倍模型速度可能只带来2倍整体提升。未来新硬件（如NVIDIA Vera Rubin、AMD MI400）将带来2倍以上输出速度，预计2027年可能出现500+ token/s的高质量模型。作者不确定超大参数模型是否会在日常任务中显著更优，并提到模型防护栏常在最需要时触发，影响深度工作。
+
+---
+
+## 14. 实用的内存安全
+
+- 原始链接: <https://ohadravid.github.io/posts/2026-08-unsafe-water/>
+- 英文标题: Practical Memory Safety
+
+文章由Zig考虑采用类似Fil-C的安全编译目标入手，讨论内存安全的定义。作者指出，Fil-C的安全标准与Rust不同：它只阻止可利用的越界写入，但允许在分配内覆盖相邻字段，例如用strcpy覆盖结构体中的is_root标志。因此，这类代码在Fil-C下仍可能打印“root”，说明内存安全并非全有全无，而是一个光谱。作者提出一个更实用的定义：内存安全的代码应具有直观、易遵循的内存规则，除非有明显标记（如FFI、unsafe），否则不该暗藏内存陷阱。基于此，Fil-C/Zig方案虽比传统C/Zig更安全，但仍需程序员时刻警惕未标记的内存操作，不能算作真正意义上的“内存安全”。文章最后强调，内存安全的价值在于让编译器或标准库承担复杂性，让使用者无需担心底层细节，从而减少整体复杂性。
+
+---
+
+## 15. Pandoc二十年
+
+- 原始链接: <https://pandoc.org/twenty-years-of-pandoc.html>
+- 英文标题: Twenty Years of Pandoc
+
+本文是Pandoc作者John MacFarlane在项目二十周年（2026年）之际撰写的回顾。2006年8月，他因学习Haskell而编写了一个Markdown解析器，意外发展成著名的文档转换工具Pandoc。文章按时间线梳理了项目从0.1版到3.x版的演进：最初仅约3000行Haskell代码，支持少量格式；2008年发布1.0，逐步引入ODT、EPUB、docx等输出，并开发了zip-archive、highlighting-kate、texmath等配套库。2012年后加入YAML元数据、Lua/JSON过滤器、扩展机制；2014年作者主导制定CommonMark规范，但Pandoc至今仍保留自己的Markdown解析器。2017年Pandoc 2.0重构了架构（PandocMonad），引入Lua过滤器和多种新格式；2023年Pandoc 3拆分为多个包，并支持Typst、djot等新格式，2026年的3.9版可编译为WASM在浏览器中运行。文章还提到项目获得Handshake捐款、与众多贡献者的协作，以及作者每天持续维护的日常。核心亮点在于：Pandoc从个人工具成长为支持五十多种格式、被Quarto和Jupyter等集成的通用转换器，其AST架构和过滤器机制是成功关键。
+
+---
+
+## 16. 2026年我不会用Python做的项目
+
+- 原始链接: <https://menno.io/posts/not-python-2026/>
+- 英文标题: Projects I Wouldn't Use Python For in 2026
+
+这篇文章是作者在2026年7月新西兰基督城Python meetup上的演讲记录。作者坦言，自己的职业生涯很大程度上归功于Python，也曾长期用Python处理几乎所有任务。然而如今，他不再认为Python总是最佳选择。演讲从作者早期接触Python讲起，回顾了过去几十年几乎全用Python的经历，然后转向为什么Python并非所有项目都合适，以及他现在会选用什么替代技术。由于是演讲摘要，文中没有具体列出哪些项目不适合Python，也没有详细说明替代品，但提供了幻灯片链接供读者进一步了解。作者强调自己仍然热爱Python，并在演讲结尾指出Python依然擅长的领域。整体而言，这篇文章的核心观点是：Python是强大且常用的工具，但不应盲目用于一切项目，开发者应根据项目需求选择合适的技术栈。文章还带有#python和#talks标签，面向Python社区分享反思。
+
+---
+
+## 17. Bonsai：用 Js_of_ocaml 构建动态 Web 应用的库
+
+- 原始链接: <https://github.com/janestreet/bonsai>
+- 英文标题: bonsai: A library for building dynamic webapps, using Js_of_ocaml
+
+Bonsai 是一个用 OCaml 编写的 UI 库，用于构建高性能、响应式的动态 Web 应用，受 Elm 启发，在 Jane Street 内部几乎所有 Web 应用中广泛使用。组件是纯函数式状态机，易于组合，并通过增量计算仅在状态相关部分变化时重新渲染。其核心理念是将状态、增量性与渲染解耦，允许按需组合原语，类似 React hooks，但状态管理独立于组件层级，还能将增量技术用于复杂业务逻辑。OCaml 的类型系统让前后端共用语言和类型，提升大型 Web 应用的可维护性。Bonsai 还提供模板语言、组件级样式支持和全应用自动化测试；测试可编程操作 DOM 并显示差异，支持模拟服务端，无需浏览器即可完成组件测试。Bonsai 本身是通用库，用于构建增量可组合状态机；Bonsai_web 专为浏览器 UI 设计，另有 Bonsai_term 支持终端 UI。配套预处理器 ppx_html 和 ppx_css 用于类似 JSX 的 HTML 和 CSS 编写。
+
+---
+
+## 18. 面向Python程序员的Gleam语言教程
+
+- 原始链接: <https://third-bit.com/gl4py/>
+- 英文标题: Gleam for Python Programmers
+
+这是一份面向Python程序员的Gleam编程语言教程，旨在帮助读者从Python背景过渡到Gleam这一函数式、类型安全的语言。教程从基础开始，涵盖类型与值、函数、模式匹配、列表与管道操作，随后深入讲解Result与Option类型及错误处理方式，并介绍了Gleam特有的use表达式。在模块、导入与测试部分，读者将学习如何组织和验证代码。教程通过一系列实践项目加深理解，包括MapReduce实现、全局模式匹配器、文件去重工具、二进制数据打包器、日志结构键值存储、最终一致性键值存储、简单虚拟机、待办事项Web API、Lustre前端计数器与表单、HTTP API客户端与JSON解码、监督工作池、数据框、状态机、基于属性的测试以及流处理等。这些项目从工具库到并发、分布式系统和Web开发，全面展示了Gleam在实际场景中的应用。教程末尾提供了结论、附录、许可、行为准则、贡献指南、参考书目和词汇表，并附有核心理念：从你所在之处开始，利用你已有的工具，帮助你能帮助的人。整体而言，这是一条系统性的学习路径，适合希望掌握Gleam语言核心概念与工程实践的开发者。
+
+---
+
+## 19. KC3 v0.1.17 发布
+
+- 原始链接: <https://www.kmx.io/blog/kc3-v0.1.17-released>
+- 英文标题: KC3 v0.1.17 released
+
+KC3 语言发布了 v0.1.17 版本。libkc3 修复了 pthread_mutex/pthread_rwlock 复制临时变量导致的未定义行为（影响 macOS），facts 数据库支持带用户指针的 C 回调日志钩子。新增增量编译，将解析结果缓存至 .kc3c 文件（类似 Python），所有 .kc3 文件加载速度提升约 5 倍。同时修复了 ht_iterator_next 迭代器不经过首个冲突列表的问题，数据库日志默认改用二进制 marshall 格式，并修复相关哈希表使用和浮点数显示。Facts 新增通过 TLS 加密与 HMAC-SHA256 共享密钥认证的双向同步（connect/accept），Facts.accept 逐个接受连接，acceptor_loop 在线程中循环 accept，acceptor_loop_join 可干净停止；marshall 哈希表查找优化使每次 dump 减少 30%。HTTPd 支持在 config/unveil.kc3 配置 unveil 路径及自定义日志。HTTPS 新增 HTTPS.Client（基于 libtls，支持自动/手动连接），支持 GET/POST 与 JSON 响应。JSON 解析器修复，布尔、映射、数组可正确转换。RUsage 提供当前进程的 CPU 时间、内存、虚拟内存和打开文件数统计，RUsage.stats() 以单个 map 返回。
+
+---
+
+## 20. GNOME Boxes 的未来：基于 Flatpak 的全面重写与 Beta 测试
+
+- 原始链接: <https://blogs.gnome.org/feborges/future-of-boxes/>
+- 英文标题: The Future of GNOME Boxes
+
+本文作者介绍了耗时两年从头重建 GNOME Boxes 的成果。重建由三大因素驱动：转向仅支持 Flatpak 的模型，以便捆绑完整虚拟化栈（libvirt/qemu）并独立维护；迁移到 GTK4 和 Libadwaita，用 Libmks 替代 GTK3 的 SPICE 组件，提升现代性与可维护性；以及现代化代码库以吸引新贡献者。目前该版本作为 Beta 发布，仅供测试。新版基本覆盖经典版功能，如从 ISO 和磁盘镜像创建虚拟机、配置资源、剪贴板共享和文件发送，并能无需手动操作安装 Windows 11，自动配置 Secure Boot 和虚拟 TPM，这是最受欢迎的功能。在不可变系统上，Flatpak-only 方案比依赖主机服务的其他虚拟机管理器更具优势。为应对沙箱限制，新版引入 VSOCK 设备，支持通过 SSH 直接访问 systemd v256 及以上的客户机，并初步支持端口转发。作者希望社区帮助测试和反馈，并预告后续文章将详述新特性的用法与实现。
+
+---
+
+## 未能总结的条目
+
+- [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html) — 抓取失败: Client error '404 NOT FOUND' for url 'http://shithub.us/moody/wg/HEAD/info.html'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+- [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面

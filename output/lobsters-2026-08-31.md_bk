@@ -1,0 +1,202 @@
+# lobste.rs 热门文章中文摘要 · 2026-08-31
+
+共处理 25 篇, 成功 21 篇, 跳过 4 篇。
+
+---
+
+## 1. 品味从何而来？
+
+- 原始链接: <https://dustycloud.org/blog/but-where-does-taste-come-from/>
+- 英文标题: But where does taste come from?
+
+文章探讨AI时代「品味」的来源与困境。许多人因AI能完成实用工作而焦虑，转而寄望以「品味」作为竞争优势。但Rick Rubin、Steve Jobs等靠品味成功者，实则身处权力位置，能筛选出同样有品味的实践者；当实践者变为LLM时，它代表的恰恰是平均水平，个人无法复制这种筛选优势。作者认为，品味只能来自亲身实践——试错、失败、偶然发现风格，再围绕风格建立审美。更令人担忧的是，长期使用生成式AI会主动削弱品味：一位作者承认，因一年间大量阅读AI文本，其写作节奏已被内化，产出质量明显下降却浑然不觉。文章以「鼻盲」比喻这种对AI「坏味道」的麻木。最终，作者建议尽量少用生成式AI以保留品味，但指出不用AI的优质创作者反而会成为AI训练数据的来源，陷入两难。她给出的唯一建议是：继续创作「奇怪的艺术」，在日益平均化的世界中保持独特与有趣。
+
+---
+
+## 2. 没有「只是一个工具」这回事
+
+- 原始链接: <https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool>
+- 英文标题: There's no such thing as Just a Tool
+
+本文作者Iris Meredith借海德格尔的工具哲学，反驳「这只是一个工具」的常见论断。海德格尔认为，工具在「上手状态」下与使用者形成整体（gestalt），该整体并非中性，而是塑造行为模式与意识形态。作者以叉子与筷子、汽车与枪支为例，说明不同工具赋予人截然不同的行动可能性与价值判断。核心案例对比React与Vue：React以JSX函数为中心，要求以JavaScript完成一切操作，天然排斥设计师、无障碍专家等非编程人员；Vue以HTML为优先，允许不同技能者各司其职。这一差异并非技术优劣，而是再生产了不同的团队构成与意识形态。作者指出，这种「开发者至上」逻辑在Kubernetes、Docker、云服务等工具中广泛存在，将HTML/CSS边缘化为低地位工作，使设计师和UX专家被系统性排斥，形成自我强化循环。结论：工具绝非价值中立，「只是一个工具」遮蔽了工具对人与社会的深刻塑造，技术从业者应审慎对待所造工具隐含的意识形态。
+
+---
+
+## 3. 用一根以太网跳线直连两台电脑传文件
+
+- 原始链接: <https://maurycyz.com/misc/etherfiles/>
+- 英文标题: Transfer files over an ethernet patch cable
+
+本文介绍了一种极简的文件传输方案：用一根普通以太网跳线将两台电脑直连，无需交换机或路由器。在Linux下，只需在发送端和接收端分别配置同一子网的IPv6地址（如fd42:dead:beef::1与::2）并启用网卡，数秒后即可ping通。随后用socat工具在接收端监听TCP6端口、发送端连接并管道传输文件即可完成拷贝。普通跳线配合标准以太网口即可达到约900Mbps（约6.7GB/分钟），远超U盘和云存储。文章对比了其他方案：云存储需上传下载两次且受带宽与限速制约；WiFi虽标称多吉比特，但受墙壁、干扰、距离影响，实际速率大打折扣；可移动存储受USB线缆与接口限制，真正达到千兆需约2300美元的专业设备，且USB主从架构无法直连两台电脑。作者指出，以太网是少数能以廉价线缆可靠实现千兆点对点传输的通用接口，其差分信号设计抗射频干扰和地电位漂移能力强，甚至无需TCP/IP协议栈，裸链路层帧即可工作，非常适合微控制器等嵌入式场景的数据搬运。文末还提及了一个名为ethtransfer.sh的辅助脚本。
+
+---
+
+## 4. Gram 编辑器 3.3.0 版本发布
+
+- 原始链接: <https://gram-editor.com/posts/release-3.3.0/>
+- 英文标题: Gram Editor 3.3.0 Released
+
+2026年8月25日，Gram 编辑器发布 3.3.0 版本，下载渠道为 Codeberg。本次更新以 git 面板改进为核心亮点：新增文件夹与当前状态的 git 历史视图、分支筛选器（全部/本地/远程）、每条目及总计的新增/删除行数统计、提交编辑器可展开填充整个 git 面板等。其他新特性包括采用指数平滑算法优化滚动体验、改进 Supertab 补全、为所有侧面板添加切换操作、支持通过 GRAM_SYSTEM_EXTENSIONS_DIR 加载系统包管理器安装的扩展。移除方面，Markdown 预览不再支持 HTML，git 模块不再获取头像，放弃 MacOS 12 以下版本支持。变更方面，字体选择改用 cosmic-text 替代 font-kit，微调了 ferra 主题配色。修复部分涵盖 macOS 文件监控祖先检查、Linux 多菜单项、Gentoo 打包解析、git 状态在目录移动/提交/重置/拉取后未刷新、diff 分块暂存状态显示错误、X11 键盘状态同步、Jupyter 内核 jsonc 后缀错误等数十项问题。作者表示大部分变更为 bug 修复，并感谢所有贡献者与用户。
+
+---
+
+## 5. Rust 函数重载实验：面向 FFI 绑定的探索性提案
+
+- 原始链接: <https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/>
+- 英文标题: Rust Function Overloading - Call for Experimentation
+
+Rust 语言团队联合 Rust 基金会 Rust-C++ 互操作计划，宣布在 nightly 编译器中开放「splat」实验特性，允许以分离参数方式调用重载函数（如 hypot(2.0, 3.0, 6.0)），取代稳定版中需传入单个元组参数的笨拙写法。该实验旨在回答两个核心问题：Rust 现有 trait 体系能支撑多少重载能力，以及能否改善从 Rust 调用 C++ 等外部语言的重载函数体验。设计原则包括保持语言简洁、降低 FFI 调用门槛、维护外部语言可维护性、选择开发者最直觉的重载解析。文章给出了使用 cpp crate 内联 C++ 代码调用 std::hypot 二参数与三参数版本的完整示例。当前限制包括：仅 nightly 可用、语法尚不优雅（使用 #[rustc_splat] 属性）、rustdoc 与函数指针支持刚合并、部分功能超出当前范围。Outreachy 实习生正开发宏以改善可用性。未来可能引入 #[overload] 属性实现「开箱即用」的重载，初期或限于 extern 块，是否扩展到原生 Rust 待定。该工作由 Google 资助，属于 Rust-C++ 互操作问题空间映射项目的一部分。
+
+---
+
+## 6. 被科技行业「踢出局」
+
+- 原始链接: <https://www.jacky.wtf/essays/2026/kicked-out/>
+- 英文标题: Being kicked out of the tech industry
+
+一位软件工程师在从业十年后宣布放弃「职业程序员」身份。他坦言被裁次数超过在职次数的一半，曾在因家人离世引发心理健康问题期间被解雇，未获任何支持。如今他每天收到五份以上拒信，反复听到「你很优秀但我们不选你」，却被告知找工作需一年。他拥有架构设计、联邦系统开发、百万用户项目运维等经验，却因缺乏正式学历被视为「风险」，加之公开批评公司不尊重员工的记录，求职屡屡碰壁。作者认为当前就业市场已沦为纯粹的内推游戏，经验与能力不再重要，取而代之的是人脉与信任。他还提到种族因素——作为黑人，他感到必须让白人「感到舒适」才能获得机会。文章充满愤怒与无力感，作者质疑社会在宣称经济良好时，如何让超过三成面临失业的人支付账单。他预告可能再次发起众筹，并坦言几乎未拿到遣散费，生活物资存放在千里之外的仓库，取回费用高昂。
+
+---
+
+## 7. 加州通过AB-1856法案，为开源项目免除年龄验证义务
+
+- 原始链接: <https://www.phoronix.com/news/California-AB-1856-Passes>
+- 英文标题: California Passes AB-1856 For Open-Source Relief Over Age Verification
+
+加州立法机构通过了AB-1856法案，该法案在推进在线年龄验证要求的同时，为开源软件项目提供了明确的豁免或减轻条款。法案背景是加州拟对面向成人的在线内容实施年龄验证机制，但立法过程中认识到，若将年龄验证义务无差别地施加于所有软件项目，将对开源社区造成不成比例的合规负担。AB-1856通过设置豁免条件，使开源项目（尤其是非商业、社区驱动的项目）免于承担年龄验证的技术与法律义务，从而避免开源开发者被迫在代码中嵌入年龄验证逻辑或面临合规风险。Phoronix对此进行了报道，指出该条款对Linux及更广泛的开源生态具有积极意义，有助于维护开源项目的自由分发与协作模式。文章强调，这一豁免并非否定年龄验证本身，而是在保护未成年人与保障开源生态之间寻求平衡，为小型开发者和非营利项目留出合规空间。
+
+---
+
+## 8. oofoe访谈：REBOL、Forth、Decker、Janet与视觉特效行业
+
+- 原始链接: <https://alexalejandre.com/interviews/interview-with-oofoe/>
+- 英文标题: Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry
+
+本文是对开发者oofoe（Alex Alejandre）的访谈，他出身动画行业，现从事精密仪器软件开发，是REBOL语言的忠实用户。访谈围绕DSL设计、小众语言（REBOL、Forth、Janet）及视觉特效（VFx）工业展开。oofoe盛赞REBOL的简洁语法、内置PEG解析、声明式GUI和自文档化特性，并介绍设计者Carl Sassenrath的「小编程」理念——程序不必庞大复杂即可有用且健壮。他深受Forth影响，视DSL为语言的涌现属性，无需额外心智负担。Janet在PEG处理上已超越REBOL，但尚缺成熟GUI绑定。在VFx领域，他曾用Python加Forth实现渲染农场控制器RiCk/RiSa，采用客户端-服务器架构，以资源请求量而非优先级解决多项目竞争问题，峰值管理约600台机器。语言学习路径上，他从NewLisp转向Racket，再借Urlang将Lisp编译为JavaScript，完成了多款游戏。他始终偏好人类规模的代码库，主张以数据驱动流程，认为巨型代码体系往往可通过重构问题本身来避免。
+
+---
+
+## 9. 一个 Flake 统御万千：omniflake 的诞生
+
+- 原始链接: <https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all>
+- 英文标题: One flake to rule them all
+
+Nix 生态中，每个 flake 都倾向于拖入自己的 nixpkgs 和 flake-utils，用户添加每个新 flake 都要重复配置 url 和 follows，体验繁琐。作者因此创建了 omniflake——一个通过单一输入即可访问近 12000 个 Nix flakes 的项目。技术上，omniflake 利用 Nix 的惰性求值特性：未被引用的输入不会被获取或求值。作者最初尝试将所有 flake 直接声明为 inputs，但发现锁文件生成时名称冲突的二次复杂度导致严重性能问题，遂向 Nix 提交修复（NixOS/nix#16387），将 4000 个输入的处理速度提升约 21 倍。最终方案更进一步：omniflake 仅声明 5 个 inputs，其余 flake 的锁定信息以 JSONL 表格存储，按需通过 builtins.fetchTree 加载，完全绕开 inputs 机制。添加 omniflake 后 nix flake lock 仅需约 1.5 秒，仅继承 6 个节点。项目同时提供统一视图（flakes）和原始视图（pinned），并支持 overrides 自定义策略。作者坦言这一机制看似「荒谬」，却完美兼顾了联邦制的灵活与集中制的简洁。
+
+---
+
+## 10. 用 Zig 编写的轻量级 QOI 图像解码器 Dekoodaaja
+
+- 原始链接: <https://github.com/sorvi-platform/dekoodaaja>
+- 英文标题: Small and reasonably fast QOI decoder written in zig
+
+本文介绍了一个名为 Dekoodaaja 的 QOI 图像格式解码器，使用 Zig 语言编写，主打体积小、解码速度合理。作者在 AMD Ryzen 7 3700X 八核处理器上，以 ReleaseFast 和 ReleaseSmall 两种优化模式，将 Dekoodaaja 与 phoboslab/qoi、qoi-simd、magicqoi、zig-qoi、zqoi、rapid-qoi、qoi-rust、qoicoubeh 等八款主流 QOI 解码器进行了基准对比。在 ReleaseFast 模式下，Dekoodaaja 达到 0.44 GB/s 输入吞吐、6.17 GB/s 输出吞吐，解码耗时仅 170 微秒，显著优于其余所有对比项目（次优的 qoicoubeh 为 220 微秒）。在 ReleaseSmall 模式下，Dekoodaaja 输出吞吐为 2.82 GB/s、耗时 372 微秒，同样领先于大部分竞品，仅略逊于 rapid-qoi 的 294 微秒。整体来看，Dekoodaaja 在保持代码精简的同时，在两种编译优化级别下均展现出有竞争力的解码性能，尤其在大吞吐场景下优势明显。该项目目前仅支持 QOI 格式，未来计划扩展至其他图像格式。
+
+---
+
+## 11. Claude Code Opus 5 Auto Mode 提示注入攻击：60%–80% 成功率绕过安全分类器
+
+- 原始链接: <https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/>
+- 英文标题: Prompt Injection in Claude Code Opus 5 Auto Mode
+
+本文展示了一条针对 Claude Code Opus 5 Auto Mode 的提示注入攻击链，在少量样本下实现 60%–80% 的远程代码执行成功率，与 Anthropic 委托第三方（Trajectory Labs）公布的 0.00% 攻击成功率形成鲜明对比。攻击路径为：以「摘要某网站」为入口，利用 415 响应诱导模型从 WebFetch 转向 curl；下载一个含 Base85/zlib 编码记录的 ZIP 包；模型拒绝执行包内二进制解码器，转而自行编写 Python 解码脚本；但脚本在解压目录内运行，触发恶意 struct.py 对标准库 struct 模块的遮蔽，导入 base64 时即执行攻击者代码；最终下载并运行 C2 载荷。作者还发现 Auto Mode 的安全分类器会阻止模型事后终止恶意进程，以及一个变体：恶意模块通过 claude -p 生成第二个 Claude 实例进行侦察。Anthropic 将报告标记为「信息性」，称 Auto Mode 仅为便利功能而非安全边界。作者强调，Auto Mode 不能替代沙箱隔离、网络出口控制和持续监控，单一基准分数（72 个固定场景）无法覆盖针对性攻击链，行业应警惕「提示注入已解决」的误导性叙事。
+
+---
+
+## 12. Debian与塞壬：一位前开发者对LLM入场的忧虑
+
+- 原始链接: <https://joeyh.name/blog/entry/Debian_and_the_sirens/>
+- 英文标题: Debian and the sirens
+
+作者30年前加入Debian项目，12年前因决策累积摩擦、灵活性不足而离开。在Debian即将投票决定是否允许开发中使用LLM之际，他以「乘客」身份撰文表达担忧。他以debhelper的历史为类比：debhelper曾将debian/rules文件中的样板代码大幅精简，但最后几行因政策条文无法消除。作者认为，LLM将消除社区精简样板代码和改革政策的动力——若LLM能直接生成复杂代码，人们便不再需要简化流程，Debian将更固化于现状，更难探索可能性空间。另一忧虑是Debian难以管理现代多语言依赖树，若靠LLM解决，可能使项目依赖专有软件，同时仍需人工完成繁琐工作。作者坦言，若未提前离开，恐怕也会因这些原因离去。文末他提及前一天失去至亲，将Debian比作养育18年的孩子，情感复杂而克制，最终强调Debian不仅是政策的集合，更是人的团队，表达深切的爱与祝福。
+
+---
+
+## 13. Aiki Alpha 3 发布：性能大幅提升
+
+- 原始链接: <https://decuser.github.io/posts/aiki-alpha-3-release/>
+- 英文标题: Aiki Alpha 3 Released - Performance Improved
+
+Aiki 编程语言 Alpha 3（v0.4.0-alpha-36）正式发布，核心目标是在不扩大语言本身的前提下，使实现更精确、更高效、更受约束且更可观测。主要改进包括：运行时层面大幅削减分配、调用开销、AST 遍历及字面量实现成本；数字类型保持单一精确语义，内部自适应采用紧凑整数、紧凑有理数、精确有限二进制或任意精度有理数；不可变列表同样获得自适应持久化实现；惰性 and/or 与正确尾调用正式纳入语言表面；性能分析重构为统一的观测网络，同时服务于覆盖率统计；数学模块按语义角色拆分为精确原生、有界 FFI 加速与显式近似三部分；库的模块摘要、导出、文档与 FFI 策略之间增加机械一致性校验；命令行与验证流程简化并引入分级验证。工程材料与实验项目（含 Thompson 正则编译器、PDP-11/40 重建等）已迁出核心仓库，使核心仓库更聚焦语言本身。发布包覆盖 Linux、macOS、Windows amd64 可重定位版本。Aiki 仍为 alpha 阶段，语法与工具链可能继续变动，但精确值、从左到右求值、显式分组、可恢复形状错误、正确尾调用、隔离并发等核心设计保持不变。
+
+---
+
+## 14. 质量盲视：为什么我们看不见身边的Bug
+
+- 原始链接: <https://danluu.com/bug-blind/>
+- 英文标题: Bug blindness
+
+作者长期能每周发现数百乃至数千个软件缺陷，而大多数人遇到同样的问题却毫无察觉。他将此现象称为「质量盲视」，并认为这对程序员危害尤甚。文章指出，高管常请他评估产品，他多次发现产品实际已无法正常使用，但内部讨论中却充斥着「体验很好」的乐观评价。作者列举了多个案例：主流搜索引擎返回大量低质SEO垃圾却鲜有人质疑；Blackboard课程管理软件被师生普遍痛恨，公司员工却坚信用户喜爱；Discourse论坛为刷高LCP等性能指标，竟在代码中故意拖慢真实页面加载。作者还回忆童年用机械鼠标时，不知不觉以剧烈补偿动作适应了故障球体，类比程序员长期绕过缺陷后形成「无意识习惯」，反而丧失了对问题的感知。他认为「内部试用」难以根治盲视，因为程序员太擅长规避问题。在LLM让低质量代码产出变得极容易、同时改进质量也变得极容易的今天，能否真正「看见」质量缺陷成为关键瓶颈。作者强调，质量盲视并非不可纠正——只要当事人愿意接受，指出问题即可逐步唤醒感知，数年后对方也会开始「到处看到bug」。
+
+---
+
+## 15. GLM-5.3 Flash 全栈国产硬件推理意味着什么
+
+- 原始链接: <https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/>
+- 英文标题: What GLM-5.3 Flash running on Chinese hardware actually means
+
+Z.AI确认GLM-5.3 Flash完全在中国制造硬件上完成推理，文章据此分析中国AI芯片现状。以华为海思为基准，910c系列（96GB HBM2e、约1.6PFLOP/s INT8、600W）性能仅为四年前H100的60%，且缺乏原生FP8支持；950系列虽采用国产HiZQ/HiBL内存并支持FP8，但算力提升有限。核心瓶颈在于缺乏EUV光刻技术，无法突破7nm制程，热效率与内存带宽受限，业内预计可靠量产要到2030年之后。中国的应对策略是以约10倍芯片数量弥补单卡性能差距，但代价是KV cache空间不足、批处理效率下降、软件栈不成熟及互联冷却开销增大，实际每瓦token产出或落后西方5倍。电力成本从集群总成本的10%至20%攀升至近半，对商业化推理服务构成显著经济压力。作者认为，在缺乏制造突破的前提下，中西AI硬件差距可能进一步拉大；全栈国产推理虽具战略意义，但在速度、容量和成本上仍是次优解。
+
+---
+
+## 16. ReactOS 0.4.16 发布
+
+- 原始链接: <https://reactos.org/project-news/reactos-0416-released/>
+- 英文标题: Introducing ReactOS 0.4.16
+
+ReactOS 0.4.16 经过一年半开发正式发布，改进涵盖多个子系统。安装方面，新增图形化安装程序，并将原 livecd 与 bootcd 合并为统一镜像，用户可用同一镜像完成测试与安装。视频方面，修复了 Nvidia 显卡因系统页表项（PTE）耗尽导致的性能下降问题，重写 AMD 驱动的 ExtEscape 函数解决 OpenGL 窗口空白。音频方面，引入 sklhdaudbus 替换旧版 HD 音频总线驱动，兼容 Windows XP 及 Server 2003 的 HD 音频控制器，并首次引入 KMDF 框架。存储方面，新 ATA 驱动取代自 2009 年沿用的 UniATA，显著改善启动兼容性，同时修复 FastFAT 驱动的 chkdsk 功能并新增磁盘清理工具。网络方面新增 DC21X4 适配器驱动与异步连接支持。此外，新增 Server Core 安装类型（类似 Windows Server Core），Wine 分支升级至 10.0，首次集成 WineVDM 以提升 16 位应用兼容性。本版本共解决 381 个 Jira 问题、包含 2808 次提交。
+
+---
+
+## 17. OpenWrt：基于事件驱动的 IPv6 状态监控方案
+
+- 原始链接: <https://bergs.biz/blog/2026/08/30/openwrt-monitor-your-ipv6-status/>
+- 英文标题: OpenWrt: Monitor your IPv6 Status
+
+作者因光纤线路 IPv6 中断长达 3.5 个月才偶然发现，遂搭建了一套轻量级 IPv6 监控自动化。整体架构分三层：第一层，在 OpenWrt 路由器上利用 Linux Hotplug 机制，将脚本部署于「/etc/hotplug.d/iface/99-ipv6-monitor」，当 wan6 接口发生 ifup、ifupdate 或 ifdown 事件时自动触发；脚本通过 ubus 查询 IPv6 地址与委派前缀，判断状态是否健康，再用 mosquitto_pub 将 JSON 消息（含 state、wan_address、delegated_prefix 字段）以 retained 标志发布到 MQTT broker 的「openwrt/network/ipv6」主题。第二层，在 Home Assistant 的 configuration.yaml 中订阅该 MQTT 主题，创建三个传感器分别显示 IPv6 状态、公网地址和委派前缀，并为每个传感器指定 unique_id 以便在 UI 中创建自动化。第三层，配置一条自动化规则：当状态传感器变为「false」时，通过 persistent_notification 弹出告警通知。方案的核心亮点在于完全事件驱动、无轮询，CPU 占用极低；同时复用已有的 MQTT 与 Home Assistant 基础设施，无需额外部署监控服务。此外，若将传感器数据导出至 InfluxDB，还可获得 IPv6 地址与前缀的长期历史记录。
+
+---
+
+## 18. 用 Jolt 以 800 行 Clojure 封装 GTK4 原生界面
+
+- 原始链接: <https://yogthos.net/posts/2026-08-29-glimmer-ui.html>
+- 英文标题: Wrapping GTK4 in 800 lines of Clojure with Jolt
+
+本文介绍了如何用 Jolt（一种编译为原生代码的 Clojure 方言）和 glimmer 库，仅用不到 800 行 Clojure 代码将 GTK4 原生工具包封装为类 Reagent 的响应式 UI 框架。作者指出原生工具包存在命令式构建、UI 结构外置于 XML、布局难预测、列表渲染样板代码多等痛点，而 Electron 等方案虽缓解问题却引入笨重的浏览器引擎。glimmer 的核心思路是将 Reagent 的响应式原子模型直接驱动原生控件：组件以 Hiccup 标签声明，状态变化时原地修补控件而非重建整棵树，无需 VDOM。技术实现上，Jolt 的 FFI 将 C 函数提升为 Clojure 符号，指针即机器地址，字符串自动编组；GObject 枚举通过小写 nick 映射为 Clojure 关键字，避免硬编码常量；组件以小型 map 描述构造、属性应用和容器类型；事件通过信号表连接 foreign-callable 回调。后端与响应式核心之间仅需 8 个函数的契约，使适配其他工具包（如 UIKit、TUI）变得简单。文章还对比了 glitter/Replicant 的纯函数无局部状态方案，以及与 React Native、Flutter、Tauri、SwiftUI 等现有方案的取舍，最终强调 Jolt 让开发者在无需 JVM 或 JS 运行时的前提下，同时获得原生控件、Hiccup 声明式 API 和交互式开发反馈循环。
+
+---
+
+## 19. 用SAT方法攻克塔尔斯基高中代数问题
+
+- 原始链接: <https://arxiv.org/abs/2608.08421>
+- 英文标题: A SAT Attack on Tarski's High School Algebra Problem
+
+本文由Subercaseaux和Przybocki撰写，针对塔尔斯基高中代数问题——即正整数上关于加法、乘法与幂运算的所有真恒等式是否可由11条基本恒等式推出——展开研究。Wilkie此前证明存在一条在正整数上成立却无法从塔尔斯基公理推出的恒等式；Gurevič构造了59元反模型，后经多位学者逐步缩小，Burris和Yeats给出12元反模型，Zhang则证明不存在少于11元的反模型。本文利用SAT求解器证明最小反模型大小确为12，证实了Burris和Yeats的猜想；进一步证明同构意义下恰好存在8,957,952个12元反模型，并给出简洁分类。实验表明，该SAT方法在寻找等式理论反模型方面优于Mace4和SEM等专用工具。此外，作者借助自动形式化技术，在Lean定理证明器中完成了主定理的形式化验证。全文21页，属于数理逻辑与计算机逻辑交叉领域。
+
+---
+
+## 20. 并行 O(√n) 额外空间的 LSD 基数排序
+
+- 原始链接: <https://arxiv.org/abs/2607.05302>
+- 英文标题: Parallel O(sqrt n) Overhead LSD Radix Sort
+
+本文由 Robert Clausecker 与 Florian Schintke 提出了一种名为 Radsort 的 LSD（最低位优先）基数排序变体，核心贡献在于将额外空间开销降至 O(√n)，即仅需约输入规模平方根级别的辅助空间，相比传统非原地 LSD 基数排序所需的 O(n) 额外空间有显著降低。Radsort 具备三项关键特性：排序结果稳定、实现简单、易于并行化。实验结果表明，当待排序数组规模超过约 2 MiB 时，Radsort 在性能上优于传统的非原地 LSD 基数排序。论文共 16 页、含 6 幅图，于 2026 年 7 月 6 日提交至 arXiv 预印本平台（编号 2607.05302），归类于数据结构与算法（cs.DS）及数据库（cs.DB）方向，ACM 分类为 F.2.2。该工作针对大规模数据排序场景，在空间效率与并行可扩展性之间取得了较好的平衡，对内存受限环境下的排序任务具有实用价值。
+
+---
+
+## 21. 调试 BPF 中基于类型的别名分析优化问题
+
+- 原始链接: <https://loshz.com/debugging-bpf-tbaa/>
+- 英文标题: Debugging Type-Based Alias Analysis optimizations in BPF
+
+作者在将 BPF 程序的头文件依赖从内核头文件迁移到 BTF 生成的 vmlinux.h 后，集成测试出现丢包，tcpdump 显示 L3 校验和错误。代码逻辑本身正确：先以 16 位读取 IP 头前两个字节得到 from，写入新的 ToS 值后再读取得到 to，调用 bpf_l3_csum_replace 增量更新校验和。反汇编发现 Clang 将第二次读取优化为直接复用 from 的寄存器值，未重新读内存。根因是 Clang 的严格别名规则：uint16_t 指针与 struct iphdr 指针被视为互不别名，编译器认为结构体字段写入不影响 16 位整数的内存。进一步排查发现，vmlinux.h 中 CO-RE 引入的 preserve_access_index 属性将 GEP 指令包裹为 llvm.bpf.preserve.struct.access.index 内建函数，使 LLVM 别名分析无法识别读写偏移的重叠，从而错误地消除了第二次读取。修复方案是用 READ_ONCE 宏包裹两次 16 位读取，强制编译器重新访问内存，反汇编确认优化被消除。文章也指出，原代码在 C 标准严格别名意义上本身存在违规，但实际修复无需关闭全部优化，仅需在关键读取处加屏障即可。
+
+---
+
+## 未能总结的条目
+
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) — hnhot already done
+- [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) — hnhot already done
+- [Automating immersive reading](https://smoores.dev/post/automating_immersive_reading/) — hnhot already done
+- [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/epdf/10.1145/3830438.3830958) — 抓取失败: Client error '403 Forbidden' for url 'https://dl.acm.org/doi/epdf/10.1145/3830438.3830958'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403

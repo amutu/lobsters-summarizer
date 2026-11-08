@@ -1,0 +1,1134 @@
+908cbfa809edf33caba7aaeaae629db1	2026-08-31	https://dustycloud.org/blog/but-where-does-taste-come-from/	lob:But where does taste come from?
+75db01ecaf16453c91b7b903c5676738	2026-09-01	https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6	lob:VibeCoded AI-Slop License v1.0
+df514b1fd6a2c2128e8b9f77bacaf804	2026-09-01	https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/	lob:curl: a CVE dispute
+da486c6410d99c6b97e56f1f425a2edb	2026-09-01	https://servo.org/blog/2026/08/31/july-in-servo/	lob:July in Servo: more platforms, faster canvas, web fonts in SVG, and more
+3c065d5efbe0ad9334c5b2f8c53fd478	2026-09-01	https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by	lob:I attended a conference recently and AI use by academics was absurd
+9e233773d4efbcb9065d45e9e9d03e4f	2026-09-01	https://erk.dev/2026/08/30/rangefrom-part-2	lob:RangeFrom, Part 2..: What I think is wrong about the design
+f9686aba66e5f460c5c19611abba961b	2026-09-01	https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to	lob:The U.S. is more than just the US (according to the ISO)
+2ba96b57f4411ef14ec8aea523db4587	2026-09-01	https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/	lob:On not becoming a cyborg
+9331cc907d7a0922ebca2aa70c84497c	2026-09-01	https://lwn.net/Articles/1088279/	lob:Bootstrappable builds: how and why
+56746da9ec3c60a2959ef232f87a6440	2026-09-01	https://matklad.github.io/2026/08/31/cancelation-terminology.html	lob:Cancelation Terminology
+e5892375a55da421e1546e156367dbc7	2026-09-01	https://arewelegacycomputingyet.com/	lob:Are We Legacy Computing Yet?
+54a722f8b6d5709deafdb354c34bcd8f	2026-09-01	https://nemin.hu/httpd-macros/index.html	lob:Repeating Ourselves Less with M4
+9b9209240b91f58c5d8591bfbc0cd787	2026-09-01	https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week	lob:What are you doing this week?
+0d45187e814a79b9e7b3126658339d5f	2026-09-01	https://www.vesto.me/2026/08/31/any-process-escalate-root.html	lob:Any user process can escalate to root
+3a21862ec05f02a2a617cdcf0370fbbb	2026-09-01	https://spirali.github.io/blog/cargo-scheduler/	lob:Could Cargo's scheduler be better?
+309088f4b45b0f74462109ef14d95439	2026-09-01	https://arxiv.org/abs/2608.26345	lob:Kale: A Transformation-Safe Spreadsheet System
+2680609ca8cdcfc12f52996fb6f5c7d5	2026-09-01	https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631	lob:V0.1.0.0 of ghcup-gtk released
+417180066472f89f1fb51a38947f32a4	2026-09-01	https://maurycyz.com/misc/etherfiles/	lob:Transfer files over an ethernet patch cable
+6e1d932cf1b103f75489d59e0d0517f8	2026-09-01	https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html	lob:Privilege escalation from IIS AppPool to NT Authority/SYSTEM
+61f0858ec1c22581bd447dd3df675da8	2026-09-01	https://martypc.blogspot.com/2026/08/executable-emoji.html	lob:Executable Emoji
+560f980da5ca887f55baea50be3461c3	2026-09-01	https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/	lob:Rootless Docker and Its Hidden Security Trade-Offs
+9b676c7b71464dff9ec6db04f2451fef	2026-09-01	https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool	lob:There's no such thing as Just a Tool
+fe1c24ce0cb0a44eeca656b88b72f109	2026-09-02	https://dbushell.com/2026/09/01/text-editor/	lob:Fine, I’ll build my own text editor
+2610153d7a7180066a228aab1ad18d1c	2026-09-02	https://zuzai.org/	lob:Zuzai, a new word, indicates the absence of AI
+30ec9368278cf81d48d6bd685de1421f	2026-09-02	https://shivjm.blog/is-minifying-css-necessary/	lob:Is Minifying CSS Necessary? (2023)
+d16fefade95ddeae8f1144db502d3483	2026-09-02	https://www.hillelwayne.com/post/predicate-logic/	lob:A Crash Course in Predicate Logic
+d07213868e76805301029e87542673ec	2026-09-02	https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind	lob:A bicycle for the mind
+f8c9f72fb0dcdc97a7c11a18c2d228fa	2026-09-02	https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/	lob:"iT woRKs BeTter in THe aPp!!"
+20b22506ef9355b3be1073891bc22c3f	2026-09-02	https://github.com/janet-lang/janet/releases/tag/v1.42.0	lob:Janet 1.42.0
+19ea85bb3b51ac95d0e4eb399e7b604c	2026-09-02	https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/	lob:Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters
+2f0ae75f43ea5150e1a7f339a42bbdee	2026-09-02	https://www.v01.io/posts/2026/08/texttile/	lob:Texttile, a multiplayer blog engine for people who write together
+e4e72e29c0e33e4f715319dfb7133bad	2026-09-02	https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/	lob:This Month in KDE Linux: August 2026
+e95dd77c31a28c45c4a871e1d1d050cc	2026-09-02	https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown	lob:Breaking down Amazon’s mega dropdown (2013)
+a7ad9f6cfc6088d8b17699079869f503	2026-09-02	https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/	lob:A community that works together, builds together
+153a5d60915b77c5f585a89a44856b86	2026-09-02	https://osa1.net/posts/2026-08-29-coherence-and-orphans.html	lob:Coherence and orphan instance rules
+9dc7677f7a95515065cab1d42154e37b	2026-09-02	https://docs.robotframework.org/docs/getting_started/how_to_write_rf	lob:The Robot Framework language
+b268159ecdf8911d671cc950d167a39f	2026-09-02	https://css-tricks.com/css-random-function-polyfill/	lob:Let’s Use the Emergent CSS random() Function in all the Browsers
+4d8ecae93ad85a5bd29573e3859dc81d	2026-09-02	https://metapatterns.io/	lob:The pattern language of software architecture
+c6e7444f4f11313169947be40a6a1fa3	2026-09-03	https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/	lob:Normalized Fascism in Open Source: $12 Million Given to DHH
+77287861f5cf8e943e20adb9052b0119	2026-09-03	https://haskellforall.com/2026/09/dependent-if-expressions	lob:Dependent if expressions without dependent types
+cfcd5b7c6c647e7efecd9e66c21e7825	2026-09-03	https://matklad.github.io/2026/09/02/static-allocation-constant-work.html	lob:Static Allocation, Constant Work
+812f01a0600f6d06c9e22af813b06b3b	2026-09-03	https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/	lob:Implementing FMA and finding bugs in C and Rust standard libraries
+a3a80eb138f68475c84a1574775d1620	2026-09-03	https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/	lob:Let's build a compressor from scratch
+ca9a111ed7a15c4692cd6ce6a59ea5b4	2026-09-03	https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/	lob:TinyGo 0.42 - Recover Is Real
+2cce7b9b03ad935ae1e7d71fccabf6d5	2026-09-03	https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges	lob:The holy grail of nixpkgs: version ranges
+0956f18443d341304dce25db41066eae	2026-09-03	https://lobste.rs/s/oieyk7/what_will_you_do_after_tech	lob:What will you do after tech?
+188b4ef64c933062b190152555ec19a6	2026-09-03	https://www.youtube.com/watch?v=PcK-TDmzshc	lob:ESP32 as counter-surveillance platform
+8afdfe931780ec54fb6776def970a7e2	2026-09-03	https://go.dev/blog/goroutine-leak-profiles	lob:Goroutine Leak Profiles
+54be2c4556ac1ce5442670139ea6461b	2026-09-03	https://luke8086.dev/gentleos16.html	lob:GentleOS/16 hobby OS for vintage 16-bit PCs
+160bef6a90dc3f81dd035ddb8b01d4c1	2026-09-03	https://boringsql.com/posts/read-your-own-writes/	lob:Read your own writes, off the primary
+bce43f065572eb3b7dc6d449adcab7a5	2026-09-03	https://blog.exe.dev/revisiting-joel	lob:Revisiting Joel's Test - exe.dev blog
+7cbb28745b5ac71305351fb2eadf0550	2026-09-03	https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/	lob:Bluefin is a capability system
+015ffb5c351a4e10c3a01dfaaedec6e2	2026-09-03	https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/	lob:CTTI is Exponential, RTTI is Linear
+9629374833c0d6cc83cd1419d521fccf	2026-09-03	https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/	lob:New things for regular expressions in PostgreSQL (pg_tre and pg_re2)
+b89a3c1993a12964b53a33f1a915595a	2026-09-03	https://ariadne.space/2026/09/01/humanity-has-built-the-records.html	lob:humanity has built the records of FATE by accident
+3f7cd790f754d82a6c3ace3b49d75c8f	2026-09-03	https://www.claude.com/check-content	lob:Check if a file was made with Claude
+7b83bf1f69209a7869c841e74fa567be	2026-09-04	https://github.com/jj-vcs/jj/releases/tag/v0.45.0	lob:jujutsu 0.45.0
+cceb823d1dd30bef4fbd19cdde98f045	2026-09-04	https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL	lob:CERN transitioning industrial computers to Debian after being a longtime RHEL institution
+5744b6801c35262c0c69af46bc2fec07	2026-09-04	https://revo.lung.fyi/	lob:Revo Programming language
+ea40046a7102caa765ca09b27edcbc75	2026-09-04	https://vale.rocks/micros/20260902-1350	lob:You Don't Need Initial-Scale In Your HTML
+61f9de3b7a50f289900f5582170daa6e	2026-09-04	https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/	lob:What's in the Emacs newcomers-presets theme?
+80d10d5dfeb21df0e4e729e75d55269c	2026-09-04	https://mathstodon.xyz/@JordiGH/117209252363385093	lob:NES dumping over audio
+412d980f28c88e59ca2ceaa89380aae3	2026-09-04	https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/	lob:Announcing Rust 1.98.1
+1fd6231a9c4f5591c8d011beea0bb252	2026-09-04	https://victoriametrics.com/blog/go-swiss-table-map/	lob:How Swiss Tables Work in Go’s Built-in Map
+48b23fc6633c645de053cc8c0a7060c8	2026-09-04	https://codeberg.org/veqq/deforester	lob:deforester - Logging for Janet
+e69cf56a591dfea9ecb55ae618c452c7	2026-09-04	https://qtea.me/posts/souping-up-my-blog/	lob:Souping up my blog
+9f1fb15822c69469dc20b0fd4676a621	2026-09-04	https://d.erenrich.net/apple.avif	lob:An image only some users can see
+59f2cf75462d242671d3d61aa3909227	2026-09-04	https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/	lob:Can We Stop With the Uptime Percentages?
+1916b041d50b37304d055484decee642	2026-09-04	https://jyn.dev/simple-is-not-the-same-as-small/	lob:simple is not small
+6eff3b7e470deef94b9be5457133b5c4	2026-09-04	https://www.virtualizor.com/blog/security-incident-bgp-hijacking/	lob:Security Incident – BGP Hijacking
+58517ce1a768ce454832e10c3b09bd95	2026-09-04	https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html	lob:How I converted BBC Micro Elite into a two-player game
+7cd0778be5b6697102e3c30fc7213fd7	2026-09-05	https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai	lob:Surviving Code Reviews in the era of AI
+fda63269e467e3685c4751f592682b53	2026-09-05	https://thoughtbot.com/blog/is-ai-ruining-my-brain	lob:Is AI ruining my brain?
+884a7fee1ab5a2c89b8b8e563435659d	2026-09-05	https://blog.michielborkent.nl/babashka-ffi.html	lob:Babashka 1.13.220 gets FFI
+93c23d0527cfe6f21c4718400b60834e	2026-09-05	https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/	lob:The NX bit is not just about security
+6cc591790e7aabd8e1117e14e74da623	2026-09-05	https://jank-lang.org/blog/2026-09-04-better-and-better/	lob:jank reimagines C++ errors and gets an official native package repo
+becbd9e0631e1a91d03eaeb0be34afcb	2026-09-05	https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/	lob:FLT: Anthropic has beaten me to it
+5e32dab8e4ed2ea9981ec1e91ecd6340	2026-09-05	https://eighty-twenty.org/2026/09/04/smolts	lob:smolts: a pedagogical IDE for a teaching language
+b5db1596039dfb18f3fa191fcac952fa	2026-09-05	https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+0c76f45c7fca839471b87e46cbf38867	2026-09-05	https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html	lob:A preview of the future Intel Architecture documentation
+5ac761bfe35883f32a47d9bc03f952ff	2026-09-05	https://codeberg.org/zzkt/deft	lob:deft: A gradual type system for Janet
+a519896048d3cfa0e4c878dc0049a814	2026-09-05	https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/	lob:The new Go JSON API: twice as fast, or 1.5x slower?
+8bd1d93c995427975d77ab169194d3ab	2026-09-05	https://github.com/Nozistance/collider	lob:Collider: An experimental Minecraft server
+8502cb4e4437e2c06796000abd1cd1c2	2026-09-05	https://pointieststick.com/2026/09/03/bug-triaging-help-needed/	lob:Bug triaging help needed
+20acb148a3a20539cf9ae8de18b65c4b	2026-09-05	https://qum.cz/imperial_colors/	lob:Imperial Colors Manifesto
+355815838bc2d82828e56bd2b708e06f	2026-09-05	https://force-color.org/	lob:FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More
+4e04173f699fc73a4c232aa30d681671	2026-09-05	https://neovim.io/doc/user/lua-async/	lob:Lua-async
+3921cbc3c4b57b205a98ae35a0e742d8	2026-09-05	https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type	lob:Exploring Mojo’s raw pointer type
+5f8867e7f129ce1d3174e3f2222d8eec	2026-09-06	https://codeberg.org/hgrsd/zopt	lob:zopt: low-ceremony command line parsing for Zig
+6b6cf87e682f5740a51b5d23fb315326	2026-09-06	https://arxiv.org/abs/2607.24888	lob:Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)
+c971501d75520c5ec4820cd45447923a	2026-09-06	https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your	lob:What filesystem are you running on your NAS/Backups, and why?
+e1414c93e17306237c2aad3a52734b0c	2026-09-06	https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/	lob:Bespoke: A Programming Language for People Who Say Please
+6d95eb553f32d7c7904e833deef9d7d3	2026-09-06	https://bastiangruber.ca/posts/it-matters-who-teaches-you/	lob:It matters who teaches you
+e6ade7f2215747385102d15185c84d27	2026-09-06	https://uutils.org/blog/2026-08-error-diagnostics/	lob:Pointing at the error: compiler-style diagnostics in uutils coreutils
+9af3f89d8d30b23d1805928440ba95b3	2026-09-06	https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/	lob:Knowing Where to Type ‘Zero’ (2015)
+6d712625533301189d86d6cdd507b5dd	2026-09-06	https://www.nyc.gov/content/pitcrew/pages/	lob:NYC PIT Crew
+b48bcd654b8393a0204707d989016a70	2026-09-06	https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their	lob:Is it too much to ask devs to use AI to review their hand-crafted code?
+6a68e2256664438024097e2c8a1d8d01	2026-09-06	https://vectorware.com/blog/simd-on-gpu/	lob:Rust SIMD on the GPU
+45594148c793613b17b9bb1dc8803420	2026-09-06	https://lobste.rs/s/trzpsg/seeking_designer_for_small_company	lob:Seeking Designer for a Small Company
+186ddda03352c06881ceb3c3fe487ad6	2026-09-06	https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/	lob:The revolt of the reader
+8d4c6f1f572f7a799376335773b9ceae	2026-09-06	https://www.sandordargo.com/blog/2026/09/02/cpp26-hive	lob:C++26: std::hive
+f4b2081b0101a3cbeedcb4e50c0f9e6b	2026-09-06	https://jonathan-frere.com/posts/anatomy-of-a-test/	lob:Anatomy of a Test
+a959c465e92046a3ac110c197994b941	2026-09-06	https://vimeo.com/1223666800	lob:Gleam and BEAM- Looking beyond the JVM
+5b538a38f2b73bf030f77ac4364c85ef	2026-09-07	https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/	lob:Debian Code Search: Fast TurboPFor with Go SIMD
+8fbb03fa1f627b379fa8237c86435da9	2026-09-07	https://aleyan.com/projects/python-iceberg/	lob:Python Iceberg
+3e492c2d9ab96d2581b2ee5a39327b9f	2026-09-07	https://anubis.techaro.lol/blog/2026/anubis-wasm/	lob:It took a year to ship WebAssembly in Anubis
+e93f5a039a664990ea729431d8b0f397	2026-09-07	https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/	lob:NetBSD 11 from scratch
+6d1ef50547d26e9bfec5999db6b11add	2026-09-07	https://mathstodon.xyz/@tao/117207856734787448	lob:Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”
+0ebe43c80711bd0b07805d025654db84	2026-09-07	https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser	lob:Any Nix package, live in your browser
+265db7279a1174d6204c1f62f08963f0	2026-09-07	https://beige.party/@intransitivelie/117057396732763183	lob:QBittorrent breaks out of sandbox to commit crimes
+5b8db8d7e2bd301a9edea453dadd7c04	2026-09-07	https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/	lob:There's No Limit to How Bad Code Can Get
+28f6a035f8bb720a807f79580d8d13e1	2026-09-07	https://www.youtube.com/watch?v=SxdOUGdseq4	lob:"Simple Made Easy" (2011)
+10e69cd3e2208a54c255a6c0798e98b3	2026-09-07	https://asahilinux.org/2026/09/m2-episode-1/	lob:M2: Episode 1 (or, Asahi Linux on M3)
+35d441409b39b4f6b8f623ab9fe21b9f	2026-09-07	https://a.l3x.in/blog/my-travel-setup	lob:Who said a tech addict can't be comfortable far from home?
+576f824ff86d39794fd3d83991eb5284	2026-09-07	https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf	lob:The Ironies of Automation (1983)
+062bcc536c367b9c2b9e2119de2ee81f	2026-09-07	https://github.com/BrettHallen/Radix_FW60	lob:Radix_FW60: handheld CP/M 2.2 computer
+6bcf2f702c5e893ba72c6fef1a9d65d2	2026-09-07	https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/	lob:How To: Federated Stars (2024)
+bb65836354e2bf9b38179790aee3075e	2026-09-07	https://martinalderson.com/posts/ai-safety-vs-security/	lob:Have the frontier labs mixed up AI safety and security?
+d395b91b7a719635560e966abe90b2b0	2026-09-07	https://noteflakes.com/articles/2026-09-05-beyond-orms	lob:Beyond ORMs
+152de916ee1b50a49e8717bc4840ed9c	2026-09-07	https://retrododo.com/see-windows-ce-running-on-the-n64/	lob:See Windows CE Running On The N64
+771b4cac843049848d14fb1e8625ba0f	2026-09-08	https://www.benjoffe.com/fast-time-of-day	lob:A faster way to convert a timestamp to Hour, Min, Sec
+93852cf5cabf366286e9aed7b0476f12	2026-09-08	https://ache.one/notes/vanity-ipv6	lob:The shortest IPv6 addresses
+c0b657aef3a09f41f7d9f2ab3f95cb59	2026-09-08	https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/	lob:Rust debugging survey 2026 results
+01689e5594957af31aa0b87b388eda35	2026-09-08	https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern	lob:Two Tiny Utils for the Result Pattern
+6c84203207d486db5e2ac21e7aae05bb	2026-09-08	https://danluu.com/agentic-testing/	lob:How well do agents use test/verification techniques?
+487726250a55c565bc744819151a0e3b	2026-09-08	https://www.kashyapsuhas.com/blog/i18n-l10n	lob:Internationalization and Localization
+b5e2fbaab7156169018f3d97d2c8389f	2026-09-08	https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf	lob:The Dataflow Model Revisited
+e3ea32e1f2da8b6267441b1b9cdd69e5	2026-09-08	https://youtu.be/f84n5oFoZBc	lob:"Hammock Driven Development" (2010)
+f1e5673f82c5e4771ece1a9b9e170734	2026-09-08	https://guix.gnu.org/blog/2026/demystifying-complex-configurations//	lob:Demystifying complex configurations
+c3c6f5f24f670daa4703e30f86493ad7	2026-09-08	https://github.com/triglav-os/gem	lob:GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator
+1f11cbd5b32484d4b1196462703ba3d7	2026-09-08	https://austinhenley.com/blog/python1024.html	lob:Making a Python interpreter in 1024 bytes
+c913df9612cfedef7dda902e7cd292ad	2026-09-08	https://walac.github.io/jumplabels/	lob:What every kernel programmer should know about Jump Labels
+93ec8e647cc1a02ecb195acaaf5dff3b	2026-09-08	https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week	lob:What are you doing this week?
+fd70a161cedb8fe18fec002e635b11a2	2026-09-08	https://bschaatsbergen.com/posts/go-tpm-tls/	lob:Signing TLS handshakes inside a TPM
+8693928c03e195a77ee5cb5e7cd0d3e0	2026-09-08	https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/	lob:Conquering Entropy: Cultivating Trust
+3e40a453a2dc17526cf375d89bfd679d	2026-09-08	https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html	lob:Data races and the limits of ThreadSanitizer in C and Go
+23bd6acdcd5479683155c8863fa0e529	2026-09-09	https://bergie.iki.fi/blog/eupl/	lob:I changed my license to EUPL
+8c6a4cbed865bd96dfa8bff5c1899d08	2026-09-09	https://rmondello.com/2026/09/07/switching-password-managers-2026/	lob:Switching Password Managers in 2026
+9910440b47b034c62be3acee987413c3	2026-09-09	https://crescentro.se/posts/euro-cloud-providers-2026/	lob:The state of European cloud providers in 2026
+2392e69d977c79153c346ebb88f0497c	2026-09-09	https://www.scd31.com/posts/extreme-server-side-rendering	lob:Extreme Server Side Rendering
+58cd65c5fe0317ed4ae67049b0e5c128	2026-09-09	https://jellyfin.org/posts/jellyfin-release-12.0	lob:Jellyfin 12.0
+0f5f4ca10450af07592b1839b9ca4a5d	2026-09-09	https://jo3-l.dev/posts/bitap/	lob:Bitap: my favorite string matching algorithm
+7107a2df334996e7ede6dd1664cb7102	2026-09-09	https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/	lob:How to build a f**king printer
+f929210a4741b7d5581a70d5b51be388	2026-09-09	https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/	lob:What makes $BigTechCompany's products bad, anyway?
+5501cb162b06d384913afe4f5f3b83b4	2026-09-09	https://mastodon.social/@tristanbuckmaster/117233413705701198	lob:Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM
+3be29c082b929f64a531b1d8cd1b3d90	2026-09-09	https://lwn.net/SubscriberLink/1092512/0772b817c369632b/	lob:CERN's migration path from CentOS Linux to Debian
+c971f7941aa7298ce522c8733298dce5	2026-09-09	https://www.scd31.com/posts/nix-files-are-intimate	lob:My Nix Config Is Intimate
+e593d5217f9d28f471796124878a8dbc	2026-09-09	https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html	lob:Rust: When Empty Isn't Bottom
+82e8cf03321e4bd03f45c18caecb586c	2026-09-09	https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/	lob:x86 evolution for segmentation and paging
+5f5f6da9c76deb1fd12712d17ea7954c	2026-09-09	https://mcpherrin.ca/2026/09/07/rsa.html	lob:I’ve factored the RSA keys of a Certificate Authority…from the 90s
+ecfc991fdb578bfdc96902ba28babe71	2026-09-09	https://lambdaland.org/posts/2026-09-06-bedrock-v2/	lob:Emacs Bedrock 2.0 Released
+9a1ff63edc0b812674682a038779b584	2026-09-09	https://vale.rocks/posts/html-relics	lob:Antiquated HTML Snippets and Artefacts
+0d6e2d1207f892922a8c7c9b387bf034	2026-09-09	https://austinhenley.com/blog/typeinference.html	lob:Type inference has usability problems (2019)
+64e4c33313353173be3231376cd280db	2026-09-09	https://yui.dev/blog/minesweeper-in-247-bytes	lob:The Depths of JavaScript: Minesweeper in 247 Bytes
+ee67c6cbdf698d19d2c3aa4ca57efcd2	2026-09-09	https://blog.mro.name/2026/09/web-from-dial-up/	lob:Serving Web from volatile Dial-up IP
+9bd8efce503619f4663df10f534bbb27	2026-09-09	https://bensimms.moe/reverse-engineering-scooter/	lob:Reverse engineering my e-scooter and rewriting the firmware in rust
+89f8fdd1fb3109dace9a2f61f1f7db63	2026-09-10	https://www.apple.com/apple-events/event-stream/	lob:Apple Event for September 9th, 2026
+5abd016c6c2ceb092f6c6e5b16a6e834	2026-09-10	https://ploum.net/2026-09-09-ai_policy.html	lob:I Don’t Want to Interact With Stochastic Parrots
+b08851dbf82e864f2096adffd8d78b83	2026-09-10	https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/	lob:The purpose of DNS is to spread scams
+7b2305300e0eeeb484b5375da8736df0	2026-09-10	https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/	lob:A decade of rustls
+a86590b078fb9593fdfccc9e0495535c	2026-09-10	https://rdmsr.github.io/writing/turnstiles/	lob:Solaris Turnstiles
+55e394a3889b5061fbf759b0c1cec909	2026-09-10	https://cel.cs.brown.edu/blog/design-space-async-await/	lob:A Design Space Exploration of Async/Await
+f5de517daa688e85313709809dbea5fc	2026-09-10	https://anchorsandlinks.com/posts/primary-keys/	lob:ID design and primary keys
+9be8911b5c1c6ca0e1467eb804cb8e64	2026-09-10	https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/	lob:Introducing CUDA Rust: Two Tracks for Writing GPU Kernels
+26be98abd611c0d4a0a179232e669865	2026-09-10	https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/	lob:Why Emacs Consult async searches feel slow and how to speed them up
+8c2607c03891ae6b6886632fba626d1c	2026-09-10	https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/	lob:Analysing 2048 on a 3×3 board
+c50d24f78e2a11ec2071ddeadbd6ebfa	2026-09-10	https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how	lob:Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS
+4683f68f9a5c04efa90396df21501beb	2026-09-10	https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf	lob:DIFF: A Relational Interface for Large-Scale Data Explanation
+57bade1c08895482c3c625aa6f9cb62b	2026-09-10	https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf	lob:Efficient and accurate systems for querying unstructured data
+872a7e5a69e033ff17a01b644af17557	2026-09-11	https://maurycyz.com/misc/domains/	lob:A rant about phishing: It's not the user's fault (and not DNS either)
+76e440f029e456353a791fe7d3e95831	2026-09-11	https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/	lob:Xteink X4 Pro review
+4a151e82eb1694552ecb49b9de777c9a	2026-09-11	https://queue.acm.org/doi/10.1145/3831361	lob:How CHERIoT Provides Strong and Usable Isolation Without an MMU
+c8e9d480eb1090cac65710fe1a15392e	2026-09-11	https://slugcat.systems/post/26-09-10-yaml-spec/	lob:It's not the YAML spec's fault, but
+190fae7db68d287bec8b34cf74c75b90	2026-09-11	https://blog.fallible.net/it-breaks-a-village/	lob:It Breaks a Village: Bevy's 6th Birthday
+a6451770d4dda626e8422eea3ec45c63	2026-09-11	https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it	lob:Review a pull request by booting it
+61860bbd82de89620ea75592e424c453	2026-09-11	https://ersc.io/blog/what-comes-after-git	lob:What comes after git
+c3f15df23e8ef701455a7e38246c51ae	2026-09-11	https://vale.rocks/posts/html-boilerplate	lob:My HTML Boilerplate
+cbe1e452db02ffbdb501ce16f186d37b	2026-09-11	https://gleamgathering.com/	lob:Gleam Gathering 2027
+e1a37be4af6aec87116aee5457057469	2026-09-11	https://hpc.guix.info/blog/2026/09/guix-science-first-release/	lob:Announcing the first Guix-Science release
+e23ea11985e865fac16dfb2dd7ca5bfa	2026-09-11	https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/	lob:The terrible menu bar in the Windows 11 Notepad
+93be3e794976ad6df343f4f69824d4c2	2026-09-11	https://laurmaedje.github.io/posts/jj/	lob:Conversations with JJ
+9459213b907bfa282766b71964cbe706	2026-09-11	https://tante.cc/2026/09/10/making-social-media-social/	lob:Making Social Media Social
+58e6a4cd5c82e8357e2d3193433e54ec	2026-09-11	https://spectrecollie.com/2026/09/05/bad-vibes-coding/	lob:Bad Vibes Coding
+dffc47a09b34ce7a4f5fe05bb2f3c0c0	2026-09-11	https://speed.edgecompute.app/	lob:Fastly Speedtest Test
+7a2356077298cae4a1cd540182207d07	2026-09-11	https://blog.omgmog.net/post/antiquated-css/	lob:Antiquated CSS and why we needed it
+2fe132984d78dcc6a41d9134a0e9112e	2026-09-12	https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/	lob:Feeling sad about AI
+ef557a0b33ce2ae767838b225bde1a17	2026-09-12	https://tante.cc/2026/09/11/power-grab/	lob:Power grab
+1bb6bef0c84299b7f76e0af85d45c751	2026-09-12	https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/	lob:A Severe Misalignment of AI in Mathematics
+3126a433e19ce3fc5e3c45af8ffae535	2026-09-12	https://evergarden.moe/	lob:evergarden
+19736fb650896c692d4c0319ffad39b0	2026-09-12	https://mail.cyberneticforests.com/models-dont-go-rogue/	lob:Models Don't Go Rogue
+1c8a347658c71e8d16ce839082607ded	2026-09-12	https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+7566347264dec93b8c0db65c20c0a483	2026-09-12	https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0	lob:ChiPass Release 2026.09.0
+abfd8422ca21b8c248d766d708a33720	2026-09-12	https://hugovk.dev/blog/2026/soft-deprecating-re.match/	lob:Soft-deprecating re.match()
+992600abd14c52a69fdae0e5a8374b6a	2026-09-12	https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs	lob:Bastion of the Turbofish
+a9e9446ba2c467958d0ab2c1387f6086	2026-09-12	https://auberon.xyz/blog/posts/deathray/	lob:An untrusted site can freeze a Mac using WebGPU
+baf2a9708eeeb528df5033ffde6d74df	2026-09-12	https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/	lob:Optimizing a Spin-Lock
+81a2fdb97eb3b13e54eff44eaddfe267	2026-09-13	https://hachyderm.io/@simontatham/117201594980991062	lob:Linux Zoom Client Proactively Reads X11 Clipboard
+79015f52d778effda40c44160c637015	2026-09-13	https://www.rubyhack.ai/	lob:OpenAI agents carried out an undisclosed attack on RubyGems
+5f02012e753ecc7716e234b450ea8b8e	2026-09-13	https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code	lob:Useful Things Agents Can Do That Are Not Writing Code
+436d14381e8f18de86e7bf3e7fa70c5b	2026-09-13	https://00f.net/2026/09/09/base84/	lob:Base84 deserves a place in file names
+41692cb93de64f43f6aa2459badb9e83	2026-09-13	https://github.com/ipython/xkcd-font	lob:xkcd-font: The xkcd font
+7cf85efce51d0b4dd37f7f935dd4b5df	2026-09-13	https://eddie.codes/posts/pandas-should-go-extinct/	lob:Pandas Should Go Extinct
+365d166d18258fed6cdd93e743f4b574	2026-09-13	https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026	lob:The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]
+a894b59a2f69d025be394e4963fc92c2	2026-09-13	https://www.joelotter.com/posts/2026/09/make-it-anyway/	lob:Make it anyway
+ec6451d8d353d05be8a52cad2f59c7cb	2026-09-13	https://yogthos.net/posts/2026-09-12-reactive-dataflow.html	lob:Managing Complex Application State with Reactive Data Flows
+9d432513d8d2d1e10c533f27d98be6d9	2026-09-13	https://www.youtube.com/watch?v=2PebXEak24M	lob:Why do companies stop using Haskell?
+0f970d32d5f4f8fd6fce0c6464be7733	2026-09-13	https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/	lob:Optimizing a single Rust Clippy lint by 3133X
+02cfd0695cb20b7fdb8b3c78da491793	2026-09-13	https://github.com/sinelaw/fresh	lob:fresh: Terminal based IDE & text editor: easy, powerful and fast
+57d1639bb62eda7acbe662b5075e3baf	2026-09-13	https://macos-defaults.com/	lob:A list of macOS defaults commands with demos
+a6b947343726fbf6c4b897a01bcdf341	2026-09-13	https://antonz.org/solod-0.4/	lob:Solod 0.4: Better C interop
+8be0dc63f2d89ab0d1d651f1326e99e8	2026-09-14	https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/	lob:Watch what you say: Apple opens the door to a nightmare world of always-listening tech
+4135930e5d845d133094754e56d595f4	2026-09-14	https://char.lt/blog/2026/09/sorcery-repo-viewer/	lob:what if my git host were a static site generator?
+b166d06ce5b45a150c2a345d64c0ba6e	2026-09-14	https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/	lob:Golang developers should try Odin
+7a227bea09bd8f923838294a7c88d271	2026-09-14	https://whhone.com/posts/switching-to-gnu-guix/	lob:Switching to GNU Guix: A Beginner's Perspective
+3b44912d8390486700f7d5ed4afee490	2026-09-14	https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/	lob:Don't call yourself an artisanal programmer
+5dd49cfaaefacec276b29ee6c30ae656	2026-09-14	https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html	lob:From Git to Fossil (2025)
+30349cdbda8a071a465e088b1324b6d7	2026-09-14	https://wiki.xxiivv.com/site/heol.html	lob:heol
+b9b40eed5f19f6e4943713343a4d7f66	2026-09-14	https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/	lob:Can a regex match valid card numbers?
+6bc170bbf5f1e8b69db471482915cdb5	2026-09-14	https://terrytao.wordpress.com/2026/09/12/after-math/	lob:After Math
+de6a0aaba47f680dafa08bbf991a0fe9	2026-09-14	https://cpp-rendering.io/being-lazy-in-c/	lob:Being lazy in C++
+8cfb6bf1b8f5b5ea7ff7d848786a81fc	2026-09-14	https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/	lob:This PCB is brought to you by Fable 5
+6fcbe500ac057e3edb3e17a6063008cc	2026-09-14	http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html	lob:A Dick Smith VZ200 without the Dick Smith
+6fc43f1d1b4a5aa28d75b659aa4c1459	2026-09-14	https://zoey-on-github.github.io/blog/updates.html	lob:a better way of blocking macOS updates
+34e28ee70f2502f65887374817835437	2026-09-14	https://opusfived.dev/	lob:Opusfived
+3d6d55aea882d2893a0fde527a3ae784	2026-09-14	https://www.youtube.com/watch?v=DjhRRj6WYcs	lob:The Edsac Film (1951, 1976)
+9431e73c159eead38488ac8a4eea9e7f	2026-09-14	https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u	lob:GEFS: The File Shredder of the Future
+db69c953038dc05d161dc7c18a1d4f5e	2026-09-14	https://sessioncontext.org	lob:Session Context — what a web page knows about you
+eeb3a630fb29f8b97faf87b74a4f55db	2026-09-14	https://blog.jchw.dev/wrong-number/	lob:Sorry, Wrong Number: Debugging a Crash under Wine (2022)
+2e2f537981f14d6222a32354cff3d11e	2026-09-14	https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/	lob:Nobody pays for open source. We can force them to
+c19a72a6681f05931ee1f9ab615b7c99	2026-09-15	https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/	lob:The contagion of fear
+063ea0f41255cf3c020082f88f89c992	2026-09-15	https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking	lob:What blog posts influenced your thinking the most?
+74d2bba4ad96f63bca5bebe104287bfa	2026-09-15	https://giannirosato.com/blog/post/case-against-jxl	lob:The case against JPEG XL
+59a82b5dd8cba0f6f52237f02a13d0f6	2026-09-15	https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets	lob:How can you not be romantic about UNIX domain sockets?
+df83889f51fe17e78a907c61bdbc5418	2026-09-15	https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/	lob:Anecdotally, programmers dislike "reduce"
+8e05c962287618b24191b6ecf2654ac6	2026-09-15	https://codeberg.org/mergiraf/mergiraf	lob:Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats
+7218d17bf5ecf0f709c868a89ac5869e	2026-09-15	https://www.youtube.com/watch?v=pOAj3mor8y8	lob:Why Am I Still Programming
+a5313b4521c5c9e9190ddc3856ab4abe	2026-09-15	https://blog.zm.is/finished-aerial-maps-within-30-minutes/	lob:Finished aerial maps in under 30 minutes
+8e6073a6231fcc9d4d23ad89db0622b0	2026-09-15	https://seldo.com/posts/we-are-all-product-engineers-now/	lob:We are all Product Engineers now
+9882ae79470baf4799777b0fad29f2a1	2026-09-15	https://zanlib.dev/blog/do-you-still-read-the-code/	lob:"Do You Still Read the Code?"
+46357efa978cf1c7f3452c364b1a32d0	2026-09-15	https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/	lob:I wish you the best in the Offline
+78c367334acee4b52a00b915d8951be8	2026-09-15	https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html	lob:Writing a Guix service from scratch, as a beginner
+c8412dda208920551cb9b93cf70884de	2026-09-15	https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/	lob:There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets
+66f9bd8a40b836d59592fcbe1ba72842	2026-09-15	https://nemin.hu/llm-letter/index.html	lob:A Letter from a Machine Learning Engineer
+16300075f8881c142c0ef243248130d3	2026-09-15	https://lobste.rs/s/0inlyw/what_are_you_doing_this_week	lob:What are you doing this week?
+ef9f6aa56af55b131cf19682ab8aa26f	2026-09-15	https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982	lob:Purely Functional Operating Systems
+d4bf2116859475291a38ac155f185720	2026-09-15	https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/	lob:How I use a single .zshrc file on macOS and Windows (WSL2)
+e23c866af974d071bd34796df3d4cec2	2026-09-15	https://blog.veritates.love/functions-as-data	lob:Sticking Functions Where They Donʼt Belong
+15efc2aa56a7ea59f0371ffb74acc90d	2026-09-16	https://www.gnu.org/software/coreutils/rejected_requests.html	lob:Coreutils - rejected feature requests
+ed7a2be56442351c07398a4606c2cd2a	2026-09-16	https://chauhankiran.blogspot.com/2026/09/levels.html	lob:From Intern to Software Architect
+3cb8170cf407614bfc948e1e9938a20f	2026-09-16	https://will-keleher.com/posts/small-programming-tricks-matter/	lob:Small Programming Tricks
+896a82c0b797ee2f5a1dbf2a420bc472	2026-09-16	https://tintotint.eu/whacky-corner/f-droid_slop/	lob:How much of F-Droid is LLM generated?
+40269dc53da93474ff85f009957e4e29	2026-09-16	https://www.benjoffe.com/map	lob:A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)
+20988c6b4453a9f93f597b7517d4227a	2026-09-16	https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/	lob:Performance Improvements in .NET 11
+263e8904a86c2e88379b11ade6118b90	2026-09-16	https://www.swift.org/blog/swift-6.4-released/	lob:Swift 6.4 Released
+d120ed7a3a5fbcd354d4a54b55b08e1a	2026-09-16	https://azhdarchid.com/gdscript-good-bad-ugly/	lob:GDScript: The Good, Bad, and Ugly Parts
+3c8dccc080f9f4022964d86ef1e6252e	2026-09-16	https://adactio.com/journal/22757	lob:Stalling installing
+ea8d93d5aa0b8971eff55a00d6c1b005	2026-09-16	https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html	lob:How I Wrote a Forth (Without Knowing How)
+5aed7842e682b2a2f6f67cec4c9fd776	2026-09-16	https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm	lob:IBM Built the Cold War’s Most Powerful Code Breaker for the NSA
+1633160ed81ec03eee17cb6637b232ba	2026-09-16	https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions	lob:A Nix store is three functions
+e23e869571293e388434e7fdd63100dd	2026-09-16	https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/	lob:Subnormal floating-point numbers are expensive… on Intel processors
+9802e35e2008bd05b72cbc0d4ba2f9e5	2026-09-16	https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/	lob:1Password's AI patching benchmark is misleading
+5d870501a908d7caa12ae745e7a72523	2026-09-16	https://anekstein.com/posts/2026-08-22.html	lob:Search over Algebraic Graphs
+abdea35b6efe0e68b2f7e519c9b6ec6d	2026-09-16	https://vondra.me/posts/postgres-development-activity/	lob:Postgres development activity
+3772e8d56d294dcdcae752b2bee6a623	2026-09-17	https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/	lob:The end of verygoodsoftwarenotvirus.ru
+411dd5d09236dae6c95131a9c515305b	2026-09-17	https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html	lob:Forgery of C2PA on a Pixel 10
+6bcffad9913b12da6ccebb1c37a06c03	2026-09-17	https://release.gnome.org/51/	lob:Introducing GNOME 51
+4250ce250d3083742f66b6972cba7849	2026-09-17	https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/	lob:How to get a DOI for your blog posts
+2aeecd402fe3b6d4a9386e82fcaf58c5	2026-09-17	https://dank.systems/posts/2026-09-15-ai-bear.html	lob:Why i'm still bearish on LLMs after Navier-Stokes
+e82711a89513e11b2a869b78643de299	2026-09-17	https://blog.manganin.dev/blog/reinventing-issue-tracking/	lob:Reinventing issue tracking: Local-first and Git-native
+4cb9607fc458521a97bab7fd3519d400	2026-09-17	https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete	lob:Ubuntu 26.10 completes transition to Rust-based coreutils
+551ddb66eafebca499046a985bbfa29d	2026-09-17	https://blog.jsbarretto.com/post/veloren	lob:Some things Veloren does differently
+7996ae5013163802f3f73ae200b9c4e7	2026-09-17	https://distrowatch.com/weekly.php?issue=20260914#qa	lob:The smallest possible Linux distribution
+2f0738fa1bf8e17d496fe5db2e90b937	2026-09-17	https://www.unicode.org/versions/Unicode18.0.0/	lob:Unicode 18.0.0
+82f5f0b5f3ca672ae2720b696b5b6425	2026-09-17	https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development	lob:OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development
+52779cef65a8ba214099198fd0e991ed	2026-09-17	https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/	lob:Maintaining the love for coding in the time of AI
+105cb9fb16a99395ffae80c645123ada	2026-09-17	https://zed.dev/blog/delta-public-beta	lob:Replacing Pull Requests with Delta
+bc9790cb9624da48b25ac777b2073ba9	2026-09-17	https://rust-glancer.github.io/blog/why-lsp-is-hard/	lob:Why building a Rust LSP is hard
+755d85947b5191935b26a317a3d0ea53	2026-09-17	https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip	lob:Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years
+19c0e829d956e77d57f53a5d198da6ad	2026-09-17	https://openjdk.org/projects/jdk/27/	lob:JDK 27 has been released
+b313b3cff8735ffb298f994c45e4ea3a	2026-09-17	https://security.apple.com/blog/apple-reference-image/	lob:Apple Reference Image: A New Approach for Verified Photography
+e084af7a13ed2ac3aece1ff9116d1b6d	2026-09-17	https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/	lob:When adding a fractional part to a number fixes your shader
+83c18f20f061016bc71f744bba0b7308	2026-09-17	https://acadia.engineering/blog/simple-and-efficient-row-level-security	lob:Simple and Efficient Row-Level Security
+9f3af23f7924f271f057019df5f491e2	2026-09-17	https://gothub.org/lists.html	lob:Gothub lists
+b927093adb79a6daa9d8c2d7a2209324	2026-09-17	https://www.w3.org/Provider/Style/	lob:Style Guide for Online Hypertext (1992)
+338f50ac50db773635f9b777cbf351ad	2026-09-18	https://www.minitap.ai/blog/i-expected-better-from-google	lob:I expected better from Google
+0f73f212cc605bd8e55356e445bfc383	2026-09-18	https://verdagon.dev/blog/golden-spike-reviving-vale-valen	lob:The Golden Spike, and Resurrecting the Vale(n) Programming Language
+e27955a93364fc5a3910c35c284d773d	2026-09-18	https://www.netmeister.org/blog/everybodys-lost-their-minds.html	lob:Everybody's Lost Their Minds
+e064dedc6af6de51291916672c461ebe	2026-09-18	https://blog.rust-lang.org/2026/09/17/targeted-attacks/	lob:Be alert: targeted attacks on prominent Rustaceans
+2031d5b8df8ba1dd00cd732a1b69300b	2026-09-18	https://iev.ee/blog/categorize-everything-all-at-once/	lob:Labeled matches: why is this not in every regex engine?
+e353f872e290dee4e70760b6a00d8625	2026-09-18	https://jakeasmith.com/blog/http-build-url/	lob:My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
+664892b4a475d48a97d01a1e56f3d255	2026-09-18	https://servo.org/blog/2026/09/15/one-year-of-sponsorship/	lob:Your Donations at Work: One Year of Sponsored Servo Development
+f4aa57c221c72c7841c5d265ee433b33	2026-09-18	https://markkarpov.com/post/announcing-tilia.html	lob:Tilia—a new formatter for Haskell
+b7db079dc4c5b6326f0ccbc6b45e7b04	2026-09-18	https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/	lob:Flock cameras are riddled with security vulnerabilities and hard-coded credentials
+716e5f5719beb7ae240ce7a7ce820855	2026-09-18	https://xapp-project.org/	lob:XApp — Apps that work everywhere
+1eea9b5c22ecd68ef215fabd231e41f7	2026-09-18	https://github.com/jemalloc/jemalloc/releases/tag/5.4.0	lob:jemalloc 5.4.0 release
+99666f6ba2bb18874a65e0863d124f19	2026-09-18	https://alexwlchan.net/2026/cat-confusion/	lob:Why .tar.gz files can't be combined with cat
+061443c4186ae916e5850dc4e363c421	2026-09-18	https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops	lob:C++26: Trivial infinite loops are no longer undefined behaviour
+9c80523908d98de3037db393f59c255c	2026-09-18	https://github.com/bloomberg/bonobomock/	lob:bonobomock: A GoogleTest-compatible C++ mocking library
+11318793020c82755e9560beb29da888	2026-09-19	https://lwn.net/Articles/1092993/	lob:Typst makes big strides
+fe5a4f19acddc5d3858799ab2b516564	2026-09-19	https://hawksley.dev/blog/i-dont-like-passkeys	lob:I don't like passkeys
+9c712184a8b353835b82ff3950f3bb81	2026-09-19	https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech	lob:What is still exciting in tech?
+e101f10afa0c103797165f941393c26b	2026-09-19	https://danluu.com/brain-off/	lob:There's no point at which turning your brain off will work
+76f2f2aaeb99ca043fdeef015a2c2c90	2026-09-19	https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html	lob:Benchmarking Wild vs Mold
+faf876f526253e84399bc1c980224629	2026-09-19	https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+e167150f06c6a499a868bb8c1958f494	2026-09-19	https://github.com/warp-tech/warpgate/releases/tag/v0.29.0	lob:Release v0.29.0 · warp-tech/warpgate
+3f9fa026f26d7875ad7e685f53bf4b06	2026-09-19	https://crumbles.blog/posts/2026-09-17-immutable-mutable.html	lob:FAQ: Why isn’t mutable a subtype of immutable, or vice versa?
+34ec3f6384c2315b39d5bd70ae1686ca	2026-09-19	https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine	lob:We Must Create the Shit Machine
+81b3c4fd9df6401c1f4ba9a7582a46b9	2026-09-19	https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/	lob:The C++20’s u8/char8_t Backward-Compatibility Fiasco
+c5eb39bd1c91232b573ef79edcb78fce	2026-09-19	https://github.com/anderspitman/awesome-tunneling	lob:awesome-tunneling: List of tunneling software and services
+6c90a6761f03e8883ccf89068ea727c5	2026-09-19	https://bend-lang.com/	lob:Bend
+51ea877eb60806184fdc3b0ad62bb32a	2026-09-19	https://prismml.com/news/bonsai-2-27b	lob:Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+f76ebb8badc058661278840677d5751c	2026-09-19	https://internetphonebook.net/	lob:Internet Phone Book
+b7d589a501cfbf25280d1f5cc1e0c215	2026-09-19	https://vale.sh	lob:Vale, code-like linting for prose
+9ff42916f2c329cbc3b5f66ee7cfb8ca	2026-09-19	https://seclists.org/oss-sec/2026/q3/822	lob:A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill
+6941a98b11b608cf29334d71f51f8149	2026-09-19	https://phk.freebsd.dk/sagas/bikeshed/	lob:The Bikeshed email — PHKs Bikeshed
+9a9dec4eecf7f673d5765f2c59fb3fca	2026-09-20	https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree	lob:AI Is an Elite Crime Spree
+49bfb6ade93fb866f620a971dda79f1e	2026-09-20	https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/	lob:Don’t Let Architecture Astronauts Scare You (2001)
+b1f760ffe98d8b1035778b351909e9db	2026-09-20	https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me	lob:I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"
+5cabd85cec34a1bbe1027bb0e761863d	2026-09-20	https://fex-emu.com/Scourge-of-emulation/	lob:The scourge of x86 emulation
+6f15cd91122dff68914b9d33ba90f501	2026-09-20	https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb	lob:kicking the tires on jev (TypeSafe's System One model) with 2048
+7fb467b4dee3534d894089f38775e02b	2026-09-20	https://astrid.tech/2022/04/05/0/dead-tlds/	lob:What happens to TLDs when their country stops existing? (2022)
+a3780b1386b20f9bbea9fa24cdd03cbf	2026-09-20	https://jyn.dev/a-year-to-fix-security/	lob:we have a year to fix security everywhere
+83b879b802e9e71600eaf77f25b2758e	2026-09-20	https://purplesyringa.moe/blog/write-while-learning/	lob:Write while learning
+02f3b7146fdc53d015f6ef9dbe76ed90	2026-09-20	https://opengoal.dev/	lob:Reviving the language that brought us the Jak & Daxter Series
+6d141934fccd9935d0053833f8e787fb	2026-09-20	https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/	lob:Faster JSON parsing with SVE2 on ARM processors
+9533f73852fd6f8716bdef0ede8a9239	2026-09-20	https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/	lob:Thread-identity switcheroo for io_uring
+7b893b381a3638191515e5f0952696c7	2026-09-20	https://www.lispbm.com/	lob:LispBM: Concurrent Lisp for Microcontrollers
+1cf6c4cc765f805e3e763dbf62c676d7	2026-09-20	https://srcreigh.ca/posts/auditable-kata/	lob:Secure VMs for Kubernetes: Hardening Kata containers
+87eff400c57db33c9424b04c77cd124f	2026-09-20	https://duckdb.org/2026/09/18/opfs-wasm	lob:Persistent Databases in the Browser with DuckDB-Wasm and OPFS
+533e958747a31d37f064ff0dd5b1a8d6	2026-09-20	https://ch.terabyteoff.com/	lob:Consistent Hashing Proofs
+500876093194fffb8e23a65c9dd6347c	2026-09-20	https://openloco.io/news/2026/09/openloco-v26.09.html	lob:OpenLoco version 26.09
+e62b8d8b6d178bedd5ce39bf50778174	2026-09-20	https://ericwbailey.website/published/css-tricks-could-be-a-co-op/	lob:CSS-Tricks could be a co-op
+057b098760a4f560786ecb611366efeb	2026-09-20	https://www.youtube.com/watch?v=OQM42Ee0fn8	lob:Most Normal C++ Project: Coding a B2 Stealth Bomber in GTA 3
+22a1181e0f9316f956482a4a217166b5	2026-09-21	https://www.philipzucker.com/lambda_miller_egg/	lob:Lambda MicroEgg
+d0db254ea9fbd94cf9a08e25ebdd5391	2026-09-21	https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/	lob:Beyond jj: config & tools ecosystem
+631f89fb9b9becf52838412c3c0229cc	2026-09-21	https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/	lob:An actively maintained and updated Motif fork actually exists
+ebbcd8e6c35b8fdf826cc26cfa445826	2026-09-21	https://sarahjamielewis.com/log/2026/future-of-web-browsers.html	lob:Thoughts on the Future of Web Browsers
+87b5f52ac64651f51f71916bbbb1debf	2026-09-21	https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/	lob:You Know GDPR Is Good Based on Who Hates It
+225689a82500a5bbf3c6fd7b36bc44d9	2026-09-21	https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names	lob:Using non-breakable spaces in test method names
+ce274b5922756588bc0f6c4390b97112	2026-09-21	https://n-skvortsov-1997.github.io/reviews/	lob:V Language Review (2023)
+43d86e3c4c9f3a5e7b0765876a7ebf7e	2026-09-21	https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts	lob:How Notion handles concurrent editing with CRDTs
+5944643f1d5d29977c3d425947ae572d	2026-09-21	https://www.youtube.com/watch?v=V7AfAcQwLW0	lob:Scott Jenson: Are we really going to use the same Desktop UX forever?
+b0652c57901edac7bd3cedbfd3a2ce58	2026-09-21	https://heif-heist.com	lob:HEIF Heist
+9c172168d0e31719971fdb027eefa862	2026-09-21	https://evanhahn.com/usergettingbored-vim/	lob:Vim's UserGettingBored autocmd
+c468dc7e184bb427b628f2129a735698	2026-09-21	https://outdata.net/blog/260803	lob:Deterministic Core, Non-Deterministic Shell
+f8a83a183835a788d1252a25907a063e	2026-09-21	https://github.com/iamgio/quarkdown	lob:Quarkdown: Turing-complete Markdown typesetting system
+c15476d87f8ec69bef4204f97e948188	2026-09-21	https://nullprogram.com/blog/2026/09/20/	lob:What's been going on in w64devkit the past year
+154a2d9250efa9b04c9805e1a674bc7c	2026-09-21	https://www.buzzsprout.com/2469780/episodes/19824439	lob:Unix Year 2038 problem and the art of underestimating
+c091b3feb438555b0398d78ce6904376	2026-09-21	https://notebook.link/blog/the-last-mile-faster-numpy	lob:The last mile of a long road: faster NumPy in the browser
+5d7d2d39fc45416c831362616f317ca7	2026-09-21	https://thomasahle.com/blog/adversarial-examples-for-hashes/	lob:Adversarial examples for fast hash functions
+b7a7a25efb12e5e6590547e14c12de15	2026-09-22	https://ahelwer.ca/post/2026-09-21-concurrency-textbook/	lob:Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?
+4fc10d0492cae38f448e702764c7df40	2026-09-22	https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/	lob:Self-Hosting Behind CGNAT
+6700dc70de038d852c92ef993eb947be	2026-09-22	https://kevquirk.com/do-you-use-visited-on-links	lob:Do you use :visited on links?
+899c1d6444f957c061ed26083c6bf08f	2026-09-22	https://github.com/acsandmann/rift/	lob:rift - a tiling window manager for macos
+a4c2d6fb4d01727f0c7dd261dfd0b8d4	2026-09-22	https://lobste.rs/s/fyngrv/what_are_you_doing_this_week	lob:What are you doing this week?
+b3696c0c8be1ae5afe104079fa81baf5	2026-09-22	https://brennan.day/creating-a-blog-in-gemini/	lob:Creating a Blog in Gemini://
+3e4fee05f1067f36b86afea1be7971b6	2026-09-22	https://github.com/dtonon/squalk	lob:Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)
+ad1f4d313c4c346ae560503afbb534ae	2026-09-22	https://htmx.org/essays/markdown-in-src/	lob:Markdown in /src
+5f23df4279734d4c2d6036cdfb35b285	2026-09-22	https://remy.wang/blog/ra-ra.html	lob:Relation algebra is not relational algebra
+0ef4baa453ae96ee374275f607ebfe92	2026-09-22	https://canonical.com/blog/zephyr-lts-announcement	lob:Canonical announces Zephyr 26.04 LTS
+017a3ed450f67704f3a081043e18008e	2026-09-22	https://anishathalye.com/optimal-trace/	lob:Running an Optimal Trace
+cdd6524b3e12b1791607419bd1aca114	2026-09-22	https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/	lob:Making a game for the GBA and PC from the same codebase
+b4fe9f28796a0f193686956a56eb140a	2026-09-22	https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf	lob:Lifestreams: a storage model for personal data (1996)
+4eb08617cde71fbc04c0f6cbe5a9d21d	2026-09-22	https://www.youtube.com/watch?v=dpIuNUn0PZc	lob:Why do computers look like this anyway?
+2b7f7c28dc8c58a57ee2b4b7c07b4956	2026-09-22	https://projectzero.google/2026/09/windows-dangling-com.html	lob:Windows Exploitation Techniques: Dangling COM Object Registrations
+79a4f9790b68b1218f3f145eb4ee3629	2026-09-22	https://vincent.bernat.ch/en/blog/2026-goatcounter	lob:Bot-free self-hosted analytics with GoatCounter on NixOS
+958529da29402ff1e6c8166526137b19	2026-09-22	https://code.irenes.space/evocation/tree/README.txt	lob:evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it
+f05b664778bacf14023a3ecd7a70b0ac	2026-09-22	https://tangled.org/ptr.pet/tobi	lob:tobi: keep commands running in detachable sessions across your devices
+21f8ce66fd0cf097d63190322a34f702	2026-09-23	https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49	lob:Plain-text files are at risk
+14997d57391ed19ae4d7cd3152dce552	2026-09-23	https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/	lob:Looking forward to Git 2.56 - and 3.0
+eefad314ddb6aed7e8473c37e6eea222	2026-09-23	https://linebender.org/blog/fearless-simd-1-0/	lob:Fearless SIMD v1.0 is here
+83deb4e43da7a2b3a658823529565c4b	2026-09-23	https://steveklabnik.com/writing/arguing-about-arguments/	lob:Arguing about arguments
+1def51d00c3ba478e1253e74f3a5a222	2026-09-23	https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html	lob:That About Wraps It Up for Stock Mac UI
+ec085825db6aaa79c7f6e16d7c453a08	2026-09-23	https://botahamec.dev/named-optional-args	lob:Named and Optional Arguments are Awesome
+c1ab4145f8bf3ffd8b9d74fb51296b99	2026-09-23	https://blog.veritates.love/design-it-right	lob:Design your programming languages right (2024)
+045a2fb83ed6118d0ec612db75b4c57e	2026-09-23	https://levmiseri.com/nospace	lob:Jev-powered autocorrection
+9f49eb7361933c55d708ad2386d15d04	2026-09-23	https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/	lob:Raspberry Pi locks down Pi 5 RAM upgrades in firmware
+0aa34186f84b0a3049b1f4e1dbb9ead0	2026-09-23	https://www.artima.com/insidejvm/whyCAFEBABE.html	lob:Why 0xCAFEBABE?
+19db494d57973ef5afb465103b5ae3c4	2026-09-23	https://jyn.dev/tokens-too-cheap-to-meter/	lob:tokens too cheap to meter
+e39856678b728e5118be4348be6b24bb	2026-09-23	https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/	lob:AI Has No Wisdom and Neither Will You
+a2ec239fc903deb7c4c8257cfc4c087f	2026-09-23	https://web.archive.org/web/20250418124519/http://evilvm.ninja/	lob:EvilVM: Forth shellcode
+1edc3b819b125481ae103e172dacd958	2026-09-23	https://arialdo.codeberg.page/ju-ju-tsu/	lob:Ju! Ju! Tsu
+505063c92c329734198149c0216b4281	2026-09-23	https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/	lob:GitHub Actions leaking secrets when Miri output is cached
+d00888a94c877742bb0a191bc9e7f92a	2026-09-23	https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment	lob:Serious editors are a commitment (at least for me)
+cdd032be35d4384128bb7a87d9fb8e37	2026-09-23	https://no-sloptober.com/	lob:No Sloptober
+5ee5f7364ed77db935dc61119940f5b5	2026-09-23	https://blog.veitheller.de/A_First_Futamura_Projection.html	lob:A First Futamura Projection
+21e787f63fbddb16b7be0a9f9fbc4577	2026-09-24	https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html	lob:Radicle: Disclosure of Vulnerability in the Network Protocol
+61a9a794194684864771b173ecdbbc82	2026-09-24	https://andanti.no/blog/SignedMesh.html	lob:I want my mesh networks to be signed, not encrypted
+b7e72d646e5508b3fafabfb84dfd5a26	2026-09-24	https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/	lob:The GNOME LLM Policy That I Want
+16764bffc3ef5a72ded2a92ea1943281	2026-09-24	https://kdeforpeople.com	lob:KDE for People
+6f0635521c542f5f30f96da87f734830	2026-09-24	https://blog.melashri.net/posts/scientific-linux-mistake/	lob:Abandoning Scientific Linux Was a Mistake
+a1d269908d870db2080a4f8a0805a485	2026-09-24	https://kristoff.it/blog/the-zig-journey/	lob:The Zig Journey
+447cf59a55a9fbd8656f1736abe207ee	2026-09-24	https://entropicthoughts.com/cheaper-llm-labeling	lob:Cheaper LLM labelling
+1041a288b60a30f501976bda9c36334e	2026-09-24	https://lwn.net/SubscriberLink/1095425/2d9f411252325784/	lob:Ideas on modernizing the open-source desktop
+d531354b6168c41fc20c253b07d2d47a	2026-09-24	https://futhark-lang.org/blog/2026-09-22-aliasing.html	lob:Do not let your type system reason about aliasing in your programming language
+35f6d81e27e7ffed4bc76deb3256f05b	2026-09-24	https://michaelheap.com/github-wiki-is-an-antipattern/	lob:The GitHub wiki is an anti-pattern
+99b33a1e390aee64f44095db3257c7b5	2026-09-24	https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/	lob:Why didn't anybody tell me about Redis hash slots?
+275e3bc45bdcde112fdb38951f625005	2026-09-24	https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/	lob:How to talk about "AI" without adding to the anthropomorphization
+36019da836e91dce25a1eca112381332	2026-09-24	https://arthi-chaud.github.io/posts/json-ir/	lob:Parsing JSON Objects without intermediate ASTs
+9b6a255819b87603dd00f8419110278c	2026-09-24	https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/	lob:Latest BGP hijack targets hosting software vendor
+5f870d1a9d1a30016075ba530bf3a069	2026-09-24	https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/	lob:Sandboxing with minimal effort
+4f9420211d29f8a2c066bcba69d34c7e	2026-09-24	https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/	lob:Adaptive Lossless Floating-Point Encoding in Apache Parquet
+53363f94237dcc55aa064db11c73e0bc	2026-09-25	https://corrode.dev/blog/named-arguments-at-home/	lob:We Have Named Arguments at Home
+de0eb653ca9a3b94a90d7633f5a9a497	2026-09-25	https://gultsch.de/posts/breaking-up-with-google-play/	lob:Breaking Up with Google Play: Why Conversations Is Now Free
+8a69f658d4ece2c6bbf7da6f9177c33e	2026-09-25	https://mouse.dev/blog/muse-runtime-export/	lob:I asked Meta’s Muse for its filesystem and it sent me 6.8 GB
+cc234b9455cd9f0bff8590a6534298a4	2026-09-25	https://techworkersinquiry.org/ai/	lob:AI Workers' Inquiry 2026
+dc24f5dcbd8274a4ca9cbbf3d989b2c7	2026-09-25	https://users.cs.utah.edu/~elb/folklore/mel.html	lob:The Story of Mel
+e5e8cde64e25266a69fa6d1a21427b64	2026-09-25	https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html	lob:Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)
+4f1e84f4e36509443f8b6d37f1b04fd5	2026-09-25	https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/	lob:Clankers Made Me Build a Second Brain
+b238649e72bf8779ef2ae36228eba7c8	2026-09-25	https://nove.dev/blog/katamari-architecture/	lob:katamari architecture
+1342da5c6b9e0300e81b7cec304ccb9c	2026-09-25	https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557	lob:Pick OS is a Living Fossil of Computer History
+f7958d4ec62a5992b073ab9b96dc8136	2026-09-25	https://evnm.substack.com/p/beware-overreliance-on-metaphor	lob:Beware overreliance on metaphor
+57e0b62158f5b079e6bff04297151970	2026-09-25	https://xenodium.com/agent-shell-0-78-updates	lob:agent-shell 0.78 updates
+1ff14d32a3d86ad57ed79c5e8b528ad2	2026-09-25	https://blogs.gnome.org/xjuan/2026/09/24/casilda-1-6-released/	lob:Casilda 1.6 Released
+57e7a9e49c4eceb010c284b714d27c4b	2026-09-25	https://amutable.com/blog/tine-build-system	lob:From Thin Air to Bootable Images: The tine Build System
+d9f2cbcd6d6f956b36d708f6ba2343a6	2026-09-25	https://pypi.org/project/whatsnewt/	lob:whatsnewt: A TUI text adventure through what's new in Python 3.15
+58e33d66cd620758ed98d0bfbf157a15	2026-09-25	https://filmroellchen.eu/blog/mipselflut/	lob:Running Pixelflut on a 2010 router
+9ed51c1dc810c7c64d7358aa89c34b4a	2026-09-26	https://robert.ocallahan.org/2026/09/goodbye-google.html	lob:Goodbye Google
+04fc36557c79e030ecd8046a4b131b2d	2026-09-26	https://greasyfork.org/en/scripts?by=1646191	lob:Lobsters: Rename vibecoding to llms (Greasemonkey script)
+b533a32df15e2d50785684c2cecbe3d4	2026-09-26	https://herecomesthemoon.net/2026/09/commodified-intelligence/	lob:Commodified Intelligence
+f0ff43796033ad188a77f0e2582e1d36	2026-09-26	https://www.redox-os.org/news/this-month-260831/	lob:This Month in Redox - August 2026
+396ddd6588b409b3dccdabd2b79c8681	2026-09-26	https://fzakaria.com/2026/09/24/every-package-is-already-installed	lob:Every package is already installed
+8e5d230f1b55f7739cbeb5c2293e5418	2026-09-26	https://blog.glyph.im/2026/09/who-is-open-source-about.html	lob:Who Is Open Source About?
+b88162a388a84f6eceeff44ed0e325d5	2026-09-26	https://inoti.fyi/	lob:File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS
+f236f0f54368d17549242667f03a13c5	2026-09-26	https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/	lob:A Type Stronger than the Sum of its Components
+8234aa496dd9494aa02818aa6bdce162	2026-09-26	https://purplesyringa.moe/blog/grieving-the-loss-of-details/	lob:Grieving the loss of details
+a4879f2ffbb5a601078c4a1858ed2d93	2026-09-26	https://commongrid.info	lob:CommonGrid: The open source registry of the US power grid
+b2982edeb48a859595e293a7dbe7083b	2026-09-26	https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/	lob:LLM Policies: Progress At All Costs
+008a69b7eee6981e4dadbd1965cd0370	2026-09-26	https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+15ab29937380d11f0465770700481e64	2026-09-26	https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/	lob:Understanding NvPCRs in systemd v262
+13bb7178d5f690220ed6a961fcd1ad89	2026-09-26	https://caio.ca/blog/pencils-down-eyes-open-rails-world	lob:Pencils Down, Eyes Open: A Rails Developer After Rails World
+15163fcc328343eb24ce3e4974969b70	2026-09-26	https://portswigger.net/web-security/cross-site-scripting/cheat-sheet	lob:Cross-Site Scripting (XSS) Cheat Sheet
+4b0fbb8d07a8429924b49d73de007a68	2026-09-26	https://github.com/flegfleg/Paranoia-Sans	lob:Paranoia-Sans: A conspiratorial typeface
+970883f130b5d4eacd63397557a7d5b5	2026-09-26	https://jhellerstein.github.io/blog/three-specs-on-specs/	lob:Three Lenses on Coordination
+bcbe4c221e492a9b5b8c78e2966b3c20	2026-09-27	https://feyor.sh/blog/infecting-the-steam-link-with-nixos/	lob:Infecting the Steam Link with NixOS
+4ae37f9d293f53b8d3f53a6d74698683	2026-09-27	https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/	lob:If we do not stop to help each other, what do we become?
+e17d929d676131f5689e0dcf8c97f62e	2026-09-27	https://antonz.org/go-concurrency-distilled/	lob:Go concurrency distilled
+e508ee54d0e488b4ca7f90da2d2add13	2026-09-27	https://shukla.io/blog/2026-09/pun.html	lob:The JavaScript Pun: tagged template literal
+1b50e8506540ea59e83720774d4bd0c1	2026-09-27	https://shnatsel.github.io/state-of-simd-rust-2026/	lob:The state of SIMD in Rust in 2026
+1ff81cf2dc68ce6bc1de9999d99ba102	2026-09-27	https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office	lob:Suggestion to replace LibreOffice with Collabora as default on Fedora
+5951c1407a0d0f35edb67ca7cc4e6bef	2026-09-27	https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/	lob:Wrong, not broken
+8cf60858c9d803565b21369c92198e77	2026-09-27	http://www.righto.com/2026/09/8087-tangent-cordic.html	lob:Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC
+09342fc64631ba4143055e98c2bdc539	2026-09-27	https://ahelwer.ca/post/2026-09-26-reachability/	lob:Can we have reachability properties in TLA⁺?
+6d2b5088b22e87b9d83541c46cdd1369	2026-09-27	https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html	lob:Keep if clauses side-effect free
+59af4edda9ececfda42c759ec5fd3522	2026-09-27	https://arxiv.org/abs/2608.23642	lob:AI Agents Push Humans Out of the Loop
+ee8f19410cb0e2f62cc2ab44364b5ff4	2026-09-27	https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html	lob:NetBSD Playing with disklabels
+d75f85936cc9943245757dff344f3701	2026-09-27	https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/	lob:Tuning a Server for Benchmarking
+929bd695bbb734dc3d2eaa5a15960830	2026-09-27	https://jazho76.github.io/house_of_apple_2/	lob:Dissecting House of Apple 2 on modern glibc
+5c08f5782c1b669a972a1c18b8111ea5	2026-09-27	https://www.rocketpoweredjetpants.com/reassurance/	lob:Reassurance
+6b0fbf3e80e16e466f64ea3e28ef4263	2026-09-27	https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/	lob:Rusty thoughts on "Parse, don't validate"
+eff64c4825473f64a28913908d27085c	2026-09-28	https://pixelambacht.nl/2026/ten-lines-of-code/	lob:Ten Lines Of Code That Changed My World
+c676766cdfff12cfdd6e0a785798ac8e	2026-09-28	https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html	lob:One month without AI
+b206fdf410f97019a21bddc02567b1dd	2026-09-28	https://nura.eco/blog/2026/09/27/nura-rename/	lob:postmarketOS rebrands as Nura
+31ede33a9436b29ef72e386536e96981	2026-09-28	https://luarocks.org/security-incident-september-2026	lob:LuaRocks Security Incident September 2026
+f77148dadb95f6de4e849d3b6dddaa7b	2026-09-28	https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave	lob:Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming
+b9f3a230f75e8ef475df211fb700a316	2026-09-28	https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/	lob:Deshittification Part 2: Bypassing the App Store Gatekeeper
+7eccfc00a6861f1fabfb359f7f8fff55	2026-09-28	https://dl.acm.org/doi/pdf/10.1145/3540250.3558940	lob:What Improves Developer Productivity at Google? Code Quality (2022)
+12e90497df92396ad27d9c6a158db71a	2026-09-28	https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/	lob:Reverse Engineering the iPod Classic's Undocumented Mikey Chip
+cda0dc9376845f2b26570c1fff2a97c0	2026-09-28	https://modernmotherfuckingwebsite.dreamstation.systems/	lob:This is a modern motherfucking website
+6c4eb6640f76eb38b5728110f965e509	2026-09-28	https://www.davepagurek.com/blog/p5-compute-shaders/	lob:Teaching GPU programming in p5.js: now with compute shaders
+e8c57fc0ffe30ceb7ed100e748063117	2026-09-28	https://dthompson.us/posts/deploying-guix-images-on-linode.html	lob:Deploying Guix images on Linode
+cfd955be6468b9ef968373aee66599c8	2026-09-29	https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/	lob:Yes, no AI is now a feature
+a0a2d3d6050582a69e638d10681c8d4a	2026-09-29	https://dbushell.com/2026/09/28/leaving-them-behind/	lob:Leaving them behind
+bd65ed99382dff74842a8a75d772f200	2026-09-29	https://paultm.nl/paren-thesis	lob:What makes Lisp difficult to read?
+8880c63534e1f66cc74f47c7f7b5220b	2026-09-29	https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report	lob:HardenedBSD August / September 2026 Status Report
+c27ca2345374db08d5aee0eca435cf3c	2026-09-29	https://hugoarnal.com/blog/rickroll-pharmacy-cross/	lob:Rickrolling with a Pharmacy cross
+f13611f2b9d0f773dd7a50229f909c0c	2026-09-29	https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/	lob:How to Solve Hallucination (with RLCD)
+192cb4e74bfb10a4f9011b1923b5ce33	2026-09-29	https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week	lob:What are you doing this week?
+6597294a021fc762d6bb3472182a2a8b	2026-09-29	https://bcantrill.dtrace.org/2026/09/27/fools-expertise/	lob:Fool's Expertise
+1feeac3c68315c87b58d937ace14bdcd	2026-09-29	https://github.com/frazerpearce/TimeLord	lob:Output-to-seed mappings for CPython's PRNG
+60df9f5f1147c13f8c10ea2a9d07137d	2026-09-29	https://www.youtube.com/watch?v=zwi5b5xSsKA	lob:State of the (Tagged) Union Address by Andrew Kelley
+86b377b2ee8eb31902d0a619e0a90d1b	2026-09-29	https://calnewport.com/its-time-to-investigate-the-ai-labs/	lob:It’s Time to Investigate the AI Labs
+a46c7e463443ff3df63a5652b32f4a1a	2026-09-29	https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/	lob:Packing Binary Is Fun, Actually
+f3a9306831000fb440096f2e969e0a05	2026-09-29	https://nedbatchelder.com/blog/202609/expert_asterisks	lob:Expert asterisks
+d30c8f3fe69bad3e65578ee790c4ef96	2026-09-29	https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/	lob:Dropping Swift entirely from our Bevy iOS crates
+b1c2c220abf1da9bd81afd7528073398	2026-09-30	https://cow-wm.codeberg.page/cow/	lob:CoW — a stacking window manager for Wayland
+c99be566586217a8d7a8b0050fcbf138	2026-09-30	https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/	lob:Pining for Arc Downcasting in Rust
+cb89778911db9078e3b66e8b2f0fa77e	2026-09-30	https://compiler.club/aho-corasick/	lob:Aho-Corasick Algorithm
+5793f82fc440ff05c1014dcc243db3cb	2026-09-30	https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa	lob:My experience writing automated tests for a SPA
+959518352a461b80b362df9ed6957486	2026-09-30	https://www.machtiani.chat/blogs/the-shell	lob:The Shell & Email
+79abdf86551bb482daa89da450be653c	2026-09-30	https://postmarketos.org/blog/2026/09/29/road-to-main-category/	lob:Nura (postmarketOS): The road to daily-drivable mainline phones
+44fd9ed46aa9a67d7f57a7530c85078d	2026-09-30	https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/	lob:Switching To Emacs as a Neovim User
+356c564f57341ce76c0a3432b2227804	2026-09-30	https://motif-central.org/	lob:MotifCentral - All Things Motif/Xt/Xlib
+70ea7b38592a1136b2fd401fc95bde6e	2026-09-30	https://blog.nns.ee/2026/09/24/oneplus-root/	lob:Getting root on OnePlus 15 from an untrusted app
+3e1218bf11d80e2f07d1db4bbdbcee8e	2026-09-30	https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/	lob:AI Didn’t Make Programming Easier. It Just Made It Differently Difficult
+cfd955be6468b9ef968373aee66599c8	2026-09-30	https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/	lob:Yes, no AI is now a feature
+71d8b38fbd195352fe3449576c58859c	2026-09-30	https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders	lob:Two Kinds of SQL Query Builders
+4aea76555f3d88868b9d7144d2de07e0	2026-09-30	https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days	lob:How I Built an iPhone App in Four Days with Opus 5.5
+60df9f5f1147c13f8c10ea2a9d07137d	2026-09-30	https://www.youtube.com/watch?v=zwi5b5xSsKA	lob:State of the (Tagged) Union Address by Andrew Kelley
+a0a2d3d6050582a69e638d10681c8d4a	2026-09-30	https://dbushell.com/2026/09/28/leaving-them-behind/	lob:Leaving them behind
+f58222ca100c335da92cf33b1b31469e	2026-09-30	https://www.youtube.com/watch?v=25x0UuSCKuU	lob:Deterministic Concurrency
+c5896e329d6b1debeeb6134cb456ac49	2026-09-30	https://wpollock.com/AUnix1/FilePermissions.htm	lob:Unix File and Directory Permissions and Modes (2018)
+bd65ed99382dff74842a8a75d772f200	2026-09-30	https://paultm.nl/paren-thesis	lob:What makes Lisp difficult to read?
+9afda2cb2deea361f161ff7eac78a0b3	2026-09-30	https://www.kmjn.org/notes/text_to_meowdio_models.html	lob:Text-to-meowdio models
+86b377b2ee8eb31902d0a619e0a90d1b	2026-09-30	https://calnewport.com/its-time-to-investigate-the-ai-labs/	lob:It’s Time to Investigate the AI Labs
+08bb9a2acbb9db38437f38b735094fdf	2026-09-30	https://lucumr.pocoo.org/2026/9/29/deser/	lob:Deser: Rethinking Rust Serialization
+9ebc0c9f28db0eb80fc11fe4eaae4f95	2026-10-01	https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)	lob:The Cuckoo's Egg
+656d334a845bd6fbf8657bddcd70e0d1	2026-10-01	https://aaronmallen.me/writing/hanami-why-introductions	lob:Hanami, Why?: Introductions
+a0c5707c856ee0a6ed512fa863571f69	2026-10-01	https://blog.haskell.org/foldl-and-foldr/	lob:Differences between `foldl` and `foldr`
+21daef866aa2b619b78877d529a50a9b	2026-10-01	https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html	lob:How to speed up the Rust compiler in September 2026
+b0cde21c5d914435d03bf5ea68e002c4	2026-10-01	https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/	lob:Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates
+e5d203a84aba12aa988fcd75c225b585	2026-10-01	https://comonad.com/reader/2026/turbo-haskell/	lob:Turbo Haskell
+c99be566586217a8d7a8b0050fcbf138	2026-10-01	https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/	lob:Pining for Arc Downcasting in Rust
+e667ad8b61fe069d1abed7d5824b17a9	2026-10-01	https://blog.alexewerlof.com/p/coding-is-not-solved	lob:Coding is not solved
+08bb9a2acbb9db38437f38b735094fdf	2026-10-01	https://lucumr.pocoo.org/2026/9/29/deser/	lob:Deser: Rethinking Rust Serialization
+b1c2c220abf1da9bd81afd7528073398	2026-10-01	https://cow-wm.codeberg.page/cow/	lob:CoW — a stacking window manager for Wayland
+eb6d10dec6b9ec23a2ba15bdffb89ef5	2026-10-01	https://matklad.github.io/2026/09/19/finding-bugs.html	lob:Finding Bugs
+0fb5bdcd2414bf4952aa82c302853296	2026-10-01	https://www.vusec.net/projects/btr/	lob:Branch Target Reuse: Spectre-v2 Attacks in JIT Engines
+71d8b38fbd195352fe3449576c58859c	2026-10-01	https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders	lob:Two Kinds of SQL Query Builders
+00749112e771154b7c3715809f4cf1c7	2026-10-01	https://www.tigrisdata.com/blog/quick-fdb-kafka/	lob:We used a database as a message queue. Now we use Kafka
+a6b61d1fc2db7069c69d8042282ad1f7	2026-10-01	https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011	lob:Dirty Optimization Secrets (C for Playdate)
+e343e1aed125272918421b1a59a11070	2026-10-01	https://mit.teil.space/rane-sl3.html	lob:A no-cost audio upgrade for my workstation
+a1b5a69f8939f757226ce5ab29dacf1c	2026-10-01	https://www.greenend.org.uk/rjk/misc/nipple.html	lob:The Only Intuitive Interface Is The Nipple
+f02ff5f6b66722529109cc8f778825f0	2026-10-01	https://www.qt.io/blog/qt-6.12-released	lob:Qt 6.12 LTS Released
+3a5c0a31338e9960f73ba12ccff8cc8e	2026-10-01	https://jardo.dev/hardly-promethean	lob:Hardly Promethean
+6b7fca734aec800c0f4adb75bce1a9a1	2026-10-01	https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30	lob:attezt: device attestation, PKCS11 and ACME
+79abdf86551bb482daa89da450be653c	2026-10-01	https://postmarketos.org/blog/2026/09/29/road-to-main-category/	lob:Nura (postmarketOS): The road to daily-drivable mainline phones
+cb89778911db9078e3b66e8b2f0fa77e	2026-10-01	https://compiler.club/aho-corasick/	lob:Aho-Corasick Algorithm
+e59062af0314b0146523a1971d6a5a79	2026-10-01	https://signal.org/blog/backup-improvements/	lob:Back to Backups: A Year in Review
+fe707118ef944216397afdec1f148592	2026-10-02	https://www.oliverdunk.com/2026/09/30/iana-reply	lob:IANA's email about why example.com changed
+08f2d312168eeb6580f8ae4eab8224ca	2026-10-02	https://amoffat.github.io/blog/cognitive-load.html	lob:Reducing the cognitive load of AI changes
+0269d44f6e9fdb82e13c91a317c01413	2026-10-02	https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436	lob:Pidgin 3.0 Alpha 3 2.97.0 has been released
+1f3323f48dae93d9dda06ffae2a50dfb	2026-10-02	https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/	lob:Announcing Rust 1.99.0
+7d808a70725e5fb41cb80867893b8bbd	2026-10-02	https://blog.gitbutler.com/git-3-sha-256	lob:Git 3.0's upcoming SHA-256 default will be a costly mistake
+482597b6fcd68c9db3830905763c1950	2026-10-02	https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026	lob:Who's hiring? Q4 2026
+9cf26abf41c34088d7dd19aad53ad306	2026-10-02	https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/	lob:Is sandboxing sufficient to contain rogue agents?
+3f32bb79afebc1dcc9a4113649d28f26	2026-10-02	https://github.com/dtonon/outis	lob:outis: Fight AI spam by generating and sending a fake "user unknown" bounce emails
+b629c9c337b1069c1231b18338c32405	2026-10-02	https://sm2n.ca/articles/typeclasses-vs-modules/	lob:Typeclasses vs Modules
+942d9378df769edb513a98252868a5b5	2026-10-02	https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/	lob:WSL containers are now generally available
+83d6a1d04d2a40543d28f025ca24ea82	2026-10-02	https://nikolan.net/posts/portal2/	lob:Reviving Valve's 15-year-old e-book
+d2cb26e97558e90a3415df9eb7446bbf	2026-10-02	https://molily.de/web-dev-education/	lob:The death of web development education
+86c41f79451f6bb314e099255065fc65	2026-10-02	https://ploum.net/2026-10-01-pascal_wager.html	lob:The AI Pascal’s Wager
+9a1a19e8f4ad947c1d64b0330fa44d00	2026-10-02	https://verdagon.dev/blog/boundary-memory-safety	lob:The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary
+d1f89e46d75464a7817ad4d06f4bbffd	2026-10-02	https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33	lob:Major rsync upgrade in Debian because of 33 CVEs
+269025de50bff80f3c52ea9b4d578fb0	2026-10-02	https://grim.cargocut.org/a/rev-list.html	lob:Lists that keep track of their reversal
+026762cea8e3d0fde0b56c4325d54949	2026-10-02	https://www.youtube.com/watch?v=7Tr0ty9-yeQ	lob:How to make a text box: A crash course in Unicode and OpenType
+1293d7b0690ca36f42b2577244eea57a	2026-10-02	https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en	lob:EU KIDS Act
+ccaeeda744d422edca33801b4e2e1c7d	2026-10-02	https://github.com/edgcpp/compiler	lob:EDG C/C++ Compiler Project
+c68b43c34749a070ae945c87a8547521	2026-10-02	https://renderling.xyz/articles/wgsl-rs-beta-release.html	lob:Rust to WGSL transpiler `wgsl-rs` released
+090c8a684784e3b44baeb13033a9116c	2026-10-02	https://jimmyhmiller.com/change-our-languages	lob:We Should be Able to Change our Languages
+b563909f878c6a767a4baf7d9a69e289	2026-10-03	https://ziglang.org/download/0.17.0/release-notes.html	lob:Zig 0.17.0 Release Notes
+05f5ae43b77b3be6cd2f5030fe7a1b99	2026-10-03	https://yuka.dev/blog-2026-10-02-linux-m4.html	lob:The forgetful CPU (Linux on M4)
+f120912826a07d85dd16550dc8829eee	2026-10-03	https://www.waterfox.com/releases/6.7.5/	lob:Waterfox 6.7.5 Adds a Built-in Feed Reader
+20cdc421444ed7d57750c293232326cc	2026-10-03	https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding	lob:The Four Horsemen of Agentic Coding
+32f9021f15521d2e9d97f2c9e1607f5b	2026-10-03	https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/	lob:Generic Const Args and You
+822b473f1c56243b193fb19349744c67	2026-10-03	https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+eb1050c135c79a0a516f419438e7f45f	2026-10-03	https://loige.co/hidden-design-compromises-of-docker-layers/	lob:The hidden design compromises of Docker layers
+00d5e97d2d147195805d8d8f2a878ea3	2026-10-03	https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/	lob:SequenceHash: multihashing for the rest of us
+4f8f0825addb348a8e8c1854cee2bcf7	2026-10-03	https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect	lob:Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)
+4c2d649e1e14a2f5715e19268b00305e	2026-10-03	https://futhark-lang.org/blog/2026-10-02-cpu_function.html	lob:Keeping Futhark off the GPU
+ee23c6fa6d68f5ce4032b3228dcc5cce	2026-10-03	https://rahuljuliato.com/posts/emacs-rx-in-typescript	lob:Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx
+5723230d4cc486af9d490d64302537fc	2026-10-03	https://alexalejandre.com/interviews/peter-bex/	lob:Interview with Sjamaan
+029791287f224f57a37828d63d2b0ab7	2026-10-03	https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/	lob:Driving the GDEH0154D67 e-paper display with Rust
+4d2b161143ab53a9e4be4d84999dbead	2026-10-03	https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/	lob:GitHub repository landing pages now show an accessibility tab, if provided
+7b08ffa50cdee4dc97c8903ddf26da4e	2026-10-03	https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/	lob:Advice to a beginning software engineer
+bedc870bbac2e48c1b33ce5b1acc7841	2026-10-03	https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/	lob:Klassik Revives the KDE 3 Desktop on Modern Plasma 6
+1f14e2cbd883a7798f958374f8fc9c4f	2026-10-03	https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/	lob:JetBrains Air: Building a System of Products for Agentic Software Development
+54a8e3e4fb2066744bb61b65a0e52dab	2026-10-04	https://frankwiles.com/posts/i-got-targeted/	lob:I got targeted: Trying to get your credentials via a git post-checkout hook
+eddef8dab48693bdafcee439b4439b23	2026-10-04	https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/	lob:The Era of Software Quality, or the Era of Ostriches?
+1e4d62d9254e6e3672a11809d46c421b	2026-10-04	https://www.da.vidbuchanan.co.uk/blog/hacking-time.html	lob:How to Hack Time, With C2PA
+60fca578bd911244a799ef5f30241927	2026-10-04	https://orlp.net/blog/two-stack-sliding-window-aggregation/	lob:Two-Stack Sliding-Window Aggregation
+d23a8f5226c211b4af4e24cb254d4548	2026-10-04	https://gvisor.dev/blog/2026/10/02/gvisor-cncf/	lob:gVisor is being donated to CNCF
+5876d03e00efc1ea01ea122e660a6a80	2026-10-04	https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/	lob:Rust for CPython (Python Language Summit 2026)
+a3fbc1d918e468e1242929326d8aa089	2026-10-04	https://blog.kagi.com/update-orion-linux-windows	lob:An Update on Orion for Linux and Windows
+ea13d5d7105bf78ffa4f8afe5bb70799	2026-10-04	https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017	lob:Writing the Cyclone Scheme Compiler (2017)
+7a4817a787c9084612d7921dc9837026	2026-10-04	https://www.youtube.com/watch?v=3kbPyuAtk7g	lob:Rust, In Sickness & In Health
+804051ce631bffe91d9209a087dd9ae5	2026-10-04	https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/	lob:Why don’t more developers "use the platform"?
+a27b6782ce7862df9d7154d09355fc3a	2026-10-04	https://matduggan.com/what-does-my-dream-os-ui-look-like/	lob:Problems and solutions to the modern desktop (Make tmux the OS)
+f96ef561b85fff8e1b72b31671583d2e	2026-10-04	https://kirancodes.me/posts/log-end-of-pl.html	lob:The Era of Programming Languages Exploration is upon Us
+0c44c10ff5eb708644e1d3b7873dab84	2026-10-04	https://dl.acm.org/doi/epdf/10.1145/74818.74831	lob:Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)
+47d7bc84c84eddea1905b4b68239e2a9	2026-10-04	https://kevinboone.me/adblock.html	lob:System-level ad-blocking in Android
+4d493458e4b93a532a71e682d3384e93	2026-10-04	https://nohope.io	lob:Grow and control a swarm
+e51e597494076a38290fee59b0b6307c	2026-10-04	https://github.com/bsidesorlando/2026-badge	lob:BSides Orlando 2026 Badge
+f09e4e0bb702cafb9ec051e1d271b745	2026-10-05	https://yossarian.net/til/post/rust-s-derive-often-implies-inline/	lob:Rust's derive often implies inline
+6cbb25c85dc9a3d39ca16374a47a2ec3	2026-10-05	https://github.com/rcalixte/ncdu	lob:ncdu: NCurses Disk Usage (an updated fork)
+81b68c5ee25b3bb6593e454ca373b380	2026-10-05	https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/	lob:We’re going to need default hard budget caps on pretty much everything
+1b3f00ce16c9eaca5526494ca575cfcf	2026-10-05	https://git.btxx.org/grubby	lob:grubby: static site generator for git repos written in Ruby
+4ec97222b0221cec73176a93e88a7719	2026-10-05	https://dryperspective.github.io/posts/complement-of-true/	lob:The complement of true is true, except when it's false
+d9aed310bd38128691e5551191222ea3	2026-10-05	https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6	lob:Hacking the Go compiler to efficiently map IPv4 to IPv6
+e7c520ecf6c5ecd20e4c49009f1639ec	2026-10-05	https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/	lob:Flatpak from the CLI sucks
+31a87390e429a41a5293b629f3f49d0f	2026-10-05	https://vincent.bernat.ch/en/blog/2026-http-over-ssh	lob:Self-hosted HTTP tunnels with SSH and nginx
+1e4947e38d9a616fc1724e7646f80e95	2026-10-05	https://www.iroh.computer/blog/iroh-global-content-discovery	lob:Iroh global content discovery
+d233558e84851363fff9e1d85f53a07f	2026-10-05	https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf	lob:Protocol-aware recovery for consensus-based storage (2018)
+fbd6690b0d101b7e3afe09f06a51b2fb	2026-10-05	https://thoreaubasic.com/	lob:Thoreau BASIC
+4d48ace61166103ca2839143a5648e81	2026-10-05	https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2	lob:Improving and Stabilizing the racoon2 IKE Daemon in NetBSD
+db8039b521ee8ec0172db31acc0de9e8	2026-10-05	https://www.jvt.me/posts/2024/04/12/use-renovate/	lob:Why I recommend Renovate over any other dependency update tools (2024)
+a8cc2b1b8ae7b41e49275f835aa9093f	2026-10-06	https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/	lob:Gleam doesn't compile to Erlang source anymore
+2c3cf5e090acd04e657f5c3191934990	2026-10-06	https://blog.buenzli.dev/flirt-is-open-source/	lob:Flirt is now Open-Source
+07c38153f985be38d97b101f097d378e	2026-10-06	https://dbushell.com/2026/10/03/deno-to-node/	lob:Friendship ended with Deno, now Node is my best friend
+fbee0b5807a31914caab803c4259d1d2	2026-10-06	https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/	lob:Async Rust: Where does the scheduler live?
+a25b7f96bd86e2bc91f9faf19f393794	2026-10-06	https://elm-lang.org/news/another-step-towards-elm-v1	lob:Another step towards elm v1
+a7066959a81cd5027a870e6e55999148	2026-10-06	https://elou.world/en/tutorial/podman-docker-compose	lob:Using docker-compose with Podman rootless
+cc446bf8577228c02db1743ac3612841	2026-10-06	https://git.sig-io.nl/Sig-IO/mailcheck/	lob:Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers
+a837c3830db206f2b173a588d96b5d64	2026-10-06	https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week	lob:What are you doing this week?
+bff91e7d18fb1140eee8ac7e7aa92b7f	2026-10-06	https://www.philipzucker.com/refinement_egraph/	lob:Refinement E-Graphs
+e58f4df028c9a37115ea8487d2429a43	2026-10-06	https://re.factorcode.org/2026/10/factor-overview.html	lob:Factor Overview
+29e285d00abf7d3c092267722f218cfb	2026-10-06	https://pikuma.com/blog/comanche-maps-reverse-engineering	lob:Reverse Engineering Comanche Terrain Maps
+430101bf8b13c9dd3cf9b02d2e62401d	2026-10-06	https://burningwitness.github.io/blog/posts/against-effect-systems/	lob:You don't need an effect system
+b8927f5b99ddf0b8ead5a593f7b00088	2026-10-06	https://tangled.org/poacher.dev/spoonful	lob:spoonful: static site generator written in Nix
+6ee7a6339f54c91469006ac18c24c317	2026-10-06	https://nullprogram.com/blog/2026/10/04/	lob:A new, bespoke static site generator to replace Jekyll
+515b50d53b0c1152f5781a11c1615e7c	2026-10-06	https://tuftesrazor.scienceux.org/	lob:Tufte's Razor: an interactive guide to the data-ink ratio
+ee97f1676e4b5519f84e7cd5ef9abe56	2026-10-06	https://cedardb.com/blog/sqldoom/	lob:We ported the original Doom to SQL
+2c2a3a4fc80c908f20970a87fa1474ef	2026-10-06	https://johns.codes/blog/nix-on-steam-frame	lob:Nix on the Steam Frame
+e1deaade36d23e525372dfc38581f84a	2026-10-06	https://nivdayan.github.io/dostoevsky.pdf	lob:Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging
+61d84e0a2e8c44f4f80c16e7402fc722	2026-10-07	https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using	lob:Email Self Hosters - what are you using?
+306a42e260ecb86b954a46b15c32d4ff	2026-10-07	https://brut.sh	lob:Brut, the Brutal Router for Unix Tools
+fc7c7e243256e3ac8cfce738b9bdaa8d	2026-10-07	https://github.com/dimonomid/montray/	lob:Montray - a tray icon for systemd service health
+d6626070d903ddde51c63787755ae5f0	2026-10-07	https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/	lob:That Time I Worked With a Laptop Thief
+f909bb5545629f597728cc91d9e8f8c7	2026-10-07	https://arxiv.org/pdf/2607.12197	lob:Bidirectional Type Slicing
+103523673c7ae9eb0246d11254ae1a9b	2026-10-07	https://lucumr.pocoo.org/2026/10/6/codemode/	lob:What is Codemode
+ab350af3542a805ac367a3ff92c30858	2026-10-07	https://jross.me/open-source-as-we-know-it-is-dead/	lob:Open Source as We Know It Is Dead
+ba2eea273e2099a743e2244f92f5d2ad	2026-10-07	https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/	lob:Last rites for Gentoo's Chromium package
+dd210b254b7c9ba95c149fe58e0674be	2026-10-07	https://github.com/4evy/pared	lob:Pared - remove unwanted Apple Intelligence models without disabling SIP
+15658e3c853b5ff70ef84d2a54623062	2026-10-07	https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347	lob:Why We Should Inject Dependencies
+b33877e24fa5e5241dc2226c105db822	2026-10-07	https://www.robbielyman.com/blog/extend-lua-with-zig-1/	lob:Extend Lua with Zig 1: Hello World
+5758c89743c791b0edfa73a9174f2057	2026-10-07	https://mastodon.social/@bagder/117392573268225646	lob:Two arm64-specific miscompiles induce bugs in curl
+79238f06562736c0f86b521fbc1c645b	2026-10-07	https://mitchellh.com/writing/program-status-osc7501	lob:A Terminal Protocol for Program Status (OSC 7501)
+3b565ebf0690a3fd57037203ac85ece1	2026-10-07	https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/	lob:Chrome's Response to Recent ccTLD Registry Hijacks
+440dc284c2b79803c237f1656fc64db2	2026-10-07	https://projectzero.google/2026/10/emergency-patching.html	lob:How to fix a bug in a fix
+0dfe71beaeeb32d4d54f1ed7188c0cd0	2026-10-08	https://refactoringenglish.com/blog/anti-patterns-software-blogging/	lob:Anti-Patterns in Software Blogging
+766760ccc2ddc6bcb93a8556e3f958a1	2026-10-08	https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/	lob:Software developers are not okay
+9cd93742fee093e20164409f3caf0578	2026-10-08	https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/	lob:C for Rust Programmers
+08f58a479e27cbcd3eca95c42ff2a7de	2026-10-08	https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html	lob:Creating distro build tooling for a small community
+402b5b41c16f58f8a21b6e3f334b6f49	2026-10-08	https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/	lob:Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM
+0e2d96148ee73f46880e797ec7273134	2026-10-08	https://wiro.world/posts/calling-c-func-without-naming-it/	lob:Calling a function in C without naming it
+2315ffcc73499cb452ba7f7ad05189df	2026-10-08	https://github.com/storytold/photocraft	lob:An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+02ba3235146e94e579c858c4ea5b865c	2026-10-08	https://hexrat.cc/pages/blog/2026_10_07	lob:rat's minimal register allocator
+7ea4fcbdbc8a2c6e7104f255cd7f568a	2026-10-08	https://thelibre.news/is-cosmic-de-mogging-kde-plasma/	lob:Is COSMIC DE mogging KDE Plasma?
+69670503fa0d2640684e381b274ce565	2026-10-08	https://00f.net/2026/10/06/zeroization-1/	lob:Zeroization, part 1: Wiping can make things worse
+1969d24834e3afcd68b5bf72bfa1fa90	2026-10-08	https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/	lob:Reasons to dislike AI coding
+cbeb4a0e7a4949273d2ce2eea3479469	2026-10-08	https://resilience.ocf.tw/web/report/en.html	lob:When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection
+4b5537308716f1d5fdaf56e430c550fc	2026-10-08	https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007	lob:Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90
+db83eb8cc78af83e717982e759de97e3	2026-10-08	https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim	lob:Explaining the Magelight XP glitch in Skyrim
+0f8c15b39599bb5203e17a565d9c3791	2026-10-08	https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/	lob:Twenty-two pending curl vulnerabilities
+81681e23ec68f544241559a7b9c4702e	2026-10-08	https://matklad.github.io/2026/10/07/git-ref.html	lob:On Git Refs
+0d54d45dbe2b02c132d1846c72d0c826	2026-10-08	https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15	lob:How fast is Python 3.15?
+5b6bf2d6eaa466d0a1383da99052042d	2026-10-08	https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html	lob:Faster streaming HTML with batches and aggregates
+49540aedb33f9a3ca5283a52b2cf51c9	2026-10-08	https://github.com/openai/math	lob:OpenAI shares mathematics research catalogue
+7c5a9185fecb42c26a8f111b6f12e4fc	2026-10-09	https://sheets.works/data-viz/holding-up-the-internet	lob:The people holding up the internet
+d7809d2f3a96fc3458d54b3e8c8d0279	2026-10-09	https://kennyqin.com/deindexed-by-google/	lob:I've Been Deindexed by Google
+3421f51be87fa7c8ed2199675adf2de1	2026-10-09	https://github.com/jj-vcs/jj/releases/tag/v0.46.0	lob:jujutsu (jj) 0.46.0
+14942898bd8e202514013b70fbdd60c4	2026-10-09	https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/	lob:The Missing Piece in Rust Error Handling
+4dc2c7de0221292ae84c453a6380b38e	2026-10-09	https://casuarina.org/news/ending-the-casuarina-linux-experiment/	lob:Ending the Casuarina Linux Experiment
+61f0b19c06cfa45973ba46fb54bcddea	2026-10-09	https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html	lob:Gentoo infrastructure sponsors wanted
+fd95ddf6e16196fc13816504cc47c3dd	2026-10-09	https://guix.gnu.org/en/blog/2026/extending-guix/	lob:Extending Guix
+11f1844a1cfe9b7c3d4c0b0295490510	2026-10-09	https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/	lob:Beyond the &
+78197ff06d746b6a53f2751506b8ab94	2026-10-09	https://letsencrypt.org/2026/10/07/64-day-certs.html	lob:64-Day Certificate Lifetimes Coming Feb 2027
+9adad72da65ac8460ef749e6817909eb	2026-10-09	https://ysun.co/special/	lob:`specialArgs` considered harmful
+6fbeb3fe8da1643c9aecea316076a8d0	2026-10-09	https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/	lob:The history of the Hetzner Cloud network stack
+9083bc1fa1cd1b2d1578119d04030dda	2026-10-09	https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html	lob:A rant about APIs
+93b2375877b796bfe6405bb8067f32c2	2026-10-09	https://www.spinellis.gr/blog/20261008/?li261008	lob:Thinking will become a hobby
+bade4ff7a74ed22e31015398c614b49d	2026-10-09	https://pranitha.dev/posts/rwlock-vs-lockfree/	lob:The Performance Cost of RwLock in Our Read-Heavy Workload
+6cc3db003f446d929ecf5d5219e6dacd	2026-10-09	https://exa.y2k.diy/garden/git-sha256/	lob:Migrating Git repos to SHA-256
+a78f1fc822324aff114c4004eb9afbcc	2026-10-09	https://ispcol.potaroo.net/2026-10/kskroll.html	lob:Rolling the Root Key (Update)
+2a1f0707496184638f94d42ed0df3b88	2026-10-10	https://blueberrywren.dev/blog/primes/	lob:A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda
+e4539cc5c08f4cc972c97a762311feb5	2026-10-10	https://mtlynch.io/why-are-coding-agents-so-dumb/	lob:Why Are Coding Agents So Dumb?
+7ee3fd6f416af89afcf3b18ffd8f7215	2026-10-10	https://www.unison-lang.org/blog/unison-cloud-open-source/	lob:Unison Cloud is now open source
+c97642e80c6eb2cd136fb0b9d687e236	2026-10-10	https://www.python.org/downloads/release/python-3150/	lob:Python 3.15.0
+4c92a48c90bea70fdb496d4cec91e11d	2026-10-10	https://earendil.com/posts/system-theme/	lob:There are many themes, but this one is yours
+128a0e24a14ef48c47915acf008aa3c5	2026-10-10	https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+e7292f654ab2a6695dfa1d3a2c43614a	2026-10-10	https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/	lob:"Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot
+493b445614a73f7d7518804cdaee1399	2026-10-10	https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/	lob:Branches in branch-free code
+3c8ba7cfe62c165a6776846b6ead2518	2026-10-10	https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html	lob:Deepthi Sigireddi from Supabase
+3e9ddaecb35fdc23c06087e34d9f5b91	2026-10-10	https://bevy.org/news/bevy-0-20/	lob:Bevy 0.20
+485c8caa2781d4b437ae301148b7d299	2026-10-10	https://carette.xyz/posts/minimal_swift_kernel_on_qemu/	lob:A minimal kernel in Swift, running in QEMU
+fb929a8dbfa3867f0266e0905da3fb47	2026-10-10	https://purplesyringa.moe/blog/vectorized-clz-and-ctz/	lob:Vectorized CLZ and CTZ
+95bddffc7f467c8f4f0691b00ed1a178	2026-10-10	https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html	lob:Spinlocks Considered Harmful (2020)
+46c00765ed12a81dde5e49237a993d84	2026-10-10	https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/	lob:HIP and ROCm as first-class citizens in Guix
+a419c29fb79a97e75e2fb03088c6b919	2026-10-10	https://github.com/Facebook/lifeguard	lob:Lifeguard: A static analyzer for Python lazy imports compatibility
+b64f14fd1c87596affe818fc2b2c48b5	2026-10-10	https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/	lob:Equality Saturation: An “Incomplete” Project
+4b04ff07a2d95833754ec537f099837d	2026-10-10	https://lwn.net/Articles/1095811/	lob:Reducing undefined behavior in the C language
+c0d6b0a727474691ede16cc21e90ccea	2026-10-11	https://sebsite.pw/w/20261009-strtod.html	lob:oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c
+c616eeedde62be02e609a429afa02237	2026-10-11	https://deadsimpletech.com/blog/llms-arent-inevitable	lob:There's little that's "inevitable" about AI
+a361b3c2db05a1ac4308987d0a780a00	2026-10-11	https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html	lob:Iframes that finally fit their content
+a84479d5f42bcad73ca059aa34ba8d84	2026-10-11	https://pings.utwente.io/	lob:SNTPings, draw on a canvas using ICMPv6
+ec4db78170fb13f5ea0777d8e02aa545	2026-10-11	https://nerdyelectronics.com/mars-pathfinder-what-really-happened/	lob:Mars Pathfinder Priority Inversion Bug: What Really Happened
+a3cef309d9eabb924791dc00476f61c8	2026-10-11	https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/	lob:Why 'externalized' proofs of cyclic trait impls does not work
+c915abe9e1638b4c80e912e79af21c7b	2026-10-11	https://linus.dev/posts/kiesel-devlog-15/	lob:Kiesel Devlog #15: Release 0.4.0
+3900f671a956f9dc72cb78ad3f0ca926	2026-10-11	https://github.com/rupert648/culpert	lob:culpert - rust heap profiling with span awareness and regression tooling
+5f2f73b79911e2bb924adb694f28730e	2026-10-11	http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html	lob:Inside a 1980s filter chip that uses switched capacitors
+2520fbb46ca0d0500eb838fb008f4916	2026-10-11	https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not	lob:Cloudflare shutting down Deno is news, not just PR
+a8ab061e404d9860a37faf2e7abbc2c2	2026-10-11	https://karansaini.com/mmi-android/	lob:1-click MMI execution in Android
+0921a4233348265fecafe81de8c55fb0	2026-10-11	https://healeycodes.com/adding-defer-to-the-typescript-compiler	lob:Adding Go's defer to the TypeScript Compiler
+4f843b161da88e7e5f1bce248ec4abc3	2026-10-11	https://samkhawase.com/blog/voxlocal-minimal-voice-agent/	lob:Voxlocal: a minimal voice agent written in Rust
+f90c4b7f80fec803fe48e7e13819df0f	2026-10-12	https://www.gnu.org/philosophy/whats-wrong-with-github.html	lob:What's Wrong with GitHub
+14da5ebd57e611a0b6dc497baf8f6786	2026-10-12	https://rachelbythebay.com/w/2026/10/08/idle/	lob:I'm still around.. I'm just not writing here
+88e350d3004b0800bb589a26da145594	2026-10-12	https://eliasebner.com/blog/guides/arena-allocators-in-c/	lob:Arena Allocators in C
+71949089564c69be31ac36626fe3123a	2026-10-12	https://ratfactor.com/cards/git-commit-size	lob:How big is a Git commit?
+7ca5e1b2e0b037f2eea38315a55b3273	2026-10-12	https://technicalwriting.dev/blog/2026/10/polyglot/index.html	lob:The wild west of polyglot docs sites
+01e9198b0ad8636d7a04472f894a07a2	2026-10-12	https://dbushell.com/2026/10/11/d-bus-hell/	lob:D-Bus Hell
+cb7953ae57d4a931fb776238b2c2e4d5	2026-10-12	https://pydantic.dev/articles/dynamic-shredding-2026-01-26	lob:How shredding JSON is giving Logfire 1000x query speedups
+a031fe93abadfe50c3fa5dd912e734d7	2026-10-12	https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/	lob:Tello's GameSir T1d controller as a Linux Xbox controller
+7137132bd21db0a3d7b7260efd315248	2026-10-12	https://n-the-loop.com/blog/consistency-is-not-a-localized-property/	lob:Consistency is not a localized property
+eebfdfe1de3f9175da3520bff1a473ed	2026-10-12	https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html	lob:What we ended up doing about alias propagation
+56556d09230794600a1d4bdbbf62a32a	2026-10-12	https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061	lob:The next-gen borrow checker, a drop-in replacement for Rust borrow checking
+183c7f34931746f0b0b04bfa2fee0330	2026-10-12	https://blog.scientific-python.org/numpy/searchsorted/	lob:Making np.searchsorted up to 25× Faster in NumPy 2.5
+df4ac89b754b48c34746181c785e5b4b	2026-10-12	https://linear.app/now/reviewing-code-in-the-agent-era	lob:Reviewing code in the agent era
+b1ad15dfb2ae5e5ace33f9d5cc7a1a92	2026-10-12	https://jjenzz.com/making-react-context-cheap/	lob:Making React Context Cheap with React Compiler
+99827c86b003a53ddfe5604d768e127f	2026-10-12	https://adepts.of0x.cc/Eufy-DoorBell-hacking/	lob:Hacking the Eufy Doorbell and Base Station
+34cb7a1d14292638be23166e01487afb	2026-10-13	https://blog.julik.nl/2026/10/the-weimar-of-ruby	lob:Living in the Weimar era of Ruby
+b9448855ad65e3472c32a0f0cec3df2a	2026-10-13	https://www.phoronix.com/news/Linus-Torvalds-Claude-Code	lob:Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code
+ba2807e2c81f01d4531b13e2d692c2a8	2026-10-13	https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e	lob:'AI' is Not a Tool
+84b716d9b7dedb04668c845c27247358	2026-10-13	https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week	lob:What are you doing this week?
+1d497afebc36900804b1914324637a7c	2026-10-13	https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown	lob:French supermarket chains say cyberattack forced refrigerator shutdown
+0a0ec306d00f00144a289e967cb08f45	2026-10-13	https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/	lob:Parsing JSON at tens of gigabytes per second… in Python
+f677fef95ba1f6b76e1a458ab0e92ce6	2026-10-13	https://mei.puppycat.house/w/seeing-261010	lob:What I've been seeing lately (in software)
+401f83f82390a58373fccb81c7b07761	2026-10-13	https://sebsite.pw/w/20261012-notstdc.html	lob:your c is not standard c
+0e99bce22fe1fd2dd6c07c56bb2a2785	2026-10-13	https://chuck.is/paranoid/	lob:3-2-1 Backup Strategy with restic and Backblaze B2
+12702fa7fb5fe4ec943a7a3ec94149da	2026-10-13	https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/	lob:Speeding up the Unreal editor by… not using unnecessarily secure hash methods
+dde709c09e3050b4e21242f54390bab3	2026-10-13	https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/	lob:512 bytes at a time: reconstructing IBM i save-file checksums
+b3a7aa9ccc5bf5207cfb192672661b3b	2026-10-13	https://www.youtube.com/watch?v=vIt9xua9bLc	lob:We Put Fighting Game Netcode in Brood War
+cf8d7a11e2a35b7c48f729121ef7dc57	2026-10-13	https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust	lob:Highlights from "I spent 6 years developing a game in Rust and it just shipped, AMA" (2024)
+877d0334d2d69e00c84724748d4b070b	2026-10-13	https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/	lob:ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor
+8db7cb5feb0be06794798e6fc5e36f78	2026-10-14	https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/	lob:Did Ente Locker copy my code without attribution?
+5e842789981d329ce0099a57ab8f87ab	2026-10-14	https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/	lob:Who is vfmaddrnd231pd??
+805b0caaf63e1493174caea3c047b46e	2026-10-14	https://www.natemeyvis.com/where-is-all-the-new-good-software/	lob:Where is all the new, good software?
+feacba8fd15312f3871dd7d7d7f86e2d	2026-10-14	http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves	lob:The reverts will continue until morale improves
+d390fe7eac98511ba9fccf2cdd5c1386	2026-10-14	https://www.patreon.com/vihart/posts/vi-harts-big-171939430	lob:Vi Hart's Big Navier-Stokes Post
+d85d260ab2c235fc3b706e4b4d0bce1a	2026-10-14	https://stonetools.ghost.io/lotusimprov-next/	lob:Lotus Improv on the NeXT
+1c9ae2825c13bf523d2d5e9431c62507	2026-10-14	https://devlog.creusot.rs/v0-14-0/	lob:Creusot 0.14.0 release - Contracts for Rust, formally proved
+a91f7ddc766585b495b20622f8395bef	2026-10-14	https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/	lob:A slightly faster slimmer curl
+6dbcc968fa593df4b6f0f558432a404a	2026-10-14	https://easylang.online/ide	lob:Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC
+60c54d64855dd7c6fddd87798040f1d2	2026-10-14	https://pikuma.com/blog/ease-creation-decrease-quality-value	lob:Can Ease of Creation Lead to Decrease in Quality & Value?
+96271f06bde4b76164b10d98d324ddd7	2026-10-14	https://386s.org/w/lua-antcc-pessimization/	lob:Chasing a -O2 pessimization in antcc
+4a471b2984c0ffd23ab2cf3812c30ddb	2026-10-14	https://www.youtube.com/watch?v=uI1Yx1CJAB0	lob:Data-oriented Design for Mortals
+ca2541243b063dcbea8daba31cd441c1	2026-10-14	https://www.argmin.net/p/faster-fourier-transforms	lob:Faster Fourier Transforms
+a97f89b5ddfebf505b2f18ebdca53458	2026-10-14	https://momo5502.com/posts/2026-10-09-game-decompilation/	lob:500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter
+41083a70dba37a903399a815220dbd32	2026-10-14	https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/	lob:Running RAG with a (small) language model in the browser
+e3b4231ac579ca81894c6033859fde8c	2026-10-14	https://lix.systems/blog/2026-10-13-lix-2.96-release/	lob:Announcing Lix 2.96 “Bingsu”
+08d1a0b3be131e4447736ed4d583cb34	2026-10-14	https://www.youtube.com/watch?v=E6dWIwPLx3s	lob:Accelerating the Zig Tokenizer (with AVX-512)
+a076242ec8c54dc0ca7252c00578d0f9	2026-10-14	https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired	lob:Nixpkgs for the frontend impaired
+f6d21cdf1a85a2b7d4f0a4bb57cfc5cc	2026-10-15	https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/	lob:Introducing Firefox Enterprise
+b19c223d938eb36124fc7c4866a6f486	2026-10-15	https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/	lob:What I Self-Host | Aspirational Self Hosting Guide
+615192f5d5447fc11209c1c6c8f65780	2026-10-15	https://kde.org/announcements/plasma/6/6.8.0/	lob:Plasma 6.8 released (KDE's 30th birthday)
+4221b03dd1105755cfbc17a6cd1ce6b1	2026-10-15	https://sunshowers.io/posts/anthropic-mononoke/	lob:Anthropic's Scion is heavily inspired by Mononoke
+e9c1c6b25b4e0c967740dbac127a2f19	2026-10-15	https://re.factorcode.org/2026/10/factor-0-102-now-available.html	lob:Factor 0.102 now available
+01e9b30d4ad8b7319a0ed88af9295f62	2026-10-15	https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2	lob:Awesome Gaming on Linux Without Cheating
+30edd584e5645bc854deec043350aca7	2026-10-15	https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/	lob:GitLab warns of max severity code execution vulnerability
+d334679f02dbbcb1c8db05e17fb9dddf	2026-10-15	https://sebsite.pw/w/20261014-initstate.html	lob:yet another place where a linux man page is inaccurate
+47c816f47aa71b283291a71b1c831333	2026-10-15	https://www.apple.com/safari/switch/	lob:Apple: Switch to Safari (from Chrome)
+0a47e2870b955d1673eec6a6d83c8958	2026-10-15	https://eliasebner.com/blog/guides/fixing-strings-in-c/	lob:Fixing C Strings With String Views
+318891e8ecef6d80b5eaffbeb386876d	2026-10-15	https://libzxc.org/	lob:ZXC: Lossless compression built for ultra-fast decode
+448530ae4b1a08fcda39143b91ed5fe2	2026-10-15	https://www.youtube.com/watch?v=NaW0d7Tghw0	lob:My Game's Procedural Dialogue System
+540926969b5b86c69c5a12df167114fd	2026-10-15	https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/	lob:A UAF turned RCE
+de82e0fac2148405c37daa69f71ac7fb	2026-10-15	https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges	lob:Compiler bootstrapping depends on more than you might think
+118cf68e6dd602d626720ab6791d9213	2026-10-15	https://delightql.org	lob:The DelightQL Query Language
+dd55c134bde8872253d07528f4a61c8c	2026-10-15	https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/	lob:Package managers have an integrity problem
+3dccc0a1ecd621345d9cfcca8f3d9e28	2026-10-16	https://decomp.dev/	lob:Sunsetting decomp.dev
+1e3b72cbd03ab2cdb6cd3ac4db271370	2026-10-16	https://jakearchibald.com/2026/jpeg-xl-vs-avif/	lob:JPEG XL vs AVIF for web use-cases
+ee31e302709673b39490d28887a1ca7a	2026-10-16	https://abner.page/post/c23-conventions-1/	lob:My C23 Conventions
+455bec4109619984891d19f893596b07	2026-10-16	https://try.haxy.net/haxy:haxy	lob:Haxy on Haxy
+9d0be52e72a8a1f5bcd2af6c2821239a	2026-10-16	https://costa.jacobpalm.dk	lob:The Costa GUI
+247de16dd7ff3c5cc7c7aaf846199b9c	2026-10-16	https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822	lob:Microsoft Defender for Linux
+e116770b4d71463ab002df8bf3333ee7	2026-10-16	https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html	lob:End-to-end encrypted relays for OCapN
+ccee42d977d96a90ead2e35b6684bdb3	2026-10-16	https://github.com/glincker/sslx	lob:sslx: A fast, modern alternative to OpenSSL's CLI
+98306f0184c3d77410f17489c3e854e2	2026-10-16	https://forgejo.org/2026-10-release-v17-0/	lob:Forgejo v17.0 is available
+07c7c5ee150575d1a499c03b6afea342	2026-10-16	https://youtu.be/89yAiqYEwKg	lob:Haxy.net is live! — HAXY (git forge) devlog
+7aa491dab7830c25a6cea31cda988745	2026-10-16	https://lumi.codeberg.page/blog/remote-attestation.html	lob:Remote Attestation Should Not Be Tolerated
+c1c0ae3ded6aad69a5d129aa17d93dd0	2026-10-16	https://furifont.antfu.me/	lob:Furifont: furigana built into the font
+753f5c53aeaae725ece50236a3b7c6e4	2026-10-16	https://entropicthoughts.com/geometric-model-of-maintenance	lob:The geometric model of maintenance
+40aac4acdcc07c2f0d5a469d2031268b	2026-10-16	https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp	lob:Gleam case exhaustiveness, as a fan
+b04876230d7fbbd07dceb1016f3bfd1e	2026-10-16	https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong	lob:Everyone is doing Git on S3 wrong
+7824fa555401b309bd18497e0e22a9ce	2026-10-16	https://swarmcha.se/posts/chinese-agent-fleet-full-report	lob:We found a Tencent agent fleet
+092e8380d17d282679067d28b1a9b073	2026-10-16	https://tombh.co.uk/religious-studies-in-software-engineering	lob:Religious Studies In Software Engineering
+35de0dbe55c68536a69fca545f0bcc7e	2026-10-17	https://words.filippo.io/seeds-solved/	lob:The NIST Elliptic Curves Seeds Bounty Has Been Claimed
+c1f4d3b0e298172aad539543501471df	2026-10-17	https://www.iroh.computer/blog/the-road-to-iroh-1-0	lob:The road to iroh 1.0
+f9fa82a0fa30f84343a894f9812ff169	2026-10-17	https://maevyn.codes/decoherence	lob:The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise
+a0c55df567c7341f564316afe526c7dd	2026-10-17	https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/	lob:Why are we even doing all this?
+56171e431fd5467a5dfcd37bfde6bccb	2026-10-17	https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/	lob:Linus Torvalds on AI-assisted kernel contributions
+c076e9d00fb83256d4fd81a495e69acd	2026-10-17	https://k.sosnierz.me/08-11-24/	lob:Making a 88x31 button book using ImageMagick
+6cab3eff43eab357c0b83670338b6d47	2026-10-17	https://www.youtube.com/watch?v=5zIOfBLQ3U4	lob:Getting Canceled
+0070016c8dd149913384484183dd4a69	2026-10-17	https://github.com/stepchowfun/mull	lob:Mull: note-taking with a language server / vscode extension
+2581d90bef5a3431f32425176be4e410	2026-10-17	https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/	lob:Introducing GNOME OS Preview
+70480af2e35e76cf0561f82503e78f91	2026-10-17	https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html	lob:We're sunsetting Codeberg Pages v2
+cbb7cf351cdf7e9291b19d66d5aeda52	2026-10-17	https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html	lob:Ubuntu 26.10 (Stonking Stingray) released
+e9c66bf5cfe2697d087961599d2686bc	2026-10-17	https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/	lob:Epic's EAC2 v2 seems fairly easily bypassable
+4aa6c39860b2d3c727d35e8bad289a9e	2026-10-17	https://www.youtube.com/watch?v=LKrwhjOI8Nc	lob:There's never been a better time to go into math
+0f4c976ca1d2630b3977915c74a8ab34	2026-10-17	https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+f9b0ebba1b5ca99426f5921fe1c104b4	2026-10-17	https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/	lob:Announcing Rust 1.99.1
+d4d9616ccd51a451dfa9baef1272d9e5	2026-10-17	https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html	lob:My self-hosted infrastructure with Incus OS
+8ea658544675f305bce54d99ea3669a9	2026-10-17	https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your	lob:Do you let LLMs write both your tests and your code?
+4021b36ce2f58ebfa518698efca5fa02	2026-10-17	https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/	lob:What agents mean for Rust (and vice versa)
+77c55eb317c18ca5c338355ffef01309	2026-10-17	https://go.dev/blog/interactive-refactoring	lob:Interactive refactoring in gopls
+b5f637ff5211c92675cd62c28f7b87f2	2026-10-18	https://www.lf-lang.org/	lob:Intuitive concurrent programming in any language
+bab7145da4ef36a976dd17c4448a7211	2026-10-18	https://kennedn.com/blog/posts/glitching/	lob:It took me nine years to hack my Xbox 360
+c96b2eb12a69341cacbca7706b1f5280	2026-10-18	https://pwn.ai/blog/pwnescape	lob:PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)
+587d8964d5b3741f1e7ba110bd0e4715	2026-10-18	https://abolish-ai.net/abolish-ai-a-manifesto/	lob:Abolish AI! Manifesto
+743685e0fcc12be6f168dce8f096b902	2026-10-18	https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/	lob:Some quick thoughts on Unit Testing ActivityPub
+0d719c3140f66fe9bc731bf5a253a183	2026-10-18	https://www.basis.ai/blog/ship-your-interpreters/	lob:Ship Your Interpreter
+c403c3061c8153277e089133e606ceee	2026-10-18	https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/	lob:Developing for Debugging (2025)
+7f32eee2d0a516b02afde4b9375aac67	2026-10-18	https://github.com/rajtilakjee/orib	lob:orib: Bringing back the old Reddit interface, with a few new enhancements
+036c8e1f6aff4290b30b6063e9c60994	2026-10-18	https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/	lob:Principles of Anchor Engineering
+c6aca3de9b2c0906060668574e9a0c6e	2026-10-18	https://www.youtube.com/watch?v=bISIgO4x49A	lob:Future of Programming
+2102e6ade19046aa9ec61c85baa3b95d	2026-10-19	https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from	lob:It's enough - vibecoding tag crossed from useless to harmful
+41c31b051e8ea300b9092e1678966bbf	2026-10-19	https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/	lob:ARP! Tell your network to explain itself
+71cbb20af67342525c126dd7e80b0704	2026-10-19	https://verdagon.dev/blog/reverse-borrow-checking	lob:A New Way to Think About Borrow Checking (In Reverse)
+ed549dc11d2760d48925cc8eaa94bc10	2026-10-19	https://www.youtube.com/watch?v=WXL6K1lhvt0	lob:Men in tech #YesAllMen
+3fa371d4a8eb6902514ab0c98b00f18d	2026-10-19	https://dumbmatter.com/2026/10/programming-obituary/	lob:My obituary for programming
+15d075477d8a4e42bdb9be628dc99349	2026-10-19	https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e	lob:QML for C & Zig
+55449a21bf8f7f6d9a23ca5b73b2b02d	2026-10-19	https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/	lob:Outside the Scope of Our Support
+7b9a9ff4f780bafa2fe3d740a2bcc4b0	2026-10-19	https://www.philipzucker.com/asmc_cpp/	lob:Ghidra + CBMC = Assembly Model Checker
+701adfcb71c8c6c815b069bf79579434	2026-10-19	https://nathanho.me/posts/evograin/	lob:Algorithmic Sound Design with L-Systems and Granular Synthesis
+c6354bfb068c2c740c4fe28129944b56	2026-10-19	https://www.youtube.com/watch?v=-0D0rFdU6HY	lob:Real-time Software On Linux: How Hard Can It Be?
+6deb2efca54aaa41377ddecc00d23164	2026-10-19	https://alinush.github.io//tee	lob:It's time to talk about TEEs
+3a4d857654b092c1a45c23f12d4d34e0	2026-10-19	https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/	lob:The Problem with C++ Safety: Why “It Works” Isn’t Good Enough
+4282681d258187fa9976e34eb7a127f7	2026-10-19	https://www.jeremykun.com/2014/09/29/hybrid-images/	lob:Making Hybrid Images (2014)
+075b287a9740a1b7e04f7f1b2d45dfa5	2026-10-19	https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks	lob:Using timers to perform weekly tasks
+7efd8a30cb8a7616d88f5e2d997308fb	2026-10-19	https://darwinsys.com/blog/20260925-hp-envy-17/	lob:Un-hanging the HP Envy 17-DA0013dx for OpenBSD
+eba45f121160dbfabe7c281326493aff	2026-10-20	https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags	lob:Updates to site guidelines and AI/LLM tags
+9dde20000868b391a00d14ee534c0546	2026-10-20	https://www.calabro.io/ohbf	lob:One Hash Bloom Filters
+e07d768482fa37e898579f6d87e25c76	2026-10-20	https://a5geo.org/blog/2026/10/14/a5-v1	lob:A5 v1.0
+8e7038fd8d733a9a23b4f6ba0e4802a7	2026-10-20	https://lobste.rs/s/vyfegx/what_are_you_doing_this_week	lob:What are you doing this week?
+058a8a95d81f69064ae27c6ee1df78ea	2026-10-20	https://blog.webb.page/WM-105	lob:Beginning of the Ende (a community Deno fork)
+069785179fe8ee21ce15d41fc79defd3	2026-10-20	https://futhark-lang.org/blog/2026-10-14-defining-division.html	lob:Making all divisions slower to fix a bug in 0.000000000000000000542% of cases
+b31926e311d2a2248e65420e2c8e6062	2026-10-20	https://blog.torproject.org/tor-vpn-beta/	lob:Tor VPN Beta: What we've learned building our own VPN for Android from scratch
+bbf727a0452b13b64ad4e9cb98693de8	2026-10-20	https://www.youtube.com/watch?v=P5eO7BNyJao	lob:In Context
+75915b16af5d705e48d2f2417050487d	2026-10-20	https://aaronmallen.me/writing/hanami-why-model-citizens	lob:Hanami, Why?: Model Citizens
+3077ba3cdeee5128aed374a7dfb79fe6	2026-10-20	https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/	lob:2026 is an exciting year for the Rust compiler (and me)
+bf1c63afb6522be7e0fd84e9f1359895	2026-10-20	https://anderegg.ca/2026/10/18/what-the-heck-is-pkg	lob:What the heck is /pkg?
+61ef040964831fe1d0071f9cfaa0c120	2026-10-20	https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/	lob:Making dns_erlang Fast: Binary Tricks for the BEAM
+762d182a8e96a9db8669a855291b75f9	2026-10-20	https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen	lob:Men in tech #YesAllMen
+298c1661fbc98eaadd2bc6d9675e4eb7	2026-10-20	https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/	lob:Finding a home amidst the wreckage
+0e7ec93cf9f072bc553f9ffaaac89c48	2026-10-20	https://www.seangoedecke.com/what-requirements-dont-you-have/	lob:What requirements don't you have?
+6ce5164b77175c5ac98dfd30fd0885c5	2026-10-20	https://lwn.net/Articles/1101143/	lob:The 7.3 kernel has been released
+8899add7fde4581bbbdbee4746c985f5	2026-10-20	https://leanrada.com/notes/inline-rendering-currentscript/	lob:Inline rendering with document.currentScript
+0bb418c01567c66ff0dc96776c5de596	2026-10-20	https://servo.org/blog/2026/10/09/august-in-servo/	lob:August in Servo: CSS Grid, text selection, and more
+f8e140779fd26b0b6bb1941ce09f6920	2026-10-20	https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/	lob:Superoptimizing an FPU emulator
+f3a221af6cf1bd40d51b631d4813faa2	2026-10-20	https://antelang.org/blog/safe_cyclic_mutability/	lob:Borrow Checking Zero-Cost Cyclic Mutability
+8551a4cfade3037b08828f6e87884cfb	2026-10-21	https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/	lob:Protecting Firefox users following the compromise of eMudhra intermediate certificates
+eba45f121160dbfabe7c281326493aff	2026-10-21	https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags	lob:Updates to site guidelines and AI/LLM tags
+7a3378f0bb506466c73c2e7f403a78af	2026-10-21	https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/	lob:Setting up SSH keys on macOS with Touch ID
+172b5fecdb1044d44ae31e39f57f3c3b	2026-10-21	https://entropicthoughts.com/nixos-is-making-me-less-afraid	lob:NixOS is making me less afraid
+4754696708ce18625862887b74fc1e41	2026-10-21	https://www.openbsd.org/80.html	lob:OpenBSD 8.0
+177de40680c11758c44dc35208da37bb	2026-10-21	https://jepsen.io/analyses/orkes-conductor-5.3.2	lob:Jepsen: Orkes Conductor 5.3.2
+a14b89d6d7071bd208658fcdd343416b	2026-10-21	https://lukaswerner.com/post/2026-10-20@bottom-up-vga	lob:Making a VGA Driver in SystemVerilog
+3aed55e9c2e9dca914d4c1fd81802dd3	2026-10-21	https://kaba.cx/posts/20261020_Tor/	lob:How I got over 300 Tor exit nodes removed
+076c28985bbea7bea6ca0d7fa0e362bb	2026-10-21	https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/	lob:Mastodon 5.0: A closer look
+19a3c0683bcc03feacacce932f943164	2026-10-21	https://marc.info/?l=openbsd-ports&m=179236125692175	lob:Wine ported to OpenBSD
+662c2bb58e3e00872dbb2c987397d681	2026-10-21	https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html	lob:The Netherlands is building its own Linux OS to break free from Microsoft
+1d2d7f65dd9971db5772c6ad597c56d8	2026-10-21	https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/	lob:Do minor curl vulnerabilities in the open
+7d13e0e2e2e53fc39df66ae73d9c0939	2026-10-21	https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/	lob:Why do we need ud2 when int 6 is right there?
+069785179fe8ee21ce15d41fc79defd3	2026-10-21	https://futhark-lang.org/blog/2026-10-14-defining-division.html	lob:Making all divisions slower to fix a bug in 0.000000000000000000542% of cases
+eb2aed3a90005ad97f9b1feb35a297bb	2026-10-21	https://edgcpp.org/	lob:EDG is open source
+3077ba3cdeee5128aed374a7dfb79fe6	2026-10-21	https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/	lob:2026 is an exciting year for the Rust compiler (and me)
+9dde20000868b391a00d14ee534c0546	2026-10-21	https://www.calabro.io/ohbf	lob:One Hash Bloom Filters
+f56a8db19d92474ddc50378dcdde9632	2026-10-21	https://vt100.net/dec/vt100/rom/	lob:The Annotated VT100 Firmware (2022)
+04808e159a521a1432b080a6693e5931	2026-10-21	https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/	lob:A Very Fast IPv4 Parser, in Swift
+e07d768482fa37e898579f6d87e25c76	2026-10-21	https://a5geo.org/blog/2026/10/14/a5-v1	lob:A5 v1.0
+bbf727a0452b13b64ad4e9cb98693de8	2026-10-21	https://www.youtube.com/watch?v=P5eO7BNyJao	lob:In Context
+281701770542f114c2d2f4479c32514a	2026-10-21	https://blog.veritates.love/decl-wasm-types	lob:Declarative WASM GC Types
+fa2b4e269c65c801d5e5fd6c6f0702f1	2026-10-21	https://www.youtube.com/watch?v=W2fGKjFoaOg	lob:Genera for the Initiated: Inside Symbolics Lisp Machines
+d6004b2a38926a04b1452590ad763c4b	2026-10-21	https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s	lob:thebroken Episode 1 (2003)
+c10d6e4a0c031880fc35b4fb5bdd517b	2026-10-21	https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/	lob:CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE
+820f827ef6e5da542dd469b78bbd9d28	2026-10-22	https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html	lob:Firefox Local Mode
+21b24d495f6c8e95697869d5b35534f1	2026-10-22	https://www.php.net/archive/2026.php#2026-10-20-1	lob:Upcoming Critical PHP Security Release
+20eeb667690b0d369c2aae27cfb6cd0e	2026-10-22	https://zigtools.org/zls/releases/0.17.0/	lob:zls 0.17.0
+566e97e2e8e8b68580543231b679771c	2026-10-22	https://uniker.nl/	lob:Unikernels in OCaml
+5cd39000b3acf05d70a55da03f01b02a	2026-10-22	https://www.joshwcomeau.com/css/interop-2027/	lob:The Future of CSS
+972405661328e406d7b29fb8c3b66a8f	2026-10-22	https://www.openwall.com/lists/oss-security/2026/10/21/18	lob:CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes
+8ef19dbaee9ce6eb91ca18800ee10ce9	2026-10-22	https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/	lob:Passkeys Attestation Trap
+31523e8ed6cddc695e3550968ee879ac	2026-10-22	https://blickeditor.com/blog/caching-an-immediate-mode-ui	lob:Don't throw it all away: Caching an immediate-mode UI
+9edbca7f4d054f926a9c7d5dcb5b750e	2026-10-22	https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/	lob:Flow Typing, A New Lens on Linearity
+c90c9d2a735e1533586ff473825fd287	2026-10-22	https://beyondloom.com/blog/vectorgraphics.html	lob:Vector Graphics in Lil
+8d8ac27fb1c81b73bd605e22b6132ee6	2026-10-22	https://nodejs.org/en/blog/vulnerability/october-2026-security-releases	lob:Node.js — Wednesday, October 21, 2026 Security Releases
+1c57facae41ffb51adcdabcd3abae46e	2026-10-22	https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october	lob:Lobsters NYC Meetup on the 28th of October
+f27a6042b1d0b9503f03f2b017d9b7c0	2026-10-22	https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ	lob:Firefox security patch tests are now private for at least a week
+fe0031f560a1715a9374667825d262c0	2026-10-22	https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/	lob:Improving accessibility with CSS media queries (2025)
+9f0e2f4f5dd52f457c1520fd634b947a	2026-10-22	https://eyg.run/guides/embedding-eyg-in-erlang-programs	lob:Embedding EYG in Erlang programs
+0c68f32a80c401f81dd5371cab8181a5	2026-10-23	https://zoey-on-github.github.io/blog/macgcc.html	lob:examining the macOS gcc binary
+1f570223bf3041db457fdb96cb9252ec	2026-10-23	https://codeandcake.dev/posts/2026-10-22-docker-is-weird	lob:Docker is weird
+7121870267a199ad72ea094294020574	2026-10-23	https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html	lob:Tell your network to explain itself and then some
+ec53e944c1865d1896516c3540b85f90	2026-10-23	https://bernsteinbear.com/blog/object-shapes/	lob:Objects, attributes, maps, oh my
+042945e21fb867b8e0476d25a6b32378	2026-10-23	https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html	lob:Expose only share links of a private service with caddy
+acc84eec9fb9b06eef1ba0f080d52ffe	2026-10-23	https://claytonwramsey.com/blog/dumpster/	lob:I built a garbage collector for Rust (2023)
+d3113fa2e9c5c82e90e138e341faba83	2026-10-23	https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation	lob:Using a lookup-table to correct an approximation
+3278127e7c8089aab766dc932b99c85f	2026-10-23	https://entropicthoughts.com/python-dependencies-with-nix	lob:Script dependencies with Nix
+b4e4e0431372eeb30743c4ba02b6ea69	2026-10-23	https://sebsite.pw/w/20260925-errno.html	lob:a hacky fucked up way to portably access errno from outside of c
+1726d2a715c3610467343d64ffe65588	2026-10-23	https://duckdb.org/2026/10/21/announcing-duckdb-200.html	lob:Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”
+b88fdedfb77a66df671e0150c37fe7fd	2026-10-23	https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission	lob:What is your opinion on submission quality since the `vibecoding` tag was removed?
+94310e7629d639b66f9bc7c700069a6c	2026-10-23	https://blog.railway.com/p/security-disclosure-wednesday-october-21st	lob:Railway Security Disclosure: Wednesday October 21st
+3a59f715bc21b3e7a42d6e7339e6412d	2026-10-23	https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers	lob:Header Accordions: QPACK amplification attacks against HTTP/3 servers
+3e81bacc4c77e82d0fa8b60f9c8dac56	2026-10-23	https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html	lob:Garmin Revamps and Opens Up Connect Developer API Program
+ece2ac6d9503ae0c8c8eb85a1fb8ce41	2026-10-23	https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/	lob:Understanding Nix flakes
+d8bc9b61ed49837be9cb18eecd150f75	2026-10-24	https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/	lob:The glorious @xkcdRandom Zig builtin
+be15eb8b5854fd1916e6bbf76a28a679	2026-10-24	https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/	lob:Software is slow because of bad design, not slow languages
+bd7cecd3d6cedad2540646ce4b6228ef	2026-10-24	https://rtfeldman.com/fp-vs-c	lob:How close can pure FP get to C?
+745696aa12d9c9dc210c4ac5788a73e1	2026-10-24	https://maurycyz.com/misc/real_links/	lob:Please don't mess with links
+7fdd11a91fa67b74aa89106c0f433966	2026-10-24	https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/	lob:Debunking "Faster than Rust": Malicious Benchmarks in Tov
+86ddabb2dc5c4d2942959b7916fd808b	2026-10-24	https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/	lob:A whirlwind tour of systemd-nspawn containers (2025)
+99019f5f3832bdcdb4773f74cadf1f35	2026-10-24	https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+8d2ebbd95774c6229db35e5b808ed4ac	2026-10-24	https://sebsite.pw/w/20260728-cow.html	lob:a neat trick i found for reusing physical memory
+41908f550da163b040bb795ecbee526f	2026-10-24	https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html	lob:Attention people who think UB is fine
+f551332098c9038650e69d81b6d3de47	2026-10-24	https://queue.acm.org/doi/10.1145/945131.945155	lob:No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)
+9af81acbabc8fa6e390b5e45257f02d9	2026-10-24	https://miren.dev/blog/distributed-data-centralized-fixes	lob:Distributed data, centralized fixes
+0ef763f365708127b67911cb38533460	2026-10-24	https://www.bitflux.ai/blog/memory-is-slow-part3/	lob:Memory is slow, Disk is fast
+1f9410ed61ce039a5687acb9b4335999	2026-10-24	https://github.com/openssl/openssl/releases/tag/openssl-4.1.0	lob:Release OpenSSL 4.1.0 · openssl/openssl
+2a1c4618553b534893d86dffdac9bafd	2026-10-24	https://dziban.net/posts/incremental-computation-graph/	lob:Incremental Computation Graphs
+db3e4818e017781b4a12e4bab2cad375	2026-10-24	https://www.youtube.com/watch?v=7yeH1DqK984	lob:How to Make Things, and Why
+055e178062109cae3dcaa784241317e4	2026-10-24	https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story	lob:The Hibernate Origin Story (Outsider Edition)
+3910dbdfde4b9071066d4a05f5ce858f	2026-10-24	https://blog.railway.com/p/preliminary-report-october-security-incident	lob:Railway Preliminary Report: Oct 21st Security Incident
+c7c91079f1397d33fa954084c2d9f9c9	2026-10-25	https://blog.luitjes.it/posts/i-want-my-wednesday-back/	lob:I want my Wednesday back
+da086b593f7ac649b0721e6d5f800e36	2026-10-25	https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL	lob:Balloting has completed for C++26. Unfortunately it was Disapproved
+7ea2ffc1b001f8d70006497ea9e3f52a	2026-10-25	https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/	lob:Indian government sites are serving revoked eMudhra certificates
+09634b053d9935142923960e312cdc0c	2026-10-25	https://github.com/wild-linker/wild/releases/tag/0.11.0	lob:Wild version 0.11.0 released
+8ef5ea96aecf4a06e7dec5e71d48c918	2026-10-25	https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/	lob:Be Aware of What's in Your Logs
+15c119ba97e9393d3103b661bde4c8d6	2026-10-25	https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/	lob:Emacs finally folds to my liking
+fd640852be2bfd50f3e91ab7d780ae73	2026-10-25	https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/	lob:How to run a city builder on 16 MHz
+912622f86e4fe857b41d6a6cbc5aab3c	2026-10-25	https://homepage.farm/ai.html	lob:What's wrong with AI?
+dc7bbc617157c0e5d0ed9c285e1a63fb	2026-10-25	https://emptysqua.re/blog/polyglots-dilemma/	lob:The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages
+8944190f8d5b4b904088f638a02122c8	2026-10-25	https://railsdeveloper.com/survey/2026	lob:2026 Ruby on Rails Community Survey Results
+bcea044da7c6f96af27a416a86fb9ee4	2026-10-25	https://dl.acm.org/doi/pdf/10.1145/3830440.3832304	lob:An Incremental Approach to JIT Construction
+12c318a97384503c97863b2eb06a164e	2026-10-26	https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/	lob:POSIX wordexp(3) is dangerous
+1682521068c3aa2be008571e0cb50ae0	2026-10-26	https://slurpburgers.com/slurpbuilds/the-slurptop/	lob:The Slurptop: A home-built luggable that runs on power tool batteries
+9432fdd61925130be4a22d6bda5db0a8	2026-10-26	https://vim-classic.org/	lob:Vim Classic
+c5b87c42396f4f26df7d65f44a3ced11	2026-10-26	https://ziglang.org/devlog/2026/#2026-10-24	lob:Partial Order Precedence
+2080e99fda02da39e679bca283e05828	2026-10-26	https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline	lob:A vision for a next-generation timeline
+4ba0d3584b4760e0c064bf2df3dbd225	2026-10-26	https://refi64.dev/posts/chromium-audio-break.html	lob:When a glibc update accidentally breaks Chromium's audio (2021)
+6d80b0bae12eef5612cf1da30ebe0b49	2026-10-26	https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/	lob:Building Java ME Apps with Modern Tooling
+82aa30ec691b97896faaf13fb2764e51	2026-10-26	https://shraiwi.com/blog/simd-fast-esp32s3/	lob:SIMD-accelerated computer vision on a $2 microcontroller
+af6a58a29b4e6f6ddfe39219eb159e31	2026-10-26	http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html	lob:MacOS Extensions pack for the Apple Network Server v1.0
+8d0a31168b3b6a23fd495250b46f2c0c	2026-10-26	https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/	lob:Reverse-Engineering Instruction Encodings (2001)
+706c143759a6e99d31af464cd5649692	2026-10-26	https://www.youtube.com/watch?v=jlPaby7suOc	lob:Every Clojure Talk Ever (2018)
+b506306f25214bbccdd4dd11edc370e8	2026-10-26	https://internals-for-interns.com/posts/go-simd/	lob:SIMD and Go
+b340441995c01c7d6e078a4df52ffd7a	2026-10-27	https://brennenputh.me/blog/printable-websites/	lob:Websites Should Be Printable
+0ac039414cd6b93bb041ecb49301c67c	2026-10-27	https://evancz.dev/why-is-it-so-expensive-to-send-an-email	lob:Why is it so expensive to send an email?
+4b9401cdc115013226da0cc9dc0ce45a	2026-10-27	https://support.apple.com/en-us/149555	lob:About the compromised eMudhra intermediate CAs
+14d4abd983a9780e2e024bd5fb1ba5ff	2026-10-27	https://gram-editor.com/posts/release-3.4.0/	lob:Gram 3.4.0 released
+754d2cea822a6fb4cf72960a34ceada3	2026-10-27	https://www.benjoffe.com/fast-floordiv	lob:A faster way to compute signed 64-bit floor division by constants
+4678ea10ad028aeefddd5945043b98d6	2026-10-27	https://stalw.art/blog/stalwart-1-0/	lob:Stalwart v1.0: The Fastest Mail Server on the Planet
+59909afd2294a29b95ae8dea40ccfccf	2026-10-27	https://bsandro.tech/posts/simple-netbsd-webserver/	lob:Simple NetBSD webserver
+f45f1bcb81d99b45eb486b0ea3affcd8	2026-10-27	https://lobste.rs/s/xxdda9/what_are_you_doing_this_week	lob:What are you doing this week?
+246f4769baff99f74c594d0d2bb0f909	2026-10-27	https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html	lob:Heavenly delights of hashing numbers under EQUALP
+2f8b37e97415028427e86f7705f2f0c9	2026-10-27	https://fishbowl.pastiche.org/2026/10/26/ai-skills	lob:“AI Skills” are worthless in 2026
+c116a6cd58fe33ec40347dedc5e334d6	2026-10-27	https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html	lob:writing about pratt parsing so I remember it
+00e740e4bc2981ad96fa979f2b7498ff	2026-10-27	https://train-it.eu/blog/cpp26-contracts-the-ballot-result/	lob:The result of the C++26 DIS ballot
+b38441bd30303c8c2ab18d2075272d9a	2026-10-27	https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/	lob:From impulse purchase to pocket studio: The M-Vave FM-1
+39f6a4f4bf6df3b61a8ee912a281a6d9	2026-10-27	https://archive.org/download/small_web/11787-48384.mp4	lob:The Small Web Is Huge
+af3c888ef952c82967fd2e2d20524096	2026-10-27	https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html	lob:Simple Sudoku Solver in Assembly
+60584e42533aa697b0e64d47f95cd727	2026-10-27	https://bruceediger.com/posts/contabo-crawler/	lob:Web Page Crawler Revealed - tracking down requests from Contabo GmbH
+6e57c8befdc3828fae596866d7aaf96c	2026-10-27	https://tinfoil.sh/blog/2026-10-25-less-is-more	lob:Less Is More: From 1M Lines of Firmware to 300 of Assembly
+c8b810953bda1dbd27b430543a03e8aa	2026-10-27	https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/	lob:OpenLDK: Bringing the Java World into Common Lisp
+b35a800dd054eb1405165dcf88312765	2026-10-28	https://astral.sh/blog/tar-codec	lob:A fast and secure tar parser for the Rust ecosystem
+f79b7fe4f09857f58f4adaf3a81b64de	2026-10-28	http://shittyscreenshare.com	lob:Shitty Screenshare
+e849df4272063e0354f96e82e75fa79b	2026-10-28	https://gracefulliberty.com/articles/four-months-of-zig/	lob:Four Months of Zig
+98fd57bc368dda068a0e4c3e29b1b155	2026-10-28	https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch	lob:1,447 emoji? We'll do it live
+c1adb0edaeaca7e2ab0f8f15a63626ea	2026-10-28	https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf	lob:The Exponential Time Hypothesis Is False [pdf]
+3babe3babbc8dfab243f9e345001af73	2026-10-28	https://thenumb.at/Syl-Intro/	lob:Compile-Time Dependent Types
+7eb0953d1dec3e128ae2b74f1271a123	2026-10-28	https://cr.yp.to/2025/fil-c.html	lob:Filian, Fil-C binaries on Debian
+4f8c94029a19dbc798d5311b220774ef	2026-10-28	https://projectzero.google/2026/10/fuzzing-v-AI.html	lob:Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines
+2aee9446cd6608ff499c8abb1ab94e2e	2026-10-28	https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/	lob:Finding panics with Call Graph Analyzer
+125b8c497c8f64267b24a50e2df1e649	2026-10-28	https://garciat.com/posts/java-type-classes/	lob:Full Haskell-like Type Class resolution in Java
+67972c67cb7907a251e5414817e0008b	2026-10-28	https://www.cheswick.com/ches/papers/berferd.pdf	lob:An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)
+f12efa701a0c96315756ae94daef6ec5	2026-10-28	https://go.dev/blog/emudhra-incident	lob:Our Response To The eMudhra Key Disclosure Incident
+4d3242c8d2a17867fbb26391018fb429	2026-10-28	https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html	lob:A select should tell you something
+0275fa3059562949d354c6c97c5fa7c2	2026-10-28	https://www.pypy.org/posts/2026/10/toy-bit-provenance.html	lob:The Shift of Theseus — Toy Bit Provenance Abstract Domain
+3fa956f0927d0a5763262c9f0dec3f2f	2026-10-28	https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/	lob:Fixing KIO copy to USB stick and network filesystems
+7f48363eaf4e87d7e77183c64f550ed4	2026-10-29	https://wiki.alpinebsd.org/	lob:AlpineBSD
+ce1b97894f9ef1ba58e9de9c66a030a7	2026-10-29	https://www.netmeister.org/blog/defense-ddos.html	lob:This is not sustainable
+a1d96c2985593c9dc7ad972df1fc7cd8	2026-10-29	https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/	lob:GOTO Considered Totally Sick (for error handling in C)
+d8cd2d5fd447aaeadcb9fd64d626ad59	2026-10-29	https://spritely.institute/news/hoot-0-10-0-released.html	lob:Hoot 0.10.0 released
+0a2e50643e4fe51d347623f225d69d3b	2026-10-29	https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/	lob:Code-execution flaw in UEFI firmware affects most servers on planet Earth
+a54c9d72f9e7e33ec166793ae407119a	2026-10-29	https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/	lob:Billion-query-per-second lookup tables in C++
+bd76a7a9654cbace508534c7c555203f	2026-10-29	http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html	lob:The Benchmarking Crisis
+c6a0f6898e5f3651b5077c4ffa9a971e	2026-10-29	https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/	lob:Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?
+fd195faf2328a898794f551ef146a724	2026-10-29	https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/	lob:Forging a Microsoft Edge Full Chain with Logic Bugs Only
+ba1c3625ae01f3f72acc42d120747a90	2026-10-29	https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5	lob:Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's
+936db46a7bd54c1e908143501b9de87d	2026-10-29	https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat	lob:Pair-coding Lobste.rs feat
+896170ab9f62f48837b39a009cc8d0f9	2026-10-29	https://portswigger.net/research/scalable-vector-grief	lob:Scalable Vector Grief
+d85faf24d7bdd2fe95ed1bd179daa966	2026-10-29	https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/	lob:Who’s 0xabadbabe and why? (2011)
+1f69480c1987b3c363ff2470f0a303c1	2026-10-29	https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/	lob:Making SIMD Code Scale to Any Vector Width
+9859032f406943abf2109cdbe91baafe	2026-10-29	https://www.adacore.com/blog/foundational-cryptography-in-spark	lob:Foundational Cryptography in SPARK
+bb7b556e63bb0af29c239c8977e5f452	2026-10-30	https://entropicthoughts.com/what-the-fox-say	lob:What the fox say?
+577d24e596c64976bf85195c817bef9d	2026-10-30	https://lobste.rs/s/eccbci/shared_password_manager_for_families	lob:Shared password manager for families?
+5ac2ceac13b03610702b590d940d457d	2026-10-30	https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/	lob:My favourite PowerMac is a Nintendo Wii
+012821cdaf2eaff130781af443b579f7	2026-10-30	https://divagr.com/blog/qwenputer	lob:Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5
+4bfc59df4e197fd11a2928a0dd957a0d	2026-10-30	https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html	lob:GitLab security incident: attempted exploitation of CVE-2026-97229
+910e6a0e6ff6895dfb5344be345103ea	2026-10-30	https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/	lob:Building NixOS using Nixtamal
+f5bcb3e411fd91583923a4f7a22c8a35	2026-10-30	https://www.phorge.it/	lob:Phorge
+73bcfdaf9e53d3d4091061e9285527bb	2026-10-30	https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html	lob:C2PA's eMudhra Moment
+4b5e235a8a730d3cea7d7b9fe76446fb	2026-10-30	https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state	lob:The Future Trait Has A Missing State
+0861bd82093e25e725fe9c94c78902b4	2026-10-30	https://v12.sh/blog/the-case-of-the-9bit-aes-key	lob:The case of the 9 bit AES key
+524863b4b20cf58d5189bf812d771db6	2026-10-30	https://entropicthoughts.com/history-of-pdp-computers	lob:Extremely brief history of PDP computers
+d4c39f158ef064be2c9764cd364efd6e	2026-10-30	https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/	lob:The Web Can't Afford a JavaScript Runtime Monoculture
+c6960152304f02a77ca8334302a367b7	2026-10-30	https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/	lob:Will Open Firmware Become the Next Big Trend in Electronic Music Gear?
+2b77c2ea86f44880f11f2954ba2e477a	2026-10-30	https://lobste.rs/s/dsrruj/london_meetup	lob:London meetup
+b90419b5ac6e1cf03a90ca1db4628dc4	2026-10-30	https://nim-lang.org/blog/2026/10/28/nim-240.html	lob:Nim version 2.4.0 released
+27a4dd43a0269f2f89f1f91ffe3608f9	2026-10-30	https://www.redox-os.org/news/nlnet-rb-summary/	lob:Redox Ring Buffers Project Summary
+9203ed3fcd063d98d33e7bca9d5b376a	2026-10-30	https://slcr.dev/announcements#2026-10-29-slcr-launches	lob:An open format for writing agent-native software requirements
+6191c6699aeccadb006e4f22c70d45c7	2026-10-30	https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/	lob:Coding Agents, Starter Kits and pgledger
+48c3875fc77930f1245d5d4117219907	2026-10-31	https://cyberplace.social/@GossiTheDog/117528831681803563	lob:Backdoors in Claude Code for VS, Cursor official extensions
+3713e7fb89c41dbb48410bce13d36cc8	2026-10-31	https://melaniekat.com/blog/public-on-pds/	lob:Do At-Proto Users Know This Is Public?
+b2d8b7828a0a17ab3abe42e640e49eb2	2026-10-31	https://smoores.dev/post/no_npm_estee_is_not_a_typo/	lob:No, npm, “estee” is not a typo of “testem”
+7327153686961c644d24b179817a32a1	2026-10-31	https://seriot.ch/computation/curl.html	lob:How curl was accidentally Turing-complete for nine months
+369578788f99a6dd6f80498f16b59362	2026-10-31	http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/	lob:If you love a website, back it up
+7edf23e9ace2ee54ce2fe532086df94a	2026-10-31	https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+6009a225bcefe44c292b26078a79d1d4	2026-10-31	https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445	lob:Pidgin 3.0 Alpha 4 2.98.0 has been released
+a9352fda959f2a66ecb6a4a00f1b6800	2026-10-31	https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum	lob:Shrinking NixOS Ram footprint and resource requirements to the bare minimum
+344e5cabf30f470a26e194c3102fafea	2026-10-31	https://groups.google.com/g/golang-announce/c/PCoQcdxoScw	lob:Protecting against CVE-2026-98432
+91e2403bcd26a8ea612f5a830e9e3c37	2026-10-31	https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/	lob:Getting Google Cast on my Soundbar
+a0de419dec8080ddb39b3e912e3169de	2026-10-31	https://abdolirad.me/articles/go-1-28-http2-parking-memory/	lob:Go 1.28's HTTP/2 Parking: Measuring Memory Savings
+d9c2b9b5c4dbaf60422610fb666d0569	2026-10-31	https://xoranth.net/gcc-switch/	lob:Switch lowering in GCC
+b496e43ee12fa7ec33ff3f50eb3024ef	2026-10-31	https://lapcatsoftware.com/articles/2026/10/10.html	lob:Design the interface for functionality not familiarity
+1c61e41de2900c1dabefde5241612953	2026-10-31	https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links	lob:Rationale for filtering LLM usage links as off-topic
+72e0230db4290157e95b713c243ab500	2026-10-31	https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html	lob:Smart audio for the smart home (2021)
+ac5cabd859059361a1152c3f8d1e5f63	2026-10-31	https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/	lob:Defending the patch gap against automated attackers
+d05315233713feee486e08639ad339ea	2026-11-01	https://jordi.inversethought.com/blog/the-kluever-maneuver/	lob:The Kluever Maneuver
+7c2641844d11867bff102b786f986be4	2026-11-01	https://matklad.github.io/2026/10/29/pub-calls-pub.html	lob:Avoid Public Functions Calling Other Public Functions
+fd4a3f370dbc9c042d1ecadb212a00cd	2026-11-01	https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/	lob:The support case of a customer who said that all they could see was a black screen
+fbb1cf8501e143ff781f0d1a324bcd02	2026-11-01	https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved	lob:Mystery of 60-Second Fluctuations in Power Grids Solved
+505540401287371c0197a1d2e7c8874b	2026-11-01	https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace	lob:How hard is it to check for whitespace?
+aed739bcdfe0fb656b43ac9f1061a68a	2026-11-01	https://abhinavsarkar.net/posts/lc3-disassembler/	lob:An LC-3 Disassembler in Haskell
+ffb1ef557fc0ea20eae1a9eb279db2ff	2026-11-01	https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0	lob:Enlightenment 0.28.0 Release
+6a7617cd8dec6651723b933182be9e77	2026-11-01	http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q	lob:Clojure/Conj 2026
+681c2eaa96e4ca36c93f25357ec81c1c	2026-11-01	https://dbushell.com/2026/11/01/tangled-accessibility/	lob:Tangled, hire a front-end accessibility expert
+447d86b60f00db6896b79664fc8cb740	2026-11-01	https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html	lob:Novellas with groff
+2215af0530c34e2ed48a0c0d8b3461ea	2026-11-01	https://futhark-lang.org/blog/2026-10-31-faster-copying.html	lob:Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function
+f5ba678e949e2d101ebe43c233dc7f2d	2026-11-01	https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/	lob:The Secret of Fast Programming: Stop Thinking »
+e2d21565310f1a0eb274465c33cdafae	2026-11-01	https://www.frag-net.com/project_tacticalretreat.html	lob:Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port
+c25e8d66314d1031ad8bb27826615be4	2026-11-01	https://uecker.codeberg.page/2026-10-31.html	lob:Effective Type: Part 1
+f960decb10d088fdf6fd68c98176b542	2026-11-02	https://typesanitizer.com/blog/scion.html	lob:An outsider's perspective on Scion and Mononoke
+eaa5cb957d0819c89ca0b6b6a097e078	2026-11-02	https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/	lob:Pratt parsing is a black box
+253a261f86bfda884b7565d21c5c13d4	2026-11-02	https://blogs.kde.org/2026/11/01/introducing-kwi/	lob:Introducing Kwi, a new KDE terminal emulator
+da814404112ed02e3c06393d0a646116	2026-11-02	https://lobste.rs/s/cqzwwg/london_meetup_nov_2026	lob:London Meetup - Nov 2026
+2b3f24fa9b0feec5ffd9027e7191995e	2026-11-02	https://www.undeadly.org/cgi?action=article;sid=20261101115637	lob:Work on GEFS (the Good Enough File System) for OpenBSD progresses
+838cbf08025c8721a5fb0151739c534f	2026-11-02	https://leancrew.com/all-this/2026/10/xkcd-and-fourier/	lob:XKCD and Fourier
+8afdde6de2a4a7c41f60eb73f6268d07	2026-11-02	https://eva.ac/blog/llms	lob:so i guess everyone uses llms to think now
+a03168139cf40f6f4cd4fe7e42fe681d	2026-11-02	https://www.stephenlindholm.com/groff_macros.html	lob:groff/troff macros: ms, mm, me or mom
+6df3218d19ba4435009f24d63470bb5d	2026-11-02	https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html	lob:Introduction to Programming in ATS
+6d05b70e417fbc12df83312edfeec2b6	2026-11-02	https://www.youtube.com/watch?v=jWCQXBVIyrY	lob:Zig: From Beginner to Slightly Less Beginner
+ba37849cd1c5943880df6ace42ec2dd2	2026-11-02	https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html	lob:An easy way to try local AI with braindead-local-intelligence
+0e2116e7630095f5eb65ca7c676e330a	2026-11-02	https://www.nablag.com/spooky_cpp	lob:Spooky C++
+dab868873990c82a1cf8cbbb1cfb27b0	2026-11-02	https://bathtub-01.github.io/technical/ouros-demo/	lob:A Specialised Haskell Processor on FPGA
+ba8922f28ec37d7448a369a31b1ce449	2026-11-02	https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/	lob:Beating the compiler at signed 32-bit division
+a0d63b5c831701beec290532fd002c3e	2026-11-02	https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf	lob:Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations
+36f6ab4d64fdf690b8d9f626ef92634c	2026-11-02	https://www.youtube.com/watch?v=gQRmSlcTq9c	lob:No AI, 52 min. Build all Linux Files utils in C by Hand
+70ab689058cef839e5b7bb776e3846b1	2026-11-03	https://blog.nns.ee/2026/11/02/renault-hack/	lob:Jailbreaking my car's navigation system just so I can change the time
+563b2173e9f8cda67f63a25e32676cc3	2026-11-03	https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120	lob:Polyend releases the Tracker firmware source code
+8d2c1b41ad498886b8f8c2123322dbac	2026-11-03	https://lobste.rs/s/maqsgl/what_are_you_doing_this_week	lob:What are you doing this week?
+67e4d2704683af565d4e835be4cc2485	2026-11-03	http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html	lob:Postgres 19 is late, and it's AI's fault
+705316f8abc1877f13c0a69b389de98b	2026-11-03	https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex	lob:My reflex of assuming our servers need ever-growing amounts of RAM
+1cc390b1e855935d35730336d9eb2a01	2026-11-03	https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html	lob:Stop Hardcoding Your Timeouts
+483e61dabb02728e69d6dd5e53713f79	2026-11-03	https://napcakes.nekoweb.org/posts/malloc/	lob:the lost malloc()
+d074410c3056a5b217be736702a9c774	2026-11-03	https://callejas.com/a/supervote/	lob:SuperVote: 15 year retrospective on an app for sharing political endorsements
+176faaba38ec243ab63012ad5b5ce574	2026-11-03	https://ieeexplore.ieee.org/document/7875144	lob:Recognizing Keystrokes Using WiFi Devices
+a01af5cbdecccb32a8dc28c75a92fecb	2026-11-03	https://schmud.de/posts/2026-11-02-program.html	lob:Program
+3710902a45350f3df631a896c42bae26	2026-11-03	https://oeis.org/wiki/A400K_Winners	lob:A400000 Winners
+13a212b4c5202c962c30b09cea486c01	2026-11-03	https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/	lob:The advantages of mobile Linux over AOSP
+b20b70e4d7be96c7198cb63f48fafb85	2026-11-03	https://youtu.be/UytYrhYLOKI	lob:This background sound leaks your exact location
+3a63ced8a57d13e9ea58089690dc78ad	2026-11-03	https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html	lob:Union Types and Option Types
+79c88b13d60fb8a5b42a0d948da91b36	2026-11-03	https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/	lob:Virtual Art Museum built with Three js
+eadd4e0af84eb5e00240ef21bad70f52	2026-11-03	https://blog.torproject.org/new-release-tor-browser-160/	lob:New Release: Tor Browser 16.0
+9abe06c865d9a6d3874c487b71b61aef	2026-11-03	https://alangrow.com/blog/a-decade-of-kill-bugs	lob:A Decade of Kill Bugs
+ca8385c317d4662203fc1df7204e4c36	2026-11-03	https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/	lob:The Beginning of BSD Unix
+d403647e59a3b9afda0c574244d47360	2026-11-03	https://gohawk.dev	lob:gohawk | Resource-focused static analysis for Go
+1c3f32d7edc840cde5e40ae50418bca9	2026-11-04	https://dbushell.com/2026/11/03/xslt-rip/	lob:Death comes for XSLT
+5e526872025e9a49190248516a830c63	2026-11-04	https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible	lob:The Ubuntu 26.04 Rust sudo is not compatible with standard sudo
+649ce4e54578578aea7bb727b1d72149	2026-11-04	https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix	lob:Why did you choose the nix you nix?
+d3161cb3518fae8f343d1cf2e6cefc59	2026-11-04	https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation	lob:Your terminal manipulation/navigation setups
+78e561d55142b5a02673267568cd8d7a	2026-11-04	https://sw.kovidgoyal.net/kitty/changelog/#id1	lob:kitty 0.50.0
+7da4bfd9a64533b0cdead36a0dc18e2e	2026-11-04	https://www.youtube.com/watch?v=tHgApFhevrQ	lob:Would you believe it's jank?
+41f8162c83f3a9f206d424c5be29f069	2026-11-04	https://zayenz.se/blog/post/open-cp-in-gecode/	lob:Planning with open variable lists in Gecode
+539abacd8a496fdcbba5d831e80a1a44	2026-11-04	https://blog.veitheller.de/A_Second_Futamura_Projection.html	lob:A Second Futamura Projection
+d0acc3780d4de29fdb7afe4b87f59e6a	2026-11-04	https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions	lob:Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions
+10fee00eebdf63b68712257e741d036e	2026-11-04	https://raphaelkabo.com/blog/social-network-ideas	lob:Ideas for social networks
+213aeb166ccc0f1e6a5ba4fda8f81b6b	2026-11-04	https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html	lob:Firefox Security & Privacy Newsletter 2026 Q3
+87ac0e05e07b7e70a025e59c8883bf34	2026-11-04	https://coalton-lang.github.io/mine/	lob:mine
+5d659808bf50b9b6d410854d30e5d596	2026-11-04	https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html	lob:Announcing NetBSD 11.1
+e8c9daf2d8f786a7e60f8167c232e798	2026-11-04	https://www.usenix.org/publications/login/oct15/bender	lob:An Introduction to Bε-trees and Write-Optimization
+08270449f54384dd53be6cc8e338affc	2026-11-04	https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/	lob:macOS 27 Golden Gate does not actually support CoreStorage volumes
+c9dddaa054f93376fb015bfdba36d063	2026-11-05	https://karthihegde.dev/posts/dns_tampering	lob:So my ISP was hijacking my DNS
+57c6f8e5b69aef102c127062e4d3a1e8	2026-11-05	https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/	lob:Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower
+e3fadd7e4272f22fd78b4366dfa973ee	2026-11-05	https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/	lob:Your Cryptography Conspiracy Theory Is Wrong
+957f56d221d958905d846225682e1eaf	2026-11-05	https://webkit.org/blog/18541/introducing-adaptive-dark-mode/	lob:Introducing Adaptive Dark Mode
+611df1a3ba2ce139072d94084132d30e	2026-11-05	https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/	lob:C++26 Disapproved
+873d814bde1ce3fbdc06cf32dc0acf9d	2026-11-05	https://lists.debian.org/debian-security-announce/2026/msg00526.html	lob:Man-in-the-middle arbitrary code execution in Debian’s apt
+f58b2be699ac33fe0754293d0b8a5eb9	2026-11-05	https://ziglang.org/news/0.17.1-released/	lob:Zig 0.17.1 Released
+e1557b87850b49bb1f942636ceb1c5c3	2026-11-05	https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html	lob:How to speed up the Rust compiler in November 2026
+260988fd0da4be18fff88586eaf61767	2026-11-05	https://pavursec.com/blog/stealmybitcoin/	lob:Observations from Running stealmybitcoin.com
+754a6aea844a1c25170b43cc6c9e8e9d	2026-11-05	https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/	lob:Lorem Ipsum Dot Gov Dot UK
+aaa088c982506883ef473ede2ecaaff3	2026-11-05	https://www.youtube.com/watch?v=Jm2HZhwreNs	lob:Gleam Programming Language Update October 2026
+dd1b4bdb9947bd02c7a164690b960953	2026-11-05	https://www.pgedge.com/blog/burnt-toast	lob:Burnt TOAST
+a212e2d7a2043494c9f5859fa24dc126	2026-11-05	https://tildeweb.nl/~michiel/python-on-my-wrist.html	lob:Python on my wrist
+085c9440383ce4e2e07dd117a32ae513	2026-11-05	https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/	lob:Fraction comparison trick revisited
+398ccc23f2001ac829fc751eb96a1ea6	2026-11-05	https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/	lob:The cryptography behind electronic voting (and why paper ballots are still essential)
+ea934c1adad3f44f5819eeac015b9dc8	2026-11-05	https://reasonablypolymorphic.com/blog/arrows-to-arrows/	lob:Arrows to Arrows, Categories to Queries
+e5e6dbc0d0674eae3999c6fcbb15d269	2026-11-06	https://sshhole.com/	lob:sshhole
+37b8df8d4ce20844a0093ae7f634a885	2026-11-06	https://lovro-bikic.github.io/software-line-specialist/	lob:Software Line Specialist
+685e075f61d87ba6bcb639dafee4c8a2	2026-11-06	https://declarative-dragging.github.io/	lob:Declarative Dragging
+51fca0cc69314bbc8b3acf75788c2b0d	2026-11-06	https://noteflakes.com/articles/2026-11-04-datastar	lob:A Look at Datastar
+bd137074c08be4a210decf180d33b35b	2026-11-06	https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/	lob:SourceHut disabled registration bypass | CVE-2026-121728
+244bd0851106977445e9c03bdcac1ee2	2026-11-06	https://ekaitz.elenq.tech/fasterMes10.html	lob:GNU Mes and the 0.28 release
+d01f25d7e372678d2b642848182cf685	2026-11-06	https://wiredream.com/anagram-fun/	lob:11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams
+7748c406ebfd5b25c4b17e8ce5aedbe6	2026-11-06	https://www.youtube.com/watch?v=5D7QPOIZ7gY	lob:Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC
+06b51b6e5398e37867475758d39103c9	2026-11-06	https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for	lob:Why is there an Anubis gate in front of Search for logged-in users?
+0ebaea05075847ab3394a1005b0cc345	2026-11-06	https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa	lob:Can 23,000 quantum qubits break RSA-2048?
+e88742ea7574fc3a65e95c92bd5aa849	2026-11-06	https://layer3intel.com/blog/residential-proxies-white-house-network	lob:Residential Proxies Detected on White House Network
+5ad28efc011e94560b66949d30ffcfaa	2026-11-06	https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#86open	lob:86open
+466ccb36c3a8b57b1ccec38786c2be29	2026-11-06	https://dalelane.co.uk/blog/?p=6161	lob:How Flink's Kafka connector commits offsets to Kafka
+27b5a706a687632f1568602810e8ff95	2026-11-06	https://blog.cryptographyengineering.com/2015/07/20/a-history-of-backdoors/	lob:A history of backdoors (2015)
+3815e27de5293d61d2840d4c5f0afc17	2026-11-07	https://chimera-linux.org/news/2026/11/musl-nvidia.html	lob:Making musl and proprietary NVIDIA drivers work together
+8c15f00b36a1d54c68cb60f777bbeb53	2026-11-07	https://mtlynch.io/notes/go-must-create-pattern/	lob:The MustCreate Pattern for Go Tests
+1409c52b51091fdc46a5c268df1337e2	2026-11-07	https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/	lob:Inside GitHub's new Git storage architecture
+cf72385d9513fe03f1507ecc2b8980c2	2026-11-07	https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+67a5cd31f83e5710dbb0ae68a716d506	2026-11-07	https://www.dwarmstrong.org/netbsd-upgrade/	lob:Upgrading NetBSD from 11.0 to 11.1
+5c9d1d853ea009e1532b2280c89456f0	2026-11-07	https://yogthos.net/ClojureDistilled.html	lob:Clojure Distilled
+e82537c4a4151fe4dfaef4bf26944e81	2026-11-07	https://futhark-lang.org/blog/2026-11-04-nondeterminism.html	lob:Nondeterminism in Futhark
+be34de007f83a1c1469e1d332d365a3e	2026-11-07	https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/	lob:Pushing the Limits with getaddrinfo
+16c941c815ffcfaa715d76787db6c740	2026-11-07	https://www.onirom.fr/wiki/codegolf/x-87/	lob:X-87 - DOS 256 bytes
+f7e281f267650d1783d4c860216f58bd	2026-11-07	https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/	lob:How we continuously validate formal specifications in production
+251317833f39a2e2ac60ef00937e297f	2026-11-07	https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/	lob:Hacking the meta ray-ban smartglasses
+a8bccdd3fe281d09eb7a738d8bff212d	2026-11-07	https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/	lob:From Linux to Wikipedia: How Volunteers Build the Internet
+0626ccb7270a156f2d7cb82cd704a6e7	2026-11-07	https://inv.nadeko.net/watch?v=PeZNLvD4mds	lob:I Go to Olympics of 4KB Coding
+72997fd68ffba247653cf438e9dd1c2d	2026-11-07	https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi	lob:Practical guide on out of tree mitigations on Linux
+8baca9cd5d3ee82db68519dea457d2fe	2026-11-07	https://alperenkeles.com/posts/bug-finding-considered-harmful/	lob:Bug Finding Considered Harmful?
+dd6b1e31907e6ec67f4e9f6841b2013f	2026-11-07	https://go.dev/doc/asm	lob:A Quick Guide to Go's Assembler
+3126605a4e841645d1bb26cfa591fbc6	2026-11-08	https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side	lob:How are you dealing with all the negative side effects of AI on the web?
+a0b377d80b9d285d5737dc9cb0f69b67	2026-11-08	https://op.tngl.io/meridian/	lob:Meridian — an experimental web browser built on Servo and GPUI
+92be56befedb2030a346e3f34185f4bb	2026-11-08	https://vincent.bernat.ch/en/blog/2026-bunny-geodns	lob:Scriptable GeoDNS: leaving AWS for Bunny
+9b4f261f9e4ab8a49099a5671b36ce67	2026-11-08	https://sunshowers.io/posts/sshole/	lob:*sshole, or when are we finally going to get rid of C?
+68bf82fa73dd798546b4f9fa24350bd2	2026-11-08	https://undeadly.org/cgi?action=article;sid=20261106104957	lob:OpenBSD top(1) adds flag to show chroot, pledge and unveil status
+95c79cb52bc31c27b6a8e85817560167	2026-11-08	https://acid.vegas/blog/the-port-that-does-not-exist/	lob:The Port That Does Not Exist
+fdcd08099ce17bafe7b498359404cee9	2026-11-08	https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/	lob:Two Dimensional Version Control
+89b00a8c3184bd81c5b3184cea1ea2c4	2026-11-08	https://www.bitdefender.com/en-us/blog/labs/ghostmap-android	lob:GhostMap: The Android flaw that crashes your phone before you open the app
+310cee1cae2ba4e905408e5556d164f6	2026-11-08	https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/	lob:Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?
+810365c25f6f37cdf9175a2945fd3584	2026-11-08	https://tomclancy.info/joshua-judges-ruth.html	lob:Catching prompt injections hidden in PDFs
+8bba083f1334cc7b5d678379ff1e1bbe	2026-11-08	https://uploadyourram.org/	lob:UploadYourRam.org
+f8e7521f9ff0d429855ea05b24f6616d	2026-11-08	https://chimera-vocal-synth.vercel.app/	lob:CHIMERA simulates organic sound with acoustic tubes
+e463cb9140a0806a0b2c0feca42016dc	2026-11-08	https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles	lob:Workflow dependency lockfiles
+ebca07627ef0e8d924b4e41faf960111	2026-11-08	https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/	lob:Alpine Linux : openssh-server password authentication bypass
+653f2c9665b9dcb6163b8d2acdc11de2	2026-11-08	https://amutable.com/blog/amutable-foundations-technical-overview	lob:Amutable Foundations: A Technical Overview
+6eb343151cd7cf45e36d40f83adc9c92	2026-11-08	https://tide.org/whitepaper/tidecloak-integration	lob:TideCloak | Tide Whitepaper Series
+c2b5583b3ce21d2cc6aec362cab7f89b	2026-11-08	https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/	lob:Exploring Janet and the httpf web framework
+5bb4506d3661b6e4883c81638405ca76	2026-11-08	https://ganelson.github.io/inform-website/	lob:Inform is a programming language for creating interactive fiction
+b680b9049c2dc97dbbe80e2f4d4330a9	2026-11-08	https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/	lob:Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header

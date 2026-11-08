@@ -1,0 +1,195 @@
+# lobste.rs 热门文章中文摘要 · 2026-08-05
+
+共处理 25 篇, 成功 20 篇, 跳过 5 篇。
+
+---
+
+## 1. Lua社区需要学会向前看
+
+- 原始链接: <https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/>
+- 英文标题: The Lua community needs to learn to move on
+
+这篇文章由作者Hisham撰写，讨论了Lua社区长期支持过时版本的问题。最近，LuaJIT维护者Mike Pall删除了上游仓库中旧版本的标签，以强制用户升级，这种极端做法虽不友好，但反映了维护者的挫败感。作者指出，许多项目多年停留在luajit-2.1.0-beta3等旧标签上，维护者不断收到早已修复的bug报告。Lua社区因Lua/LuaJIT的分裂，形成了永久支持旧版本的趋势，库作者需同时测试Lua 5.1到5.5以及LuaJIT 2.1和3.0，负担沉重。作者认为，对于可扩展语言，应当像其他脚本语言一样，只支持最新的PUC-Rio Lua和最新的LuaJIT。他承认自己也曾通过维护compat-5.3等兼容层助长了这一问题。作为补救，他开发了Teal语言，类似TypeScript之于JavaScript，可通过--gen-target参数生成不同版本的目标代码，帮助开发者摆脱Lua 5.1的锚定。文章强调，既然官方已EOL（终止支持）旧版本（如Lua 5.3及以下），库作者也应停止对老版本的无休止支持，让用户使用与旧解释器匹配的旧生态，而不是让维护者永远背负20多年的历史包袱。
+
+---
+
+## 2. Soppo：补全 Go 缺失特性的编程语言
+
+- 原始链接: <https://soppolang.dev/>
+- 英文标题: Soppo - Go, with the features it's missing
+
+Soppo 是一门与 Go 高度兼容的编程语言，旨在保留 Go 的熟悉语法和生态的同时，引入更强大的类型安全与开发体验。文章介绍了 Soppo 的核心特性：首先，它采用 Go 语法，开发者可以无缝使用现有 Go 库和工具，并能在现有项目中逐步引入。其次，Soppo 支持枚举和模式匹配，通过带结构体变体的标签联合体，编译器强制检查所有分支，避免遗漏。第三，它用 ? 运算符简化错误处理，替代重复的 if err != nil 检查，同时保持错误处理的显式性，并支持自定义错误包装。第四，Soppo 在编译期跟踪可空性（nilability），防止空指针解引用导致的运行时崩溃，并在空值检查后自动收窄类型。第五，编译器提供清晰易读的错误消息，展示相关代码、高亮问题位置并给出修复建议。安装方面，推荐通过 SOPMOD 版本管理器安装，该工具同时管理 Soppo 和其依赖的 Go 编译器；也可以使用 Cargo 安装单独的 sop 二进制。总之，Soppo 在保持与 Go 互操作的前提下，增强了枚举、模式匹配、错误传播、空安全和诊断体验，适合希望获得更强类型保障又不愿放弃 Go 生态的开发者。
+
+---
+
+## 3. GNU/Emacs 的 Liquid Glass 毛玻璃效果构建方案
+
+- 原始链接: <https://github.com/larrasket/emacs-liquid-glass>
+- 英文标题: Liquid Glass effect for GNU/Emacs
+
+这篇文章介绍了一个名为 Emacs Liquid Glass 的构建配方，目标是在 macOS 上为 GNU Emacs 实现类似 Ghostty 的毛玻璃（玻璃）窗口效果。它并非深色覆盖层或固定主题，而是通过本地 Cocoa 补丁，为 Emacs 添加原生 NSGlassEffectView 支持。配方基于 Homebrew 的 emacs-plus@31 公式，而非预编译的 emacs-plus-app cask，因为后者无法应用本地补丁。构建时依次应用 frame-transparency 补丁及仓库自带的 ns-glass-effect.patch，新增多个 frame 参数，如 ns-glass-material、ns-glass-tint-opacity、ns-glass-saturation 等；其中 ns-alpha-glyphs-alpha 参数能在背景透明度接近 0 时，仍让 hl-line、区域和补全选区保持可见。文章提供了快速开始（用 tap 安装或直接克隆脚本）、手动构建步骤、Emacs 配置示例，以及若干交互命令，如切换玻璃风格、设置透明度和玻璃字形透明度等。验证方式是用 strings 检查二进制是否包含新参数。该方案仅适用于 macOS 上的 Homebrew emacs-plus@31，不适用于 Linux、Windows、终端 Emacs 或预编译 cask。
+
+---
+
+## 4. 终结Cookie横幅
+
+- 原始链接: <https://killthecookiebanner.eu/>
+- 英文标题: Kill the Cookie Banner
+
+这篇文章呼吁公众支持“消灭Cookie横幅”行动，旨在结束互联网上无处不在且具有误导性的Cookie同意弹窗。文章指出，欧盟隐私法本身默认禁止在线跟踪，但跟踪行业为了获取用户同意，故意设计了设计上就混乱且烦人的Cookie横幅，诱导用户点击同意。数据显示，高达90%的人会点击“同意”，但实际只有约3%的人希望被跟踪，这一系统本质上是失败的。2025年秋季，欧盟委员会在“数字综合改革”中提出了一项解决方案：通过浏览器自动发送隐私偏好信号，让用户一次性设置接受、拒绝或限制跟踪，从而彻底消除Cookie横幅。这一想法并不新颖，浏览器早已能自动传达语言偏好，美国部分州也已立法支持此类信号。然而，以谷歌为首的跟踪行业正在游说多个成员国和欧洲议会，阻止这一提案通过。文章强调，该提案仅是更广泛的“Digital Omnibus”改革的一部分，而改革的其他大多数内容存在问题，可能削弱用户权利，因此行动方仅支持其中的隐私信号部分。最后，文章呼吁读者联系所在欧洲议会议员或成员国代表，表达对Cookie横幅的不满，以推动立法终结这一恼人的追踪套路。
+
+---
+
+## 5. IntelliJ IDEA 拥抱 LSP：Java 和 Kotlin 智能进入 VS Code、Cursor 及 Agentic 流程
+
+- 原始链接: <https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/>
+- 英文标题: IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows
+
+JetBrains 宣布推出名为“Java & Kotlin by IntelliJ IDEA”的预览版扩展，将 IntelliJ IDEA 的 Java 与 Kotlin 语言智能带到 VS Code 及其分支（如 Cursor）中。该扩展基于 IntelliJ IDEA 的语言技术，提供智能代码补全、导航、代码分析、重构以及编辑器辅助功能，支持 Maven、Gradle 和 Bazel 构建系统，并能在大型项目和 monorepo 中保持高性能。预览阶段扩展免费使用，每两周发布新构建，每次构建续期 30 天评估期；预览结束后需 IntelliJ IDEA Ultimate 订阅。JetBrains 还透露，内部试验和与部分外部客户的测试显示，同样的 LSP 功能可显著改进终端型 agentic 工作流（如 Claude Code 或 Codex），例如降低 token 消耗，相关结果将很快公布。由于代码分析与 Red Hat 和 Oracle 的 Java 扩展存在功能重叠，官方建议试用时禁用这些扩展。该扩展可从 Visual Studio Marketplace 和 Open VSX registry 安装，预览期反馈将直接塑造 1.0 稳定版。JetBrains 强调，尽管他们仍认为在 IntelliJ IDEA 中进行 Java/Kotlin 开发是最佳体验，但愿意让用户在其他编辑器与工具环境中也能受益于其语言智能。未来还将支持完全 agentic 的终端工作流并推出 agent 插件。
+
+---
+
+## 6. 测试PDF
+
+- 原始链接: <https://blog.lvmbdv.dev/posts/tests-for-a-pdf/>
+- 英文标题: Tests for a PDF
+
+作者为PDF简历编写了测试套件，通过`make test`运行Python脚本执行四项检查：验证文件以`%PDF-`开头、`pdfinfo`报告非空作者与标题、至少一页、`pdftotext`提取至少200字符。其中第四项最关键，用于确保PDF包含可提取的文本层而非“图片型PDF”。作者还测试了连字（ligatures）的影响，发现禁用连字后文本提取结果与开启时完全相同，因为PDF带有ToUnicode映射；但出于对某些忽略映射的解析器的防御，仍选择保留禁用设置。过程中发现两处问题：一是作者名检查因使用旧文件名`main.pdf`作为字典键而从未执行，已改为对所有PDF进行常量比较并验证；二是CI环境未安装指定字体，Typst静默回退导致发布错误字体，通过添加`pdffonts`检查修复。文章总结认为，测试套件并不完美，但文本层检查最实用，其余多为理论性防御措施。
+
+---
+
+## 7. BorrowSanitizer：面向多语言应用的Rust别名违规动态检测工具
+
+- 原始链接: <https://borrowsanitizer.com/>
+- 英文标题: BorrowSanitizer
+
+BorrowSanitizer是一个用于检测Rust特有别名违规问题的动态分析工具，专注于多语言应用中因unsafe代码引发的安全隐患。文章指出，Rust编译器通过限制别名和可变性提供强大的静态安全保证，但开发者为了与其他语言互操作，必须使用部分unsafe特性。如果这些代码使用不当，就会破坏Rust的别名模型，导致编译器做出错误优化，进而引入安全漏洞。目前，开发者主要依靠Miri解释器来发现此类问题，Miri是唯一能检测最新Tree Borrows别名模型违规的工具，但它无法检查外部代码（如C/C++部分），且运行速度显著低于原生执行，难以配合模糊测试或属性测试使用。BorrowSanititer作为LLVM sanitizer，目标是在保持足够性能以支持模糊测试的同时，覆盖Rust、C和C++的互操作场景，并希望成为生产级工具。项目代码完全开源，可通过GitHub获取，并设有Zulip社区供贡献者参与和提问。
+
+---
+
+## 8. Pandoc 二十年
+
+- 原始链接: <https://pandoc.org/twenty-years-of-pandoc.html>
+- 英文标题: Twenty Years of Pandoc
+
+本文是 Pandoc 作者 John MacFarlane 在项目二十周年（2006–2026）之际撰写的回顾。Pandoc 最初只是一个用 Haskell 编写的 Markdown 解析器，源于作者学习 Haskell 的练习，后因自身学术需求逐步扩展为通用文档转换工具。2006 年发布 0.1 版，仅约 3000 行代码，支持 Markdown、reStructuredText、HTML、LaTeX 等格式互转。此后项目持续发展：引入 AST 架构、模板系统、Markdown 扩展、YAML 元数据、Lua 过滤器、JSON 过滤器，支持 docx、EPUB、PowerPoint、Jupyter Notebook（ipynb）、Typst、djot 等五十多种格式，并内置 CSL 引文与参考文献处理。2014 年作者主导制定了 CommonMark 规范。2017 年 Pandoc 2.0 重构了架构，引入 PandocMonad 与 Lua 过滤器；2023 年 Pandoc 3.0 将项目拆分为库、CLI、Lua 引擎和服务器等独立包。项目成为最流行的 Haskell 程序，被 Quarto、Jupyter 等工具集成，并在 2026 年通过 WASM 支持浏览器运行。文章还回顾了重要贡献者、社区协作以及作者二十年来持续的维护工作，强调项目的成长源于 Haskell 的乐趣与自身学术写作的实际需求。
+
+---
+
+## 9. Nix 沙箱：派生构建中的隐藏输入
+
+- 原始链接: <https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input>
+- 英文标题: The Nix sandbox is a hidden input
+
+Nix 的默认模型是输入寻址的：输出路径哈希由 derivation 配方决定，而非输出字节，因此默认只是可重复，并非逐位可复现。文章指出 derivation 必须完整描述构建，但 sandbox-paths 这个沙箱配置是配方之外的隐藏输入。作者用一个小 derivation 演示：构建脚本检查 /truth 是否存在，默认不存在时输出 2+2=4；通过 extra-sandbox-paths 挂载一个写有 5 的 /truth 后，同一 .drv 产生内容为 2+2=5 的输出，哈希却不变。sandbox-paths 的默认值甚至不是常量，而是编译 Nix 二进制时的属性，不同构建的 Nix 可能挂载不同 /bin/sh。作者结合用 Guix 翻译过来的 OpenJDK 构建实例：Guix 容器没有 /bin/sh，而 Nix 沙箱有，导致脚本意外执行，产生损坏输出并被上传到二进制缓存。结论是：沙箱路径是隐藏输入，破坏可重复性；共享构建的能力也同时带来投毒风险，不能信任非自己完全构建的代码。
+
+---
+
+## 10. 用99行C代码实现Lisp：如何自己编写一个解释器
+
+- 原始链接: <https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf>
+- 英文标题: Lisp in 99 Lines of C and How to Write One Yourself
+
+文章介绍了Robert van Engelen开发的tinylisp项目，这是一个用极简C代码（约99行）实现的Lisp解释器。项目仓库中包含一份PDF文档（tinylisp.pdf），详细讲解了如何从零编写一个Lisp解释器。核心亮点在于，通过精简的C语言实现，作者展示了Lisp语言的核心机制，包括符号表达式解析、求值、环境与变量绑定、函数调用等基础功能。文章强调，理解Lisp解释器的构造并不需要复杂的编译器技术，只需掌握递归求值和基本数据结构即可。该项目旨在作为教学示例，帮助开发者理解Lisp方言的语法和运行时原理，同时展示C语言在实现动态语言时的简洁能力。仓库提供了完整的源码和文档，读者可以对照学习，并在此基础上扩展更多Lisp特性。
+
+---
+
+## 11. 别做AI的肉代理
+
+- 原始链接: <https://gruhn.me/blog/2026-08-03/>
+- 英文标题: Don't be a meat proxy
+
+文章批评了一种常见现象：人们在Slack、代码审查或聊天群里提问后，收到对方直接转发的AI完整输出。作者认为这种做法毫无价值，因为提问者完全可以自己与AI对话，那样更快且能掌控上下文，无需一个“肉代理”在中间传话。接收方阅读AI输出需要额外努力，这些输出冗长、经常包含貌似合理的胡话，术语堆砌难懂，例如作者引述的关于NATS控制面事件的句子，几乎每个词都要查字典。作者自己也做过这种事，但作为接收方多次受害。他提出正确做法：可以使用AI辅助，但不要只是转发输出，而应阅读、理解、验证后用自己的话写回应，这一努力才是真正的价值所在。文章特别强调代码审查场景，现在使用Claude Code几乎零成本地生成代码，但如果开发者不看代码、不读AI输出，只是将审查意见复制给AI迭代，那么真正做审查的是AI和那些提意见的审查者，而开发者只是充当了AI的“肉代理”。总之，文章呼吁人们不要机械地转述AI内容，而要消化吸收再表达，这样才能避免成为无意义的中介。
+
+---
+
+## 12. 招聘启事
+
+- 原始链接: <https://lake.computer/blog/help-wanted/>
+- 英文标题: help wanted
+
+本文是一篇讽刺性博客，作者以开源项目维护者Lake Hope的口吻，吐槽了当代开源生态中的种种荒诞现象。他先假意道歉，称不满意的用户可获全额退款，随后明确拒绝将项目许可证从AGPLv3改为MIT，也不在乎GitHub星标。他关闭了非核心贡献者的拉取请求，尤其反感AI生成的代码，并嘲笑一个由LLM团队运营的竞品项目，该团队以LLM疯狂合并PR、用电子表格和emoji庆祝，还接受银行和赌博平台赞助。作者也谈到自己寻找资助的失败经历：欧盟基金以项目缺乏“欧洲基础”为由拒绝，美国基金申请无果，连AI助手也没帮上忙。最戏剧化的是，他曾将优秀贡献者Purple Peony拉为共同所有者，但在疑似提示注入事件后，对方fork了项目并自任维护者，还获得更多星标。最后，作者以“欢迎贡献，但不是你”作结，并署名“仍在找工作，这肯定100%有用”，全文充满冷峻幽默，表达了对纯粹编程热爱的坚持，以及对AI污染、商业化和流量崇拜的深深反感。
+
+---
+
+## 13. GNOME Boxes 的未来
+
+- 原始链接: <https://blogs.gnome.org/feborges/future-of-boxes/>
+- 英文标题: The Future of GNOME Boxes
+
+作者在过去两年从零重建了 GNOME Boxes，主要基于三大动因：一是转向 Flatpak-only 分发模式，以便打包整个虚拟化栈并针对具体用例进行调优；二是迁移到 GTK4 和 Libadwaita，用 Libmks 替代基于 GTK3 的 SPICE 显示组件，使代码库更易维护并提升与桌面的集成度；三是采用现代 GNOME 应用设计模式，重构底层架构，以吸引新贡献者。现已发布 Beta 版供广泛测试，可通过 GNOME Nightly Flatpak 仓库安装。新版恢复了经典版绝大部分功能，包括从 ISO 和 qcow2 磁盘镜像创建虚拟机、配置资源、共享剪贴板、向客户机发送文件等。最大亮点是无需任何手动变通即可安装 Windows 11——自动配置 Secure Boot 和虚拟 TPM，通过硬件兼容检查。作者认为，在镜像化操作系统日益普及的背景下，Flatpak-only 更具价值，因为其他虚拟机管理器依赖主机服务或特权守护进程，而打包后端可提供可控的基准环境。为应对 Flatpak 沙箱对访问虚拟机内容的限制，新版引入 VSOCK 设备，支持 systemd v256 及以上的客户机通过 SSH 直接访问，并初步支持端口转发，使宿主机可连接 VM 内的服务。作者强调这只是测试版，并希望社区参与测试和反馈，更多细节将在后续文章中介绍。
+
+---
+
+## 14. 不要沦为AI的传声筒
+
+- 原始链接: <https://nomeatproxy.com/>
+- 英文标题: No Meat Proxy
+
+本文警告技术工作者不要充当AI与人类之间的“肉代理”（meat proxy），即盲目将AI生成的回答或代码原样转发给他人。文章认为，AI只是工具，而人不应该成为工具；直接粘贴AI输出会让提问者更难理解，因为AI回答往往冗长、复杂且包含无关细节，同时也会显得自己缺乏判断力、可被轻易替代，显得不专业并失去信任。文章用两个正反面对比示例说明正确做法：例如当被问及功能开关是否支持按用户配置时，不好的回答是长篇复述代码实现细节，好的回答则是简洁说明“不可以，这是硬编码开关”；又如面对代码中吞掉异常的做法，不应说“Claude写的”，而应解释上游会对错误重试、这是预期的异常，并主动建议后续改进。文章强调，即便AI完成了大部分工作，署名仍是你自己的，你就有责任理解、验证并拥有这些成果。盲目提交AI作品会把理解与审查的负担推给他人，显得自己对工作不负责。建议包括：阅读并核实AI输出，用自己的话回答，对反馈以所有者身份回应，不把责任推给AI，不因AI参与而降低标准。核心结论是：像人一样回答，像人一样对待他人，对自己的署名工作负责，不要做传声筒。
+
+---
+
+## 15. 在postmarketOS上驯服Steam arm64客户端
+
+- 原始链接: <https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/>
+- 英文标题: Taming the Steam arm64 client (on pmOS)
+
+文章介绍了作者在postmarketOS（基于Alpine Linux、使用musl libc的系统）上让Steam arm64客户端正常工作的过程。此前Valve发布了Steam客户端的arm64构建，但该客户端并未针对Steam Frame优化，默认会尝试启动x86_64运行时，需要借助FEX模拟器才能运行。作者发现，虽然客户端存在诸多问题，但终于提供了arm64版本的steamclient.so，可以配合自编译的Proton运行游戏。文章详细描述了如何利用Steam Runtime中的pressure-vessel工具和启动器服务，通过修改容器入口脚本，在检测到x86_64二进制时自动注入FEX和对应架构的图形驱动，从而在arm64设备上无缝运行x86_64游戏和Proton。在postmarketOS上，由于系统基于musl而非glibc，作者重新实现了bwrap前端，并用mkosi基于Debian构建了Steam Runtime镜像，解决了容器依赖问题。最终在采用与Steam Frame相同SoC的Ayaneo Pocket S2掌机上实现了类似Steam Deck的体验。文章还提到后续改进，包括注入默认配置、集成MangoHud等，并更新说Valve已发布FEX和Lepton的depots，未来可能更容易实现。相关代码已开源在GitLab上。
+
+---
+
+## 16. 修订版 Haskell 2010 语言报告
+
+- 原始链接: <https://blog.haskell.org/revised-haskell-2010-report/>
+- 英文标题: A Revised Haskell 2010 Language Report
+
+文章作者 David Binder 提出了一项修订 Haskell 2010 语言报告的计划。原报告发布于16年前，尽管语言本身已通过多项提案（如 Functor-Applicative-Monad、MonadFail 等）发生了显著变化，但规范文档未能同步更新，导致报告中的内容与当前 GHC 等编译器实现不一致，给查阅者造成困扰。作者认为，编写一份新的完整报告既困难又耗时，但修订现有报告则是可行且成本可控的目标。修订版旨在确保所有符合新版报告的程序都能被 MicroHS 和 GHC 以 Haskell2010 语言版本接受。技术层面，作者建议用 Typst 替代原有的 LaTeX 工具链，因其编译速度快、原生支持 PDF 和 HTML 输出，并已手动完成从旧 .verb 格式到 .typ 的转换。标准库文档部分，作者提出使用 Haddock 以机器可检查的方式维护 API 规范，并已在公共仓库（github.com/haskellfoundation/haskell-2010-revised-report）中建立 cabal 包。协作流程将以拉取请求和讨论为主要形式，并成立 Haskell 基金会下属的工作组来推进。作者呼吁社区成员参与讨论、提交 issue 或加入工作组投票，共同在短时间内完成修订。
+
+---
+
+## 17. 环保文档：降低文档网站碳排放的实用指南
+
+- 原始链接: <https://starlight.astro.build/environmental-impact/>
+- 英文标题: Eco-friendly docs
+
+本文围绕如何降低文档网站的环境足迹展开，指出网络行业约占全球碳排放的2%至4%，与航空业相当。文章以Starlight框架为核心，从多个维度提供了减少碳排放的具体建议。首先，页面重量直接影响能耗，Starlight构建的页面首次访问压缩数据不足50KB，仅为HTTP Archive中位数（超2000KB）的2.5%，配合良好缓存策略后续导航可低至10KB。其次，图片可通过Astro的优化资产支持自动压缩，用户需注意避免添加过重的图片。第三，UI组件方面，基于Astro Islands，Starlight默认加载零客户端JavaScript，减少处理功耗。缓存策略上，建议对/_astro/目录设置长缓存（如Cache-Control: public, max-age=604800, immutable），并针对不同托管平台给出配置示例。电力消耗方面，Starlight通过最小化JavaScript降低设备渲染负荷，同时建议使用轻量级分析工具（如Cabin、Fathom、Plausible）或延迟加载视频嵌入。托管选择也至关重要，优先选用使用可再生能源的托管商，可通过Green Web Directory查找。文末附有对比数据：Starlight每访问0.01g CO₂评级A+，优于VitePress、Read the Docs等主流框架，最差为GitBook（0.44g）和Mintlify（0.73g）。最后列出相关工具、文章和演讲资源。
+
+---
+
+## 18. SQLite“关键CVE”是AI生成的垃圾信息？
+
+- 原始链接: <https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/>
+- 英文标题: SQLite Critical CVEs or LLM Slop?
+
+JFrog安全研究员发现，GitHub上名为programmervuln/cveadvisory的仓库批量发布了一批SQLite漏洞公告，其中54个被证实为AI生成的虚假内容，仅1个包含真实问题。NVD和CISA ADP曾将这些CVE标记为关键，但JFrog验证后推翻了多数指控：引用的代码在目标版本中不存在，PoC无法触发崩溃，官方SQLite咨询页也未收录。以CVE-2026-51302为例，公告声称的exprComputeOperands()函数直到2025年才加入，且sqlite3ReleaseTempReg()仅回收寄存器索引，不可能导致UAF。其他CVE存在引用行号超出文件长度、修复版本无任何代码改动、函数签名错误等问题。文章指出，MITRE的提交流程缺乏身份验证，NVD自2024年2月因报告激增暂停深度分析，CISA等ADP虽尝试补充，但管道碎片化且不要求PoC或复现，导致虚假CVE流入GHSA和企业扫描器。这类AI生成的CVE会浪费安全团队时间，污染数据库，甚至误导自动修复工具生成错误补丁。作者建议：不盲信未知来源的新CVE，核实官方维护者页面、提交历史和元数据一致性，在安全环境中用PoC复现。JFrog已将结果正式报告给GHSA、Red Hat和NVD。
+
+---
+
+## 19. 不可移动类型与保证析构：Rust 项目目标
+
+- 原始链接: <https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md>
+- 英文标题: Rust Project Goals: Immobile types and guaranteed destructors
+
+该 Rust 项目目标提出引入新的自动 trait（Move、Destruct、Forget），使类型能够显式选择退出移动（移动内存位置）和遗忘（通过 mem::forget 跳过析构），从而解决 Rust 语言中长期存在的两个问题。当前 Rust 假设所有类型都可移动、可遗忘，这导致自引用类型（如异步 future）不得不依赖 Pin，而 Pin 将不可移动性编码为位置属性而非类型属性，带来显著复杂性；同时，mem::forget 的安全调用使得析构函数无法保证执行，阻塞了安全 scoped spawn 等模式。项目计划在 2026-2027 年间实现 Move trait 的编译器 MVP、编写 RFC、在 Linux 内核中验证，并设计保证析构的方案。Move trait 将不可移动性提升为类型属性，简化自引用类型的编码；!Forget 类型则能保证析构运行，例如使 scoped task handle 的析构必被执行，从而实现安全异步作用域生成。该项目遵循 Sized 层级放宽“所有类型都有编译期大小”的先例，将同样方法应用于移动和遗忘假设。项目明确将 Future trait 的修改排除在范围之外，因为其依赖 Pin 且已有多个问题，需单独处理。项目还指出该方案是 Pin ergonomics 的替代路线，长期目标是在 Rust 中完全弃用 Pin。
+
+---
+
+## 20. Bibliograph：面向书籍的原型化AppView应用
+
+- 原始链接: <https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047>
+- 英文标题: Bibliograph: A Prototypical AppView for Books
+
+本文介绍了Bibliograph这一原型应用，它展示了在Atmosphere协议生态中如何为书籍构建一个AppView（应用视图）。文章首先解释了AppView的概念——它作为Atmosphere网络上负责索引、组织和呈现内容的服务层，与数据接入层和客户端分离。作者选择书籍作为示例领域，因为书籍具有结构化元数据（如标题、作者、ISBN等），适合演示Atmosphere协议处理结构化数据的能力。Bibliograph允许用户浏览、搜索和收藏书籍条目，其核心交互包括书单视图、详情页和收藏功能。文章强调该原型旨在验证AppView的架构模式，即通过订阅Atmosphere的firehose（实时数据流）抓取与书籍相关的记录，建立本地数据库索引，并通过GraphQL API向客户端提供查询能力。作者还讨论了当前实现的局限，例如仅支持部分书籍元数据字段、缺少用户认证等，并展望了未来改进方向，包括引入更多数据源和更丰富的社交功能。整体上，这篇文章为开发者理解并构建基于Atmosphere协议的垂直领域AppView提供了参考实现与思路。
+
+---
+
+## 未能总结的条目
+
+- [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/) — 抓取失败: Client error '403 Forbidden' for url 'https://textslashplain.com/2026/08/04/security-is-hard-yall/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+- [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES) — 抓取失败: Client error '429 Too Many Requests' for url 'https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+- [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [ShieldFont](https://shieldfont.org/) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面
+- [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I) — 抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面

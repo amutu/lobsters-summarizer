@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>-</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="lobsters-热门文章中文摘要--2026-07-29">lobste.rs
+热门文章中文摘要 · 2026-07-29</h1>
+<p>共处理 10 篇, 成功 8 篇, 跳过 2 篇。</p>
+<hr />
+<h2 id="1-zig-增量编译内部解析">1. Zig 增量编译内部解析</h2>
+<ul>
+<li>原始链接: <a
+href="https://mlugg.co.uk/posts/incremental-compilation-internals/">https://mlugg.co.uk/posts/incremental-compilation-internals/</a></li>
+<li>英文标题: Inside Zig's Incremental Compilation</li>
+</ul>
+<p>本文由 Zig 核心团队成员撰写，详细介绍了 Zig
+编译器增量编译功能的实现原理与使用效果。增量编译能检测项目自上次构建后哪些函数和声明发生了变化，只重新编译这些代码，并直接修补输出二进制文件，使重建速度极快。作者演示了在像素编辑器
+Fizzy 上，初始构建约需5秒，之后每次修改的重建只需50-70毫秒。</p>
+<p>文章将 Zig 编译流程分为几个阶段：首先是源文件处理，通过解析和 AstGen
+将文件转换为
+ZIR（Zig中间表示）。该阶段具有纯函数特性，可轻松并行化，且能缓存每个文件的
+ZIR 到磁盘，仅当文件变化时才重新处理。此优化已在 Zig
+中默认启用多年，非常成熟。</p>
+<p>更棘手的部分是语义分析，包括类型检查和编译期求值。为了实现增量编译，Zig
+将编译拆分为多种“分析单元”（如结构体布局、声明类型、常量值、运行时函数体），并构建依赖图。当某个单元变化时，只重新分析受影响的单元。Zig
+语言设计特意为此做了调整（有时颇具争议），以支持快速增量编译。</p>
+<p>文章还提及当前 Zig 0.16.0
+虽然支持增量编译，但缺少一些关键链接器特性，建议使用 master 分支或等待
+0.17.0
+版本。最后，如果读者只想了解如何使用，可直接跳至文末的指南部分。</p>
+<hr />
+<h2 id="2-为省去按三次按钮的麻烦我设计了一块定制pcb">2.
+为省去按三次按钮的麻烦，我设计了一块定制PCB</h2>
+<ul>
+<li>原始链接: <a
+href="https://blog.tymscar.com/posts/opensourcedimmer/">https://blog.tymscar.com/posts/opensourcedimmer/</a></li>
+<li>英文标题: I Designed A Custom PCB To Avoid Pressing A Button Three
+Times</li>
+</ul>
+<p>本文作者因讨厌全黑环境，使用 Home Assistant
+自动控制一个廉价夜灯。该夜灯通过按钮循环切换5档亮度，但每次通电默认从第三档（最亮）开始，需要按三次才能降到最低档，十分不便。拆解发现芯片型号被抹去，也无法通过长按按钮改变默认亮度。于是作者决定用微控制器模拟按键操作。对比
+Wemos D1 Mini（ESP8266）和 Raspberry Pi Zero 后，选择了功耗极低的
+ATtiny85（1 MHz 下不到 1
+mA，休眠时仅微安级），因为它可以直接从夜灯内部电容降压的微弱电源取电，无需额外电源。为了稳定供电和可靠按键模拟，作者设计了一块包含
+HT7333 稳压器（将8.3V降至3.3V）、2N3904
+晶体管（短路按键信号到地）、电阻、电容和3针接口的PCB。使用 EasyEDA
+完成原理图和 PCB 布局，选择 JLCPCB
+制造了5块板，并让工厂焊接了极小的电容和电阻，其余元件（如ATtiny85、晶体管、接口）自行焊接。最后用树莓派
+3 的 GPIO 配合 avrdude 为 ATtiny85 烧录代码（无 bootloader
+时使用ISP编程）。最终实现了夜灯通电后自动执行三次按键操作，省去每日重复的手动操作。文章亮点在于完整记录了从问题分析、芯片选型、电路设计到
+PCB
+打样、焊接和编程的全流程，展示了超低功耗微控制器在家居自动化中的巧妙应用。</p>
+<hr />
+<h2 id="3-为什么rocq比lean更适合程序验证">3.
+为什么Rocq比Lean更适合程序验证</h2>
+<ul>
+<li>原始链接: <a
+href="https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html">https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html</a></li>
+<li>英文标题: Why Rocq is better than Lean for program verification</li>
+</ul>
+<p>本文作者Joomy
+Korkut解释了为什么在程序验证领域坚持使用Rocq（原Coq的新名称）而非随大流切换到Lean。文章首先明确讨论范围限于程序验证，而非数学形式化（作者承认Lean在数学领域势头强劲）。核心论点围绕余归纳类型（codata）的原生支持展开：Rocq通过CoInductive和CoFixpoint直接提供可执行的余数据定义和余定点，而Lean的coinductive命令仅支持谓词层面的余归纳，不生成可执行代码。Lean的替代方案如QPFTypes（原型项目）存在诸多限制：不支持无参数、互余归纳、索引余归纳类型，且生成的代码通过通用Cofix表示而非直接惰性构造。其他Lean常用方案（Stream'、状态机、Thunk、partial
+def）各有不足：Stream'本质是函数而非惰性构造；状态机需要手动编写管线；Thunk只提供惰性值但不支持余归纳递归检查；partial
+def不提供可证明性。Rocq的CoFixpoint通过守卫性检查确保生产率并生成可直接提取的惰性OCaml代码（如游戏树库中的unfold_cotree）。作者承认Rocq的守卫性检查也有痛点，但有Paco等成熟库辅助。结论：对于程序验证，Rocq当前仍是更合适的选择。</p>
+<hr />
+<h2 id="4-平均值毫无意义">4. 平均值毫无意义</h2>
+<ul>
+<li>原始链接: <a
+href="https://fzakaria.com/2026/07/27/the-mean-means-nothing">https://fzakaria.com/2026/07/27/the-mean-means-nothing</a></li>
+<li>英文标题: The mean means nothing</li>
+</ul>
+<p>本文通过一个合成数据集，揭示了仅用单一统计指标（如均值）评估性能变更的误导性。文章设定了一个Web服务缓存层部署场景：变更后，平均延迟从112ms升至122ms（看似回归），但中位数从99ms降至54ms（大幅改善），而p99则从309ms飙升至678ms（严重恶化）。同一组数据，不同百分位数指向完全相反的结论。作者强调，必须观察数据的分布形状而非仅依赖单一数字。通过累积分布函数（CDF）可视化，发现变更后数据呈现双峰分布：约140ms以下请求更快，以上则更慢——CDF曲线交叉意味着没有任何一个百分位数能概括整体效果。进一步借助移位函数、山脊图、热力图和联合图，追踪了为期一周的逐步上线过程，发现双峰由缓存命中（小响应快速）与未命中（大响应缓慢）造成，而根本原因是响应大小分布的双峰性。文章的核心启示：面对复杂数据，应使用多种可视化方法（尤其是CDF）从不同角度审视，避免被单个统计量误导，从而发现真实的因果与改进方向。</p>
+<hr />
+<h2 id="5-使用-tcltk-开发跨平台命令行与图形界面工具">5. 使用 Tcl/Tk
+开发跨平台命令行与图形界面工具</h2>
+<ul>
+<li>原始链接: <a
+href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></li>
+<li>英文标题: Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</li>
+</ul>
+<p>本文深入介绍了 Tcl/Tk 这一诞生于 1990 年的跨平台编程语言与 GUI
+工具包。作者指出，Tcl/Tk 能创建在 Windows、Linux、macOS
+上呈现原生界面的控制台和图形应用，支持安全高效的多线程、非阻塞事件与
+I/O，安装常见包后仅占约 100MB，并能生成极小的单文件可执行程序。文章强调
+Tcl
+的命令中心特性和“一切皆字符串”的设计哲学，带来极高的灵活性和自省能力，但也在数学表达和引用方面存在“引号地狱”等痛点。Tk
+工具包提供跨平台原生部件，已适配高 DPI 和 4K 显示。文章还介绍了 Tcl 9.0
+的新特性、TclOO 面向对象编程、协程、线程、Starkit/Zipkit
+单文件分发、基于 Tcl Wapp 的 Web 应用开发，以及实际案例——Decent Espresso
+咖啡机使用 Tcl/Tk 构建其界面。作者客观评价了 Tcl/Tk
+的局限性，如缺少垃圾回收、无中央包管理器、IDE
+支持一般、多媒体能力有限等，但认为它仍然是构建跨平台工具的优秀选择，尤其适合嵌入式和对体积敏感的场景。全文旨在为有编程基础的读者提供一份实用入门指南，消除对
+Tcl 的常见误解。</p>
+<hr />
+<h2 id="6-wayland多人协同桌面现状">6. Wayland多人协同桌面现状</h2>
+<ul>
+<li>原始链接: <a
+href="https://blinry.org/multi-seat-wayland/">https://blinry.org/multi-seat-wayland/</a></li>
+<li>英文标题: State of multi-player Wayland</li>
+</ul>
+<p>作者调查了Linux
+Wayland下多席位（多鼠标/键盘、多光标）桌面支持的现状。Wayland协议自身深度支持多席位，但各合成器、图形库和应用层支持参差不齐。Weston能实现多光标独立操作窗口，但配置繁琐；sway支持较好，但有缺陷；niri等尚未支持。作者发布了相关工具和补丁，并呼吁社区共同完善。</p>
+<hr />
+<h2 id="7-到底什么是微服务">7. 到底什么是微服务？</h2>
+<ul>
+<li>原始链接: <a
+href="https://var0.xyz/posts/what-even-are-microservices.html">https://var0.xyz/posts/what-even-are-microservices.html</a></li>
+<li>英文标题: What even are microservices?</li>
+</ul>
+<p>本文探讨了微服务架构的本质、争议及其真实价值。作者指出，尽管微服务在技术讨论中无处不在，但几乎没人能清晰定义“微”的边界——如代码行数或职责数量，这些技术特征其实模糊不清。核心观点是：微服务首先不是技术抽象，而是解决组织问题的工具。当公司有数十或数百名工程师需要独立工作、拥有自主发布权时，微服务通过创建与组织边界对应的服务边界来提供团队自治，这才是其真正优势。然而，每一项好处都有代价：失去集中化控制，静态分析难以追踪依赖和未用代码；函数间通信变为网络调用，带来延迟、重试、序列化、一致性等分布式系统问题；API变更从重构变为团队间的协商，版本管理和数据库迁移变得复杂。文章强调，微服务是优秀的架构选择，但应基于组织扩展需求而非纯技术问题选择。如果瓶颈是团队协作和独立发布，微服务可能是正确答案；如果仅为改善构建速度或测试时长，则应先思考是否过度设计。总之，微服务是带有技术后果的组织工具，而非魔法般的解决方案。</p>
+<hr />
+<h2 id="8-用nix构建系统软件">8. 用Nix构建系统软件</h2>
+<ul>
+<li>原始链接: <a
+href="https://hondu.co/blog/building-systems-software">https://hondu.co/blog/building-systems-software</a></li>
+<li>英文标题: Building (systems) software with Nix</li>
+</ul>
+<p>文章讨论了系统软件开发中因依赖环境变化（如编译器版本、系统库、内核更新）导致的构建不可重复问题，指出传统包管理器仅锁定部分依赖（如Rust的Cargo.lock），而编译器、链接器、内核头文件等仍可能变化，增加调试成本。作者引入Nix作为解决方案：Nix是包管理器、构建系统和函数式语言，通过flake锁定nixpkgs仓库的特定修订版本，实现整个工具链（包括clang、gcc、libbpf、内核头文件等）的二进制级可重复性。文中以Rust+BPF环境为例展示nix
+develop即可提供一致构建环境。实际收益包括：消除“在我机器上能运行”问题（不同Linux发行版的开发者获得一致环境）、简化变更二分定位（例如快速切换clang版本排查BPF代码兼容性）、获得更严格的安全默认（如_FORTIFY_SOURCE=2暴露未定义行为）、依赖自定义无需修改构建系统、以及构建系统只重新编译必要部分提高效率。文章强调，Nix不依赖传统包管理器的锁文件，而是通过整个仓库的快照来消除环境歧义。</p>
+<hr />
+<h2 id="未能总结的条目">未能总结的条目</h2>
+<ul>
+<li><a
+href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/">Framework
+13 Pro review: Much better battery, much worse price</a> — 抓取失败:
+提取到的正文过短, 可能是付费墙或动态渲染页面</li>
+<li><a href="https://www.youtube.com/watch?v=E82ly38YEEQ">Dependency
+Cultures - Richard Feldman (Software Should Work Conf 2026)</a> —
+抓取失败: 提取到的正文过短, 可能是付费墙或动态渲染页面</li>
+</ul>
+</body>
+</html>
