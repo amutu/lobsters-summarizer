@@ -1132,3 +1132,21 @@ ebca07627ef0e8d924b4e41faf960111	2026-11-08	https://www.alpinelinux.org/posts/20
 c2b5583b3ce21d2cc6aec362cab7f89b	2026-11-08	https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/	lob:Exploring Janet and the httpf web framework
 5bb4506d3661b6e4883c81638405ca76	2026-11-08	https://ganelson.github.io/inform-website/	lob:Inform is a programming language for creating interactive fiction
 b680b9049c2dc97dbbe80e2f4d4330a9	2026-11-08	https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/	lob:Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header
+b7c0be2b82d00aec40428ad65f983228	2026-11-09	https://amutable.com/blog/systemd-loves-rust	lob:systemd loves Rust
+b79028dbfaf93489bb07cea30958f413	2026-11-09	https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles	lob:Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?
+26fd5daa674382548b3838b917618ad1	2026-11-09	https://maurycyz.com/misc/email/	lob:A bit about email
+7e1e5f7b3f21b5abb4c84ef32d49d38a	2026-11-09	https://jmmv.dev/2026/11/zkeys-intro.html	lob:Unattended reboots with encrypted disks
+af93c1655a1284d9b531f507f0bd538f	2026-11-09	https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai	lob:What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?
+fdb953c9b8111670cd38ae5ed89166f8	2026-11-09	https://neongd.com/articles/netbsd11-rpi4.gmi	lob:NetBSD 11 desktop on a Raspberry Pi 4
+2465297973d3ba7281e3a24e598caa75	2026-11-09	https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/	lob:Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers
+12f06de9aa23eaab6b164a8094b6dffb	2026-11-09	https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast	lob:Introducing Project Steadfast
+7d582589a10ef14787ab5d23604d6bdb	2026-11-09	https://opensourcesecurity.io/2026/10-embargo/	lob:Dear Open Source Developers: It's OK not to embargo
+bf0c9148ccd9f6edd352bacf21dab5a1	2026-11-09	https://www.redox-os.org/news/virtualized-redox/	lob:Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond
+cb00b1cce73b94f8c239019c184f16c8	2026-11-09	https://nayak.im/posts/optimizing-reference-deletion/	lob:Optimizing reference deletions in Git
+4c5c0c02907f2ac10192869cfb68ba8e	2026-11-09	https://serd.es///2026/11/08/playing-with-stm32mp2.html	lob:Playing with the STM32MP2
+0d25a08faabde845b5edb4e432012dea	2026-11-09	https://x86.cx/blog/redanger	lob:Hacking the T-Mobile Sidekick, 20 Years Too Late
+eacc3771fb737f39cfab4d6a486d6c41	2026-11-09	https://www.epatters.org/post/e-graphs-3/	lob:How to prove equations using diagrams, part 3
+209704ca89088a84bebee34967dd372b	2026-11-09	https://link.springer.com/article/10.1007/s10664-026-10988-z	lob:Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension
+963accd6dd998d8b00993bd6d90057b9	2026-11-09	https://isocpp.org/files/papers/P4454R0.pdf	lob:When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward
+6d2a5331747b242bede18eb7b9d4054a	2026-11-09	https://blog.alexewerlof.com/p/message-queues	lob:Message Queues
+0dc9bc26a5a88096468a82f672a48025	2026-11-09	https://djad04.github.io/php2shell-deep-dive/	lob:PHP2Shell — Deep Dive
