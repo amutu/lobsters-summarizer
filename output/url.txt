@@ -1150,3 +1150,20 @@ eacc3771fb737f39cfab4d6a486d6c41	2026-11-09	https://www.epatters.org/post/e-grap
 963accd6dd998d8b00993bd6d90057b9	2026-11-09	https://isocpp.org/files/papers/P4454R0.pdf	lob:When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward
 6d2a5331747b242bede18eb7b9d4054a	2026-11-09	https://blog.alexewerlof.com/p/message-queues	lob:Message Queues
 0dc9bc26a5a88096468a82f672a48025	2026-11-09	https://djad04.github.io/php2shell-deep-dive/	lob:PHP2Shell — Deep Dive
+ceca177a209451c9ca7b49aeba2f1f1c	2026-11-10	https://www.wezm.net/v2/posts/2026/distro-energy-use/	lob:How Much Energy Does Building Distro Packages Use
+fde676034889d36bdc1ed2b4ca448324	2026-11-10	https://maurycyz.com/projects/badcert/	lob:Horrible public key tricks
+07676c9b3da915ccc389330136652770	2026-11-10	https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/	lob:Microsoft are rejecting your mail
+1472017d26fb9efa7edeec97c49ab896	2026-11-10	https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/	lob:unlocking any car from X brand in most of the world
+f19f624bdcca2cbe226bcbdca783bdd0	2026-11-10	https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/	lob:Let’s Talk About Why all This OT Stuff is Connected
+a727b88edb34ba333c97e967bbf64284	2026-11-10	https://terminal2shell.com/	lob:Terminal2Shell: Critical flaw grants instant shell access on every major OS
+3c8c607b8be0b5cafec120c8568c84f6	2026-11-10	https://tiki.li/blog/about_blqsort	lob:A C++ Quicksort Faster Than std::sort
+f6fd3a2c4b9c09355d48fad28b2a062c	2026-11-10	https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/	lob:What's new in Node.js 27
+65f53189c49a9e78f9a71e251cd5dae1	2026-11-10	https://lobste.rs/s/tt42jc/what_are_you_doing_this_week	lob:What are you doing this week?
+0c32ff8bf4bbc4ac4a3a044e2c69e82a	2026-11-10	https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/	lob:Sure mate, buy me a bloody coffee
+2e72ab6607b306873063937d81190401	2026-11-10	https://www.youtube.com/watch?v=Vp16LLOvegw	lob:Playing classical music on a classic PC with GentleOS
+fa4b572f96dad6255d73448ce1733273	2026-11-10	https://dbushell.com/2026/11/09/dark-mode/	lob:I was wrong about dark mode
+afd3478e8b6526dcc20c28eafdb70850	2026-11-10	https://gasiulis.name/new-spline/	lob:Slightly better interpolating spline
+569959b867479b28d4a06251ee35f94d	2026-11-10	https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/	lob:Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)
+c97e35ff024c7f6a241415ceddbd65ba	2026-11-10	https://liblisa.nl/sem86/	lob:Sem86: a full-system x86 emulator without hardcoded semantics
+db971d89fb188eac8c4a4a4b8f786e95	2026-11-10	https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/	lob:PyPI's redesigned project pages with clearer security signals are now live
+51035c43f7b1d2173280a840068d1e98	2026-11-10	https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38	lob:I Dislike Pull Requests (2020)
