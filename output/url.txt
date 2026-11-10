@@ -1167,3 +1167,14 @@ afd3478e8b6526dcc20c28eafdb70850	2026-11-10	https://gasiulis.name/new-spline/	lo
 c97e35ff024c7f6a241415ceddbd65ba	2026-11-10	https://liblisa.nl/sem86/	lob:Sem86: a full-system x86 emulator without hardcoded semantics
 db971d89fb188eac8c4a4a4b8f786e95	2026-11-10	https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/	lob:PyPI's redesigned project pages with clearer security signals are now live
 51035c43f7b1d2173280a840068d1e98	2026-11-10	https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38	lob:I Dislike Pull Requests (2020)
+c1a6a4cb500d6aee1aec7a14f0cecf8c	2026-11-11	https://eaj.no/posts/open-graph-images-with-typst/	lob:Open Graph images with Astro and Typst
+6cca7eb7b6f66a857166a58bbf1a4142	2026-11-11	https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/	lob:Announcing .NET 11
+42f5507fff6101b1c46dbb1d8a18431f	2026-11-11	https://dustri.org/b/weird-licenses-and-the-new-open-source.html	lob:Weird licenses and the new open source
+23a2d8038f05452c97568da0b9911ee0	2026-11-11	https://www.benjoffe.com/fast-easter	lob:A faster Easter date function
+cd93b2940b300401a220185ccf2d1a54	2026-11-11	http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html	lob:Next-Level Benchmarking Overfitting
+4d4e180a51b5c8c81de98c1d53af1c8b	2026-11-11	https://essenceia.github.io/projects/expresso/	lob:Building a networking switch ASIC chip
+381cc57cb304f84a56e6305f79b3309b	2026-11-11	https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on	lob:Searching for pedagogical materials on memory models
+408e42e1055511991ae84c4d72b2096c	2026-11-11	https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/	lob:Blunt Banhammer Blocks Basic Bots Ballistically
+646565a8bdc1fe13b9d5a9487495d8ca	2026-11-11	https://forge-blog.github.io/posts/rust-std-memory-safety/	lob:Memory Safety Bugs in Rust Standard Library
+7e6a7d77562a7a7c41690b7c90c6322f	2026-11-11	https://andersmurphy.com/2026/11/09/two-apps-one-process.html	lob:Two apps one process
+ca1da5c500513202256402e0579b2b2d	2026-11-11	https://synacktiv.com/en/publications/star-wars-episode-i-racer	lob:Finding a vulnerability in Star Wars Episode I: Racer
