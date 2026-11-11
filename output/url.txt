@@ -1178,3 +1178,19 @@ cd93b2940b300401a220185ccf2d1a54	2026-11-11	http://databasearchitects.blogspot.c
 646565a8bdc1fe13b9d5a9487495d8ca	2026-11-11	https://forge-blog.github.io/posts/rust-std-memory-safety/	lob:Memory Safety Bugs in Rust Standard Library
 7e6a7d77562a7a7c41690b7c90c6322f	2026-11-11	https://andersmurphy.com/2026/11/09/two-apps-one-process.html	lob:Two apps one process
 ca1da5c500513202256402e0579b2b2d	2026-11-11	https://synacktiv.com/en/publications/star-wars-episode-i-racer	lob:Finding a vulnerability in Star Wars Episode I: Racer
+cfcf4d8fdca365144eb943e2307b0d25	2026-11-12	https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely	lob:How do you actually self-host securely?
+bcdc52e4160640b4cc2e4acb7c8defcf	2026-11-12	https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies	lob:What are some "No AI" apps/companies/resources you know of?
+01e7ae3781a6b77a1a3bcf47b5db93ca	2026-11-12	https://hugovk.dev/blog/2026/lock-github-actions/	lob:Lock your GitHub Actions
+0e95948d21fe9dcfb97f5b66f8567a9a	2026-11-12	https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/	lob:For the first time, a C++ standard failed to pass the national bodies
+df3fc5e931d74fd95f84b1d803b525dd	2026-11-12	https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/	lob:Google Summer of Code 2026 results
+a74a16bc1e5b4e1344c5237f96726e52	2026-11-12	https://go.dev/blog/17years	lob:Go Turns 17
+0b8eabcef2fec02e1c8a895597aa26cc	2026-11-12	https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/	lob:30 years of Internet transfers with curl
+76b810e1d9d9c89673f6168e8de5b508	2026-11-12	https://lobste.rs/s/miyll7/london_meetup_update	lob:London meetup - update
+f71a34165801a3a58d82c9c521fe7b06	2026-11-12	https://danbooru.donmai.us/forum_topics/38685.html	lob:About the downtime and security incident
+29b1e849a1a80fcf1b7827202cc66f06	2026-11-12	https://andrew-helmer.github.io/permute/	lob:Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration
+815fdba7ce7f7acf692ab5027672f54f	2026-11-12	https://emudhra.com/en/post/certificate-security-incident	lob:eMudhra Statement on Recent Certificate Security Incident
+5e62eb3bd52922871b8302e215d3e634	2026-11-12	https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/	lob:Writing a SIGGRAPH paper from scratch
+32365108db4756948e830a6c1254d0d4	2026-11-12	https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/	lob:Modding Linux to use SIGKILL on every process
+8363bc1afabd84b1a9fe1d4d6b46c65c	2026-11-12	https://www.itworkslocally.dev/posts/no-effect-before-its-cause	lob:No Effect Before Its Cause: From Einstein to Lamport
+0f2fe0e157497bc2ef68c56e61f211a6	2026-11-12	https://eli.thegreenplace.net/2026/monads-in-lean/	lob:Monads in Lean
+b9f68f9475ae2886dcb5d38f30b83bc9	2026-11-12	https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup	lob:Performance evolution of route lookup on Linux
