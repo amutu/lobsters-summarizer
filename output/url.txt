@@ -1194,3 +1194,14 @@ f71a34165801a3a58d82c9c521fe7b06	2026-11-12	https://danbooru.donmai.us/forum_top
 8363bc1afabd84b1a9fe1d4d6b46c65c	2026-11-12	https://www.itworkslocally.dev/posts/no-effect-before-its-cause	lob:No Effect Before Its Cause: From Einstein to Lamport
 0f2fe0e157497bc2ef68c56e61f211a6	2026-11-12	https://eli.thegreenplace.net/2026/monads-in-lean/	lob:Monads in Lean
 b9f68f9475ae2886dcb5d38f30b83bc9	2026-11-12	https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup	lob:Performance evolution of route lookup on Linux
+d9dbd412dbcac8ec99e2f78c084abb2f	2026-11-13	https://lyra.horse/blog/2026/11/disinformation-machine/	lob:How I accidentally became a millionaire
+cad8baf0d25a7a4fc6ea71f288e5ebd2	2026-11-13	https://letoverlambda.com/	lob:The entirety of "Let Over Lambda" is now freely available online
+ee16cb2e10c24680dd47fa64dfdd3684	2026-11-13	https://ratfactor.com/cards/hello-baochip	lob:Hello Baochip
+2925fc76725984fba162d620eaedb143	2026-11-13	https://ploum.net/2026-11-12-anti-marketing-gemini.html	lob:The anti-marketing aspect of the Gemini network
+e6170f0a0fb30206766335260c5a2108	2026-11-13	https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/	lob:Hijacking Samsung TV Smart Hub Ads
+15d001c523abd8ba40d46c5e737ed252	2026-11-13	https://monkeyisland.pages.dev/	lob:The Secret of Monkey Island: all 13 versions side by side
+1ede5263574720b14b0d9b24de6b048c	2026-11-13	https://www.freebsd.org/status/report-2026-07-2026-09/	lob:FreeBSD Status Report Third Quarter 2026
+0ac3441b546f675d78584b4804fe06b5	2026-11-13	https://dyalog.com/dyalog/dyalog-versions/210.htm	lob:Dyalog Version 21.0
+94d45197c88dda77fab86db4341646ec	2026-11-13	https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/	lob:Creating Diagrams and Graphs Using Modern CSS
+f20aab65f1e1c4a771a58d59a29c2b57	2026-11-13	https://foss.life/notes/2026/the-myth-of-neutral-code/	lob:The Myth of Neutral Code
+46ff74268bc8356f169fe57fb4e030a1	2026-11-13	https://www.itu.int/pub/T-TUT-ICTS-2026-6	lob:Global coordination requirements for 2038-class rollover events
