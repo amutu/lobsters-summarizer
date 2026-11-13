@@ -1205,3 +1205,18 @@ e6170f0a0fb30206766335260c5a2108	2026-11-13	https://dvratil.cz/2026/11/hijacking
 94d45197c88dda77fab86db4341646ec	2026-11-13	https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/	lob:Creating Diagrams and Graphs Using Modern CSS
 f20aab65f1e1c4a771a58d59a29c2b57	2026-11-13	https://foss.life/notes/2026/the-myth-of-neutral-code/	lob:The Myth of Neutral Code
 46ff74268bc8356f169fe57fb4e030a1	2026-11-13	https://www.itu.int/pub/T-TUT-ICTS-2026-6	lob:Global coordination requirements for 2038-class rollover events
+55c6f64a7fd3bd6bea7d8176c61f83da	2026-11-14	https://alichraghi.github.io/blog/how-not-to-build-a-music-player	lob:How Not to Build a Music Player
+67687f2be27bb5a8bcc7ecf39f30eb80	2026-11-14	https://www.joshka.net/cell-borders/	lob:Terminal borders that don't cost a cell
+fcdf71baed3d9e47c9a2863a04a23cd1	2026-11-14	https://blog.ovalerio.net/archives/3359	lob:The need for at least a third option
+3ff37394cf710e4f7f9cee32ba12ad8a	2026-11-14	https://antonz.org/probabilistic-data-structures/	lob:Probabilistic data structures in Go
+f26a3be58165d8f147c18ef324ae3f32	2026-11-14	https://sunshowers.io/posts/glue-work/	lob:Contra "Glue work considered harmful"
+c510a5edf47f149f564966e17320e328	2026-11-14	https://antithesis.com/blog/2026/nethack/	lob:Beating the frontier on NetHack
+f5777d921d2a2c40231d1c79734b0db7	2026-11-14	https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/	lob:ML Modules for Mere Mortals
+14f83db6e7edafb4a753d36d2146e0a9	2026-11-14	https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+9cb7954445d4d49ca51d3120a35f0f71	2026-11-14	https://bike.github.io/posts/kildall.html	lob:Kildall's algorithm
+b9dfc81308bbcbc909687836722369c4	2026-11-14	https://sable.moe/en/blog/link-previews-and-you/	lob:Link Previews and You
+a4e0db52de085ebe74b5e96ffabfb6d1	2026-11-14	https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/	lob:Pointer Provenance in Rust vs C++
+f6c40321d64f22b41bae1a182b154893	2026-11-14	https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction	lob:“From digital mischief to outright destruction”
+0aefdf8bbb5769a1e42f318da0a9d20a	2026-11-14	https://bernsteinbear.com/blog/ssa-bytecode/	lob:SSA from bytecode: imperative pearl
+647a35a6254be87d98ffbdcbbd02cbe3	2026-11-14	https://beyondloom.com/blog/postscript.html	lob:Let’s Write a PostScript Interpreter
+a085649a218f0d94eecf5999a9b4341e	2026-11-14	https://alistair.sh/thenables	lob:Fixing a WebKit bug to see if promises are made of train tracks
