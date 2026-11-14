@@ -1220,3 +1220,10 @@ f6c40321d64f22b41bae1a182b154893	2026-11-14	https://unsung.aresluna.org/from-dig
 0aefdf8bbb5769a1e42f318da0a9d20a	2026-11-14	https://bernsteinbear.com/blog/ssa-bytecode/	lob:SSA from bytecode: imperative pearl
 647a35a6254be87d98ffbdcbbd02cbe3	2026-11-14	https://beyondloom.com/blog/postscript.html	lob:Let’s Write a PostScript Interpreter
 a085649a218f0d94eecf5999a9b4341e	2026-11-14	https://alistair.sh/thenables	lob:Fixing a WebKit bug to see if promises are made of train tracks
+73bbbf56a4f9fe9a70f7399578c76f0b	2026-11-15	https://www.willett.io/posts/data/	lob:Let Me Let You Own Your Data
+e1e901015724875756f9ae5bb1fd1159	2026-11-15	https://dfarq.homeip.net/what-happened-to-3com/	lob:What happened to 3com?
+8527e9264bc76d0928e6bb26ec214d81	2026-11-15	http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html	lob:Solving the fox game
+4004506b68e6623bc57249877d5fff32	2026-11-15	https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/	lob:Writing a DSL for high performance parallel programming in OxCaml
+f6211dd695228fccc05fd03cf4ee4dee	2026-11-15	https://arxiv.org/abs/2605.29713	lob:The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+07984a6634dd954ab04532e76d43c4ff	2026-11-15	https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/	lob:When is a class a “commodity” and when does it depend on the instructor?
+746cf1bbc96943e753c1597a5b9fc634	2026-11-15	https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a	lob:Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A
