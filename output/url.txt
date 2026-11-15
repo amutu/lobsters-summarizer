@@ -1227,3 +1227,17 @@ e1e901015724875756f9ae5bb1fd1159	2026-11-15	https://dfarq.homeip.net/what-happen
 f6211dd695228fccc05fd03cf4ee4dee	2026-11-15	https://arxiv.org/abs/2605.29713	lob:The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
 07984a6634dd954ab04532e76d43c4ff	2026-11-15	https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/	lob:When is a class a “commodity” and when does it depend on the instructor?
 746cf1bbc96943e753c1597a5b9fc634	2026-11-15	https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a	lob:Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A
+7a0ca8d41b54ae1c372feb9c34d09daa	2026-11-16	https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html	lob:Memory management in 40 major C projects, a survey
+919552dbbc700b9c5a1615d6919894b2	2026-11-16	https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/	lob:25 of my favourite modern NES games
+6d95b9305b83f23f30ab024aa87c4220	2026-11-16	https://blog.kizu.dev/cursors/	lob:cursor:pointer on buttons
+1982512f07989732d239a6532f3c8101	2026-11-16	https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/	lob:FreeBSD bhyve Live Migration: Moving VMs Between Hosts
+7022f8cbe1430bc4e2307bbfac980877	2026-11-16	https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic	lob:Blog: Preventing Cross-Service UDP Loops in QUIC
+7156488e38146f55f24bd61b9331c006	2026-11-16	https://bvisness.me/periodic-oriented-programming/	lob:Periodic-Oriented Programming for FIRST Robotics
+707a471fb195dde41dc194d40e6d62f8	2026-11-16	https://aspiz.uk/wiki/AnthropomorphicSoftware	lob:Anthropomorphic Software
+0eda216e7986e5360e733c326eeec8dd	2026-11-16	https://netbsd.org/~nia/disk-encrypt/	lob:Disk encryption on NetBSD achieving secrecy
+90a3667565148490622a655bdf93f61f	2026-11-16	https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html	lob:Parsing nested lists in BQN
+d13d1673452ae5e763618a7d780a3ff4	2026-11-16	https://dholms.leaflet.pub/3mu3p3ldwrc26	lob:Reintroducing Spaces
+315540b3d1a9f3903da5aa22a33cb496	2026-11-16	https://www.ykiko.me/en/articles/2105384023094834022/	lob:clice v1.0 Released: Welcome to Modern C++
+05a3ba937fb712658f3eb7e669ecb6bc	2026-11-16	https://yrashk.com/strata/	lob:Strata — memory is explicit I/O
+4879308695b0a5139f60c72d2df97a0f	2026-11-16	https://sigseis.dev/articles/2026/11/10	lob:Rust Declarative Macros: Organization, Scoping, and Common Use-Cases
+d26ab2a824eebf34c00ccb751c111950	2026-11-16	https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers	lob:Some problems of recursive descent parsers (2009)
