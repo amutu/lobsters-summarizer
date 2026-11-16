@@ -1241,3 +1241,23 @@ d13d1673452ae5e763618a7d780a3ff4	2026-11-16	https://dholms.leaflet.pub/3mu3p3ldw
 05a3ba937fb712658f3eb7e669ecb6bc	2026-11-16	https://yrashk.com/strata/	lob:Strata — memory is explicit I/O
 4879308695b0a5139f60c72d2df97a0f	2026-11-16	https://sigseis.dev/articles/2026/11/10	lob:Rust Declarative Macros: Organization, Scoping, and Common Use-Cases
 d26ab2a824eebf34c00ccb751c111950	2026-11-16	https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers	lob:Some problems of recursive descent parsers (2009)
+e73ade4ddf23a382e35f0eca271b994b	2026-11-17	https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/	lob:Migrating from GitHub to Codeberg
+25886b8715b79d20264fce74b9f49b4a	2026-11-17	https://jack.cab/blog/siterate.html	lob:What is w2rt6byl5nf1opmc-a[.]com?
+52f9ab6ccb7b69085fec840df31d6ce1	2026-11-17	https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/	lob:Janet Reno was talking about my friend Coolio (computer criminal)
+677c01ab72549aa0c87a0485d56c31a8	2026-11-17	https://citrons.xyz/journal/2026-04-13	lob:Paint in the memory of other programs
+5f85fb76e4d1bcc3e4c9d661850de733	2026-11-17	https://blog.startifact.com/posts/how-rust-changed-me/	lob:How Rust Changed Me As A Developer
+0a5679b1effe4bd50df06a7e7e67ee70	2026-11-17	https://www.prux.org/posts/goodbye-swift-hello-rust/	lob:On Leaving Swift for Rust
+2ddf467fd482c9ef5297c9f62933c971	2026-11-17	https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/	lob:Quality IMAP, Part 1: Your Mailbox Is A Database
+20cc18bf803a2e9e9c5466ac5ce2eae4	2026-11-17	https://lobste.rs/s/isejqv/what_are_you_doing_this_week	lob:What are you doing this week?
+04043fd989bfa7732f99715179924c79	2026-11-17	https://ingrids.space/posts/you-wont-win-at-copyright/	lob:you won't win at copyright
+78e99e01fe21055e72c6c4999d583b26	2026-11-17	https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/	lob:Enabling the parallel frontend on nightly
+ea5579325c8174fd1fa89eb2ed898f2f	2026-11-17	https://fzakaria.com/2026/11/14/beer-drv-drv-drv	lob:beer.drv.drv.drv
+5abbee4154e6dac8383ad039f86c4540	2026-11-17	https://www.openwall.com/lists/oss-security/2026/11/15/2	lob:NoisyTCP
+b217d93d7df515056dae8496862e1652	2026-11-17	https://aphyr.com/posts/428-announcing-hegel-clj	lob:Announcing Hegel-clj
+aebd864fa2e7bee16860435f48340213	2026-11-17	https://iter.ca/post/ubo-uxss/	lob:Universal XSS in uBlock Origin from website-driven element picker
+66012b7e35951490fe8dbe032602b389	2026-11-17	https://nrinaudo.github.io/articles/pl.html	lob:Programming a language
+37aeb4a4959d9e5eaf40f367c6beca56	2026-11-17	https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/	lob:Local Mirror for FreeBSD pkgbase
+941d5aa3b7a3470611496274ef93a0c2	2026-11-17	https://alexwlchan.net/2026/funkycache/	lob:funkycache: a Python library to cache functions in SQLite
+9cd6b4b88a86fca0bb100251e68a5c91	2026-11-17	https://yashgarg.dev/posts/where-did-the-ack-go/	lob:Where did the ACK go?
+63e37a31ef06ae38c4a0fd8be3a6d923	2026-11-17	https://www.redox-os.org/news/this-month-261031/	lob:This Month in Redox - October 2026
+5ea9f53d655323223d30829c570fb877	2026-11-17	https://djapg7v42ea9q.cloudfront.net/pdf/hotnets26-final281.pdf	lob:Formal Operations Specifications for Reliable System Management
