@@ -1261,3 +1261,19 @@ aebd864fa2e7bee16860435f48340213	2026-11-17	https://iter.ca/post/ubo-uxss/	lob:U
 9cd6b4b88a86fca0bb100251e68a5c91	2026-11-17	https://yashgarg.dev/posts/where-did-the-ack-go/	lob:Where did the ACK go?
 63e37a31ef06ae38c4a0fd8be3a6d923	2026-11-17	https://www.redox-os.org/news/this-month-261031/	lob:This Month in Redox - October 2026
 5ea9f53d655323223d30829c570fb877	2026-11-17	https://djapg7v42ea9q.cloudfront.net/pdf/hotnets26-final281.pdf	lob:Formal Operations Specifications for Reliable System Management
+f9ed13bea3f492073a7945d95b726af1	2026-11-18	https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/	lob:Actual curl rewrites in rust
+f45c8bff86726bab650889ffe2efa2ee	2026-11-18	https://redict.io/posts/2026-11-17-redict-deprecated/	lob:Redict is deprecated
+b3d32b781fba91c61b43f53e0838b768	2026-11-18	https://edvong.com/bypass-orphan-rule/	lob:How to Bypass Rust's Orphan Rule
+9814f605eff6c06b5bed7683b3b200ab	2026-11-18	https://phrack.org/issues/73/introduction_md.html	lob:Phrack 73
+18e986cbd1775e3c8e2aca55f526b9a3	2026-11-18	https://tonsky.me/blog/github-redesign/	lob:Github Redesign (2019)
+2375cfd0df4c5efb4f7807bc3805e7af	2026-11-18	https://lucas.love/100/058	lob:Steve Jobs Core Animation demo from WWDC 2007
+aa01c0990a6af55896b68c3b80636a46	2026-11-18	https://calif.io/java4shell/	lob:Java4Shell: Write once, RCE everywhere
+5082a292619ae8e5b388d826d5075ce3	2026-11-18	https://xenodium.com/my-emacs-31-contributions	lob:My Emacs 31 contributions
+6629ebeffee9b400bf9e1b99b262a7d0	2026-11-18	https://arxiv.org/abs/2607.02512	lob:Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+13b63e666430a341ac929acb7bd031cf	2026-11-18	https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/	lob:C’s designated initializers give us named arguments
+2d85ad1158e31c2827decd352a164808	2026-11-18	https://stng.substack.com/p/automatic-checking-of-compiler-correctness	lob:Automatic Checking of Compiler Correctness with E-Graphs
+cb73ec64025a7313efac06a5e94f9dcc	2026-11-18	https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html	lob:Improving the Wii U's Wii Mode
+5878815c9e8fbeb1bbdb5ac42c8096dc	2026-11-18	https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html	lob:Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
+731b433ad523ffd2e174958ef52f408c	2026-11-18	https://threedots.tech/post/making-games-in-go-ecs/	lob:Making Games in Go: Entity Component System (ECS)
+d3dc2352c83306139b5f041c69e46dc1	2026-11-18	https://picaq.github.io/sarasa	lob:Sarasa Gothic Mono
+4dc5ae0965dd47e7ce55988a76ede82a	2026-11-18	https://nimony.org/	lob:Nimony: The next version of Nim
