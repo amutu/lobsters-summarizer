@@ -1277,3 +1277,22 @@ cb73ec64025a7313efac06a5e94f9dcc	2026-11-18	https://garyodernichts.blogspot.com/
 731b433ad523ffd2e174958ef52f408c	2026-11-18	https://threedots.tech/post/making-games-in-go-ecs/	lob:Making Games in Go: Entity Component System (ECS)
 d3dc2352c83306139b5f041c69e46dc1	2026-11-18	https://picaq.github.io/sarasa	lob:Sarasa Gothic Mono
 4dc5ae0965dd47e7ce55988a76ede82a	2026-11-18	https://nimony.org/	lob:Nimony: The next version of Nim
+a68ce681a5c69001b8ab6739155827fa	2026-11-19	https://social.anoxinon.de/@Codeberg/117636454915265360	lob:Codeberg's domain suddenly disappeared from their account, site is unreachable
+377fd89a4db52633d865cee96623c5e4	2026-11-19	https://xint.io/blog/nginx2root-remote-code-execution	lob:nginx2root
+4bc1539e990c86f8935d1a39714ac035	2026-11-19	https://mccue.dev/pages/11-18-26-java4shell	lob:Java4Shell is a reason to use Java
+afa4638690c8842ed849a9c5dd6c0122	2026-11-19	https://xusheng.dev/posts/windows-coding-agent-telemetry/	lob:Windows 11 collects data on which coding agents and dev tools you use
+5f7df16385fa79542e74a1825e57e07e	2026-11-19	https://www.php.net/index.php#2026-11-18-1	lob:Upcoming Critical PHP Security Release (18 Nov 2026)
+fea5afa57275b0837284882c19f25d85	2026-11-19	https://spectralorbit.com/blog/satelital_game_engine	lob:How I made a custom game engine for Satelital
+ce05194f2cf5a2ab0f6e554450803304	2026-11-19	https://www.solidjs.com/blog/solid-2-0-the-long-hold	lob:Solid 2.0
+ef6ca5c8453243b45c389b4e806c2ffd	2026-11-19	https://savyasacheejha.com/posts/why-odhcpd/	lob:IPv6 delegation, an unusually subtle failure mode
+6b334caf27f3d81607b1baaa3f31a8ce	2026-11-19	https://gregoire.dev/writing/gus/	lob:FreeBSD GUS
+29878fafe0bd569f4aae601d3f5f5240	2026-11-19	https://entropicthoughts.com/stacked-diffs-with-maiao	lob:Stacked diffs with Maiao
+fc53eaaa759e22e95eabfa8e1a047d17	2026-11-19	https://demo.bonbonweb.org/	lob:markdownWeb
+ce1dabec922b80a3448253e9eb314059	2026-11-19	https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/	lob:Stricter checks for uploaded distributions on PyPI
+9c04acb684668d522a3d09ac3f932999	2026-11-19	https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/	lob:Accelerating development for massive Git repositories
+fbde8a504f0130028bb91e86a9025451	2026-11-19	https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/	lob:Faster CI with Orchestrated Pytest Workers
+1a284d6907ecb7ec79b0c38a976e11c7	2026-11-19	https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/	lob:For the things we can only do together - Bonfire 1.1 Release
+33def9dee4f953c576d0cd0d31945d03	2026-11-19	https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html	lob:Reversing the Next-Page Prefetcher in Skylake-X
+bab20b017a5d6ee768dbc97ef8d5973a	2026-11-19	https://www.evilgeniuslabs.org/why-fibonacci	lob:Why Fibonacci?
+a2c98622a2d00dd7738d332e367be047	2026-11-19	https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command	lob:Maak v1.0.0 :: infinitely extensible command runner, build sys in Lisp
+bcbde07d65aa2d0dc7b1d0166837c8ce	2026-11-19	https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/	lob:sysdeck: Raycast for Linux & BSD
