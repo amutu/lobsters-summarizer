@@ -1296,3 +1296,23 @@ fbde8a504f0130028bb91e86a9025451	2026-11-19	https://making.close.com/posts/faste
 bab20b017a5d6ee768dbc97ef8d5973a	2026-11-19	https://www.evilgeniuslabs.org/why-fibonacci	lob:Why Fibonacci?
 a2c98622a2d00dd7738d332e367be047	2026-11-19	https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command	lob:Maak v1.0.0 :: infinitely extensible command runner, build sys in Lisp
 bcbde07d65aa2d0dc7b1d0166837c8ce	2026-11-19	https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/	lob:sysdeck: Raycast for Linux & BSD
+cde7013171e7d3ebc15cd94edaec04a8	2026-11-20	https://jschuster.org/blog/2026/11/19/design-for-understandability/	lob:Design for Understandability
+9f0e5d677846bd14a1ad3c20b60064e5	2026-11-20	https://www.postgresql.org/about/news/postgresql-19-released-3449/	lob:PostgreSQL 19 Released
+9572bf4b63ebcee857a129b373968979	2026-11-20	https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/	lob:We Need Smart People Who Give a Shit
+957cbac7bb7f45505e2ad1871a808f07	2026-11-20	https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html	lob:Mutex poisoning is not for everyone
+a68ce681a5c69001b8ab6739155827fa	2026-11-20	https://social.anoxinon.de/@Codeberg/117636454915265360	lob:Codeberg's domain suddenly disappeared from their account, site is unreachable
+120102f3c124ab5fb9f86400f5af8183	2026-11-20	https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem	lob:Hiring a Systems Programmer for Boxem
+377fd89a4db52633d865cee96623c5e4	2026-11-20	https://xint.io/blog/nginx2root-remote-code-execution	lob:nginx2root
+4bc1539e990c86f8935d1a39714ac035	2026-11-20	https://mccue.dev/pages/11-18-26-java4shell	lob:Java4Shell is a reason to use Java
+bb44e1a91e74b78729b53fd00f6a579c	2026-11-20	https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/	lob:Type inference and narrowing with reverse arrows
+0e432129da2dcdcfbb4882d13d4ac0fa	2026-11-20	https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/	lob:Postel Awardee Dave Täht Made Every Millisecond Count
+6668c007ba6ab07a84d06c3eaf380f48	2026-11-20	https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/	lob:Visualizing a Ledger with pgledger-ui
+1f65b0edbc1274acc7ce9dad0646aa7c	2026-11-20	https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/	lob:Supporting FOSS projects to transition to memory safe tech
+811bbebe62be21092794de53ce212534	2026-11-20	https://mercurius.tebibyte.org/	lob:Mercurius — A Zero-Trust Network‑Native Window System
+5f7df16385fa79542e74a1825e57e07e	2026-11-20	https://www.php.net/index.php#2026-11-18-1	lob:Upcoming Critical PHP Security Release (18 Nov 2026)
+2a9455352c5c8c4f4fc1ffaf0918c322	2026-11-20	https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline	lob:Rebuilding my local voice assistant pipeline
+fea5afa57275b0837284882c19f25d85	2026-11-20	https://spectralorbit.com/blog/satelital_game_engine	lob:How I made a custom game engine for Satelital
+afa4638690c8842ed849a9c5dd6c0122	2026-11-20	https://xusheng.dev/posts/windows-coding-agent-telemetry/	lob:Windows 11 collects data on which coding agents and dev tools you use
+0c8f56b3a751aeb47c019892e15c43b2	2026-11-20	https://openrun.dev/blog/openrun-1.0/	lob:OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes
+6208e159c930d43e65c70a0206d0b206	2026-11-20	https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/	lob:Security advisories: multiple vulnerabilities in Regexp and String case conversion
+4adaa8da106f5d79277e3e624bdee2dd	2026-11-20	https://dl.acm.org/doi/10.1145/3830418.3843899	lob:Validating a High-Performance Cloud Object Store with Lightweight Formal Methods
