@@ -1316,3 +1316,16 @@ afa4638690c8842ed849a9c5dd6c0122	2026-11-20	https://xusheng.dev/posts/windows-co
 0c8f56b3a751aeb47c019892e15c43b2	2026-11-20	https://openrun.dev/blog/openrun-1.0/	lob:OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes
 6208e159c930d43e65c70a0206d0b206	2026-11-20	https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/	lob:Security advisories: multiple vulnerabilities in Regexp and String case conversion
 4adaa8da106f5d79277e3e624bdee2dd	2026-11-20	https://dl.acm.org/doi/10.1145/3830418.3843899	lob:Validating a High-Performance Cloud Object Store with Lightweight Formal Methods
+87fad664e823bbae326ef375be572f3c	2026-11-21	https://vim-classic.org/news/vim-8.3.1-released.html	lob:Vim Classic 8.3.1 released
+8f40a52388f7be32644c4c9d39b71cd7	2026-11-21	https://lwn.net/Articles/1102982/	lob:Removing binder.c
+69c16f01985b73ddb44e97f15bf016f6	2026-11-21	https://www.serpentine.com/posts/2026/announcing-jj-musubi/	lob:Announcing jj-musubi: live sync for Jujutsu
+846281d87af88cee2a010ee4b888d2d5	2026-11-21	https://dbushell.com/2026/11/16/visited-links/	lob:Visited links are purple
+f40166836a4cac81e93f7453ffd3eb46	2026-11-21	https://www.alicecaml.org/blog/alice-v0-6-0/	lob:Alice v0.6.0
+72ea9b003aa99f91aec99a8ffc92293c	2026-11-21	https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america	lob:Internet Archive Staffers Are Unionizing
+97e0d6b7b61f1893847dd6aa882c2afb	2026-11-21	https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+6ca9665bdc212bcdb53596c2329d725e	2026-11-21	https://ethanlowman.com/posts/jj-primer/	lob:Jujutsu Primer
+b063372052df2baea9ea8a492ac6e5ba	2026-11-21	https://www.masteringemacs.org/article/announcing-dreamcoder	lob:DreamCoder: coding harness and IDE from the author of Mastering Emacs
+559f9573f45cec46b263482f6ba35a6a	2026-11-21	https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html	lob:Lisp Game Jam devlog: Polydraw
+0efc7e2f9b69639c31664cfb6d1b5b4b	2026-11-21	https://www.dialup.net/farcall/	lob:Farcall, a terminal-ready Rust PC+DOS emulator
+e0527667458b6ed07b2c6251171801f8	2026-11-21	https://antithesis.com/blog/2026/verifying-formal-models/	lob:Verifying formal models of Raft implementations
+9667639c22418e4c7419c97920773baf	2026-11-21	https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/	lob:Persistent incrementality in Rust
