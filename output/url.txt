@@ -1329,3 +1329,14 @@ b063372052df2baea9ea8a492ac6e5ba	2026-11-21	https://www.masteringemacs.org/artic
 0efc7e2f9b69639c31664cfb6d1b5b4b	2026-11-21	https://www.dialup.net/farcall/	lob:Farcall, a terminal-ready Rust PC+DOS emulator
 e0527667458b6ed07b2c6251171801f8	2026-11-21	https://antithesis.com/blog/2026/verifying-formal-models/	lob:Verifying formal models of Raft implementations
 9667639c22418e4c7419c97920773baf	2026-11-21	https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/	lob:Persistent incrementality in Rust
+90d8f77fe3c4041054f93e5b6e9869a7	2026-11-22	https://bwc9876.dev/blog/jj_todo/	lob:TODOs JJ Style
+91dc1b20bd3a10b7d2ae386d88ebaefb	2026-11-22	https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/	lob:C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)
+38cc3ce00ddb32e20ec8fc8c025c5dc9	2026-11-22	https://antonz.org/probabilistic-data-structures-2/	lob:Probabilistic data structures in Go, part 2
+c183236837b0b60d273c75bb1b40613f	2026-11-22	https://progrium.xyz/articles/2026/single-binary-postgres	lob:How I Got Postgres into a Single Binary
+a377b7a5a520ded34f76b0d8dc85a9b8	2026-11-22	https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf	lob:Microsoft 365 Outage - Post Incident Report
+b411d39a5b0b1def6e7307672cd74f12	2026-11-22	https://blog.tenstral.net/2026/11/new-fdo-website.html	lob:Changes on freedesktop.org
+2de14a3f8a870e5d661592503af3024e	2026-11-22	https://slopstrap.mikelacher.com/l	lob:Slopstrap: Make your site look hastily vibecoded
+1d4849f3d25b88592f98c304e3292bc1	2026-11-22	https://www.youtube.com/watch?v=dXQ_9WN6KLQ	lob:How 2 Security Research (MLG)
+4a66352c04d4b5a1863fc01dcab58f74	2026-11-22	https://valkey.io/blog/from-skiplist-to-b+tree/	lob:From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient
+a910baf2dd03b980f2d9e62bdf681074	2026-11-22	https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft	lob:Scaling Git horizontally: how we moved beyond Multi-Raft
+303809f15253a8998f1283cfb97b54ba	2026-11-22	https://dnscrypt.info/stamps-specifications/	lob:DNS Stamps Specification
