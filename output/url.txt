@@ -1340,3 +1340,16 @@ b411d39a5b0b1def6e7307672cd74f12	2026-11-22	https://blog.tenstral.net/2026/11/ne
 4a66352c04d4b5a1863fc01dcab58f74	2026-11-22	https://valkey.io/blog/from-skiplist-to-b+tree/	lob:From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient
 a910baf2dd03b980f2d9e62bdf681074	2026-11-22	https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft	lob:Scaling Git horizontally: how we moved beyond Multi-Raft
 303809f15253a8998f1283cfb97b54ba	2026-11-22	https://dnscrypt.info/stamps-specifications/	lob:DNS Stamps Specification
+718dc2db66a106fb86a93a474a3db287	2026-11-23	https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/	lob:Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced
+b2687593b869106c8c9ea527bb6f1142	2026-11-23	https://www.youtube.com/watch?v=zqzk43bSdDI	lob:We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)
+853ffd0260badeca6e77cb98e673f639	2026-11-23	https://reiver.link/atproto/falsehoods-programmers-believe/	lob:Falsehoods Programmers Believe About ATProto
+a1b1510150d31ec0dd950445aef31f53	2026-11-23	https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/	lob:GitHub Actions accepts invalid YAML
+f3c3f09e75316773b3218cbff062914f	2026-11-23	https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/	lob:NixOS bring-up on an Alibaba RISC-V board
+8b3fac079c06b914545033e478725931	2026-11-23	https://dustycloud.org/blog/gliver-completes-the-guix-desktop/	lob:Gliver completes the Guix desktop
+47c67fd27e6376a1ec92c2dc81b3f054	2026-11-23	https://meshcoveragecalculator.lalala.ing/	lob:Calculate radio link placement and node amount for your city's mesh network
+e9110f20c8f26044102041b767ee643d	2026-11-23	https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/	lob:What If Netscape Did SSL the HTTP Way?
+4f37a0a2fb58333effac06468d01123a	2026-11-23	https://linebender.org/blog/next-100-guis/	lob:Advice for the next 100 Rust GUIs
+eac103869e0b5cba0ab2fa4bafa1acec	2026-11-23	https://alanpearce.eu/post/scriptura/	lob:scriptura: a cozy corner for your scripts
+6b839221816ca0df08b9007a9a908a17	2026-11-23	https://sipacid.com/blog/port-scanning-for-mojang/	lob:port scanning for mojang
+b1d2ecb7490b5d73faee4a2389bc0211	2026-11-23	https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss	lob:Fixing Google’s Feedburner problem, and caching that half works
+a2ed95a969185fdc09b697ceb6079288	2026-11-23	https://pwn.ai/upload2shell/research.html	lob:GhostScript CVE 2026-125396: "Upload2Shell"
