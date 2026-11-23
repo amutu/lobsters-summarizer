@@ -1353,3 +1353,19 @@ eac103869e0b5cba0ab2fa4bafa1acec	2026-11-23	https://alanpearce.eu/post/scriptura
 6b839221816ca0df08b9007a9a908a17	2026-11-23	https://sipacid.com/blog/port-scanning-for-mojang/	lob:port scanning for mojang
 b1d2ecb7490b5d73faee4a2389bc0211	2026-11-23	https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss	lob:Fixing Google’s Feedburner problem, and caching that half works
 a2ed95a969185fdc09b697ceb6079288	2026-11-23	https://pwn.ai/upload2shell/research.html	lob:GhostScript CVE 2026-125396: "Upload2Shell"
+a8c682f469066b5b7e7be5edeb2af3fe	2026-11-24	https://lambdacreate.com/posts/held-together-by-spare-time	lob:Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell
+14728d19c4b575de7d4b0beeb71118dc	2026-11-24	https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/	lob:Quality IMAP, Part 2: Mailbox Concurrency
+2611d3eebeb9b4d3b0f42901998a0490	2026-11-24	https://sneakernet.eu/	lob:Sneakernet
+5fe6626b8f1c52ff94f5028af61569db	2026-11-24	https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity	lob:UQ researchers send an unblockable message using gravity
+1f900ce808bcc037be8f3618929ee4ba	2026-11-24	https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week	lob:What are you doing this week?
+81b7efe26512bdcce058656b31185f26	2026-11-24	https://dave.writersweb.org/index.md	lob:Good morning and welcome to my idea of a new web
+0bf4eddefee2ae347d6a47d2088540ac	2026-11-24	https://yogthos.net/posts/2026-11-23-b+trees.html	lob:Swapping Jolt's sorted collections to a B+tree
+abf259621c62b172d6eb6b63e6273948	2026-11-24	https://gynvael.coldwind.pl/?id=766	lob:On self-healing code and the obvious issue (2023)
+fa852fbfcfcda8da8e12bd4e6cd8db9c	2026-11-24	https://wuemeli.com/blog/reversing-hitster-game/	lob:Reverse Engineering a Board Game
+a7a1d968a85b1e385282ddb1eb8b784b	2026-11-24	https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html	lob:Simple Sudoku Solver in Verilog
+c3e31346689757bec917c669ba01cf84	2026-11-24	https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/	lob:My Django on the Med 2026
+80dcafcff579b22a930ce93ffacaffb2	2026-11-24	https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511	lob:Release: Roto v0.14.0
+0e0ac0e3a10de487443d48ae62b8df07	2026-11-24	https://deadsimpletech.com/blog/illiterate-programming	lob:Illiterate Programming
+73b38ee01b34959ebc9a19328b3208c8	2026-11-24	https://noteflakes.com/articles/2026-11-22-steadfast-update-2	lob:Steadfast Update II - Rewriting ASTs
+6a70bca6cbe8c8430e26498c2c9f5b7a	2026-11-24	https://bluetooth2shell.com/	lob:Bluetooth2Shell: One tap of pairing is all it takes
+e3780de5411d40c720b2f91d4c6be0dc	2026-11-24	https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html	lob:De-fanging dangerous triggers in GitHub Actions across an organization
