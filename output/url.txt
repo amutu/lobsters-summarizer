@@ -1369,3 +1369,18 @@ c3e31346689757bec917c669ba01cf84	2026-11-24	https://www.paulox.net/2026/11/23/my
 73b38ee01b34959ebc9a19328b3208c8	2026-11-24	https://noteflakes.com/articles/2026-11-22-steadfast-update-2	lob:Steadfast Update II - Rewriting ASTs
 6a70bca6cbe8c8430e26498c2c9f5b7a	2026-11-24	https://bluetooth2shell.com/	lob:Bluetooth2Shell: One tap of pairing is all it takes
 e3780de5411d40c720b2f91d4c6be0dc	2026-11-24	https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html	lob:De-fanging dangerous triggers in GitHub Actions across an organization
+776bd5e92497957357703bb2a1f52ee7	2026-11-25	https://hex.pm/blog/security-incident-on-hexpm	lob:Security incident on Hex.pm
+2d39502199edd8d13c228189dea91199	2026-11-25	https://s.conao3.com/blog/2026/e4f733	lob:I checked Clojure's core with Lean and found 17 unreported bugs
+cab73d365b022d9bb4059e7a8f043e1c	2026-11-25	https://mastodon.social/@pervognsen/117668394962974183	lob:Per Vognsen on the effect of AVX-512 on lexing and parsing
+713f1014e40c81811135f26268f531e8	2026-11-25	https://www.friedgil.com/vpvnp/	lob:What VP != VNP Means (In 3 Minutes)
+361a95afbb6bdcde2c43b66834339a2c	2026-11-25	https://rida.dev/blog/bypassing-ios-safari-60-fps-limit	lob:Bypassing iOS Safari 60 FPS Limit
+3a5196435bdd19aafae273e3ec35a03b	2026-11-25	https://citrons.xyz/journal/2025-07-23	lob:Lua for data representation
+b3093b4f23b43167a65b7b658acd41e7	2026-11-25	https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/	lob:Beyond Linux: A Journey Through the Open Source Ecosystem
+f534775ea8486ab838c27ad7fd0f657d	2026-11-25	https://progrium.github.io/9ux/	lob:9/UX: a Macintosh-inspired desktop for 9front
+558acdbc61739f542db61235c8c78d29	2026-11-25	https://ii4gsp.github.io/iterm2-rce/	lob:iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection
+e35fdf981f9dd2d950f5adb2ad7d324c	2026-11-25	https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html	lob:cgo's pointer check is all over the place
+e8f17f3a6300719c90f6216b0fe745d4	2026-11-25	https://antithesis.com/blog/2026/nightmare-mode/	lob:Nightmare mode: simulating disk failures
+29fde9c644efdc1b0528f00693b3ec91	2026-11-25	https://www.youtube.com/watch?v=Vi5M-uD2x_U	lob:Go Without Wires: TinyGo on ESP32
+0c01cfd2e5b991246aedaeb40f7aa856	2026-11-25	https://dotat.at/@/2025-05-28-types.html	lob:the algebra of dependent types (2025)
+97334ad74b71888ea8276b7acab47bd4	2026-11-25	https://youtu.be/MYyyhAhHgT8	lob:metro: The Documentary on Microsoft's Boldest Design
+019a29ff88be193281468839469e67b8	2026-11-25	https://upki.rustls.dev/funding.html	lob:Fund browser-grade certificate checking for every TLS client
