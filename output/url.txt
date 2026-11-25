@@ -1384,3 +1384,19 @@ e8f17f3a6300719c90f6216b0fe745d4	2026-11-25	https://antithesis.com/blog/2026/nig
 0c01cfd2e5b991246aedaeb40f7aa856	2026-11-25	https://dotat.at/@/2025-05-28-types.html	lob:the algebra of dependent types (2025)
 97334ad74b71888ea8276b7acab47bd4	2026-11-25	https://youtu.be/MYyyhAhHgT8	lob:metro: The Documentary on Microsoft's Boldest Design
 019a29ff88be193281468839469e67b8	2026-11-25	https://upki.rustls.dev/funding.html	lob:Fund browser-grade certificate checking for every TLS client
+9b05556798a99e4cc30b0bff4987467a	2026-11-26	https://www.marginalia.nu/log/a_141_marginalia_update/	lob:Marginalia Search, Money, C++, Rust, AI, stuff
+02687b8975cd20f690099dd5020ef29b	2026-11-26	https://www.openwall.com/lists/oss-security/2026/11/25/9	lob:Slow Ubuntu security response times
+fe8efe20376f3db5d8d7fae49e534a21	2026-11-26	https://donsz.nl/blog/optimizing-rustcs-next-trait-solver	lob:Optimizing Rustc's next trait solver
+b48b966dfbda445b154425821212ea28	2026-11-26	https://wheybags.com/blog/pokemon_childhood_version.html	lob:Pokemon Childhood Version: A romhack where Mew is under the truck
+d9f465859ab320688eef7d393537c339	2026-11-26	https://lucumr.pocoo.org/2026/11/25/poisoning/	lob:Abolish Lock Poisoning
+234e7d0fd95bedac78e662bf751eea1e	2026-11-26	https://servo.org/blog/2026/11/25/october-in-servo/	lob:October in Servo: video captions and inert content
+4dcb39e877eae1a53009081e885fc20a	2026-11-26	https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each	lob:Taking over US Treasury subdomains for $3 each
+2a2c072b514aa57ad61d24d79379b87a	2026-11-26	https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html	lob:Getting old Java phones online again
+77002d1399264781e53ad455026b5871	2026-11-26	https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders	lob:Dutch data protection authority advises against purchasing AI camera glasses
+0d92242c3ee1907c33276a93208fd1ed	2026-11-26	https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/	lob:Needles, Haystacks, and Numbers Between 0 and 1
+61767880bb7ed11f6ef03a11a1eb472a	2026-11-26	https://www.stylewarning.com/posts/faster-digit-extraction/	lob:A faster algorithm for extracting hexadecimal digits of π
+809e8e22a14f681e451e508a704d1097	2026-11-26	https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html	lob:From formal verification to bug-finding in CHERIoT
+5390c4468d1c19d062b965d131224a32	2026-11-26	https://blog.gordo.life/2026/04/12/haskell-websockets.html	lob:Writing a Turn Based Game Websocket Server in Haskell
+b023586cdc5bc787f6b40e38273bfe6b	2026-11-26	https://bbogovich.github.io/mockitdown/demos/	lob:mockitdown examples - user-interface mockup language like SwiftUI
+6d72ddf9ab4d5c9a3d1b62b0952bef85	2026-11-26	https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf	lob:Matrix Multiplication is Θ(n^2.25)
+9c9f4e57a02a89c25c838c8eeb25457a	2026-11-26	https://blueberrywren.dev/blog/anf-mutable/	lob:Flat/non-higher-order construction of ANF via mutable holes
