@@ -1400,3 +1400,21 @@ d9f465859ab320688eef7d393537c339	2026-11-26	https://lucumr.pocoo.org/2026/11/25/
 b023586cdc5bc787f6b40e38273bfe6b	2026-11-26	https://bbogovich.github.io/mockitdown/demos/	lob:mockitdown examples - user-interface mockup language like SwiftUI
 6d72ddf9ab4d5c9a3d1b62b0952bef85	2026-11-26	https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf	lob:Matrix Multiplication is Θ(n^2.25)
 9c9f4e57a02a89c25c838c8eeb25457a	2026-11-26	https://blueberrywren.dev/blog/anf-mutable/	lob:Flat/non-higher-order construction of ANF via mutable holes
+b45c1b1d9ab5ef2a7f47f78cb2eae095	2026-11-27	https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/	lob:Garage v2.6.0 released with web admin, v1.x EoL & other news
+29b3bf5593879a24361a2e0e79a027cd	2026-11-27	https://quin.fyi/posts/how-winhelp-files-work.html	lob:How WinHelp files work
+dc1fc9d46fd9109b1497a1e4c248ade2	2026-11-27	https://jmmv.dev/2026/11/entering-the-geminispace.html	lob:Entering the Geminispace
+e9e240f04c6be37ee530a56dc620c984	2026-11-27	https://sunshowers.io/posts/on-poisoning/	lob:In defense of lock poisoning in Rust (2025)
+a01db6f965b515bceaa6baa1accf27b7	2026-11-27	https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366	lob:Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)
+8bc80d7f9c9a6be1682a027a423f19f0	2026-11-27	https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/	lob:Typed indexes in Zig
+e234224548aff382c5349467020e46ee	2026-11-27	http://www.linux-magazine.com/Online/Features/Taking-Email-Back	lob:Taking Email Back
+1ce518985b942213399b8fd1dcb5abfc	2026-11-27	https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/	lob:Ansible Fails waiting for privilege escalation on Ubuntu 26
+865343ddb1a9b8db9dfe87530ac247f0	2026-11-27	https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value	lob:Make the Plan a Value
+3facd76ae0c102af81d89f651ddf419c	2026-11-27	https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime	lob:Browser tabs as a container runtime
+dd0b2546a9624e17310c6de51145c914	2026-11-27	https://blainehansen.me/post/mainstream-verifiable-language/	lob:The need for a formally verifiable mainstream programming language
+f05d885265cc770cad46b76238f6b7d8	2026-11-27	https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/	lob:The beauty of CSS mixins
+dbbe1703e1a617b288d5d2ff086d91e8	2026-11-27	https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002	lob:I Booted From My Tape Backup From 2002
+f18e4dd95293afda9dfa3ae25f0ada77	2026-11-27	https://www.taniwha.com/~paul/not.html	lob:Understanding "You are not expected to understand this."
+14cc9bb2f6bdf21fe9b8c0597fd01026	2026-11-27	https://amit.prasad.me/blog/ambiguous-errors	lob:Ambiguous Errors Are the Mind Killer
+db6e482c76b0d06175e21946f56e821f	2026-11-27	https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026	lob:London Meetup - 13th December 2026
+8c08a0ee02a19a6806b2d266b411ec17	2026-11-27	https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top	lob:Qualcomm’s Oryon 3 Reaches the Top
+cfcab094d57667c6b18180366d392d35	2026-11-27	https://clickhouse.com/blog/pg-plan-advice-postgresql-19	lob:Hints and hazards: pg_plan_advice in PG19
