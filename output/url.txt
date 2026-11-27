@@ -1418,3 +1418,19 @@ f18e4dd95293afda9dfa3ae25f0ada77	2026-11-27	https://www.taniwha.com/~paul/not.ht
 db6e482c76b0d06175e21946f56e821f	2026-11-27	https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026	lob:London Meetup - 13th December 2026
 8c08a0ee02a19a6806b2d266b411ec17	2026-11-27	https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top	lob:Qualcomm’s Oryon 3 Reaches the Top
 cfcab094d57667c6b18180366d392d35	2026-11-27	https://clickhouse.com/blog/pg-plan-advice-postgresql-19	lob:Hints and hazards: pg_plan_advice in PG19
+3d9dd2fdabbce0c9d6d1ae2dbe79e3d5	2026-11-28	https://roboticoverlords.org/tinyhat	lob:Tiny Hat: a new Linux distro dedicated to retro gamedev
+acf392fa0d7ebe14e9b12b7870f7cb0c	2026-11-28	https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/	lob:Hard Drive pricing has gotten bad
+eb77d176b46844a3e220ed7738fcea61	2026-11-28	https://pub.roddie.digital/3n3aavxi6hc2g	lob:Objections to .php application being published on ICANN site
+73868ef479b886e3605def29dd194ade	2026-11-28	https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/	lob:The State of Allocators in 2026 - Finally Stabilised
+4bf24701607531cd25aceb9058e839bb	2026-11-28	https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend	lob:What are you doing this weekend?
+db5f62aa7e478d4b3cd32a0c27bb5e3a	2026-11-28	https://www.buildyourownpaint.com/en	lob:Build your own Paint
+20b7f708452f3c6c8ae31a1af2b3d3a5	2026-11-28	https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da	lob:x86 is an octal machine
+361d9a4f42d4d44587626244069ef525	2026-11-28	https://system76.com/blog/post/pop_os-26-04-lts-has-landed	lob:Pop!_OS 26.04 LTS Has Landed
+8a2db1e6a844f03549ece4fb2785c699	2026-11-28	https://blog.pimalaya.org/pimalaya-goes-stable/	lob:Pimalaya goes stable
+d2a96fe4b9f502395f3da94b459eb759	2026-11-28	https://datastar-instant-intent.ndyg.cross.stream/corrosive/	lob:Why optimistic updates are corrosive
+8a1847f8e472dd1db9fae4c26329af0a	2026-11-28	https://www.well-typed.com/blog/2026/11/exception-best-practices/	lob:Exception Best Practices
+a2299065eda36e866c8d0caa5dd8a51f	2026-11-28	https://www.draketo.de/software/curb-ai-impact	lob:Curb impacts of AI on programming to maintain EU sovereignty
+3b2c2f0f0c7153330fc9f209aba5b5f7	2026-11-28	https://lia.mg/posts/measuring-company-culture-with-slack-emoji/	lob:Company Culture = Slack Emoji ÷ sqrt(Headcount)
+046d08fcc8b558a94c668e7d1f956e5d	2026-11-28	http://adrianroselli.com/2024/05/my-approach-to-alt-text.html	lob:My Approach to Alt Text (2024)
+3fbc623a44976721d945d87b717c5779	2026-11-28	https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2	lob:An Overview of Go's Tooling: Version 2
+c6aec696edf7c2a060a0dea56d0085cd	2026-11-28	https://www.imperialviolet.org/2026/11/15/proofauto2.html	lob:Proof automation in a language
